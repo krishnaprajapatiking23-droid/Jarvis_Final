@@ -1,0 +1,377 @@
+{
+  "strategies": {
+    "decompose-and-verify": {
+      "id": "8c5485bfb01a",
+      "name": "decompose-and-verify",
+      "description": "split the goal into independently checkable parts and verify each",
+      "steps": [
+        "state the finished condition in checkable terms",
+        "split into parts that can each be verified alone",
+        "order the parts by dependency",
+        "execute one part",
+        "verify that part before starting the next",
+        "stop and replan if a verification fails"
+      ],
+      "domains": [
+        "general",
+        "coding",
+        "planning",
+        "automation"
+      ],
+      "problem_pattern": [
+        "multi step",
+        "build",
+        "project",
+        "organise",
+        "release",
+        "setup"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "a part cannot be verified independently"
+      ],
+      "fallback": "hypothesis-first",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292433,
+      "last_used": 0.0
+    },
+    "hypothesis-first": {
+      "id": "90d3b1d0dec2",
+      "name": "hypothesis-first",
+      "description": "generate candidate explanations and test the cheapest discriminating one",
+      "steps": [
+        "collect the observed symptoms",
+        "generate candidate explanations",
+        "rank by prior likelihood and cost to test",
+        "run the cheapest test that separates the leaders",
+        "update confidence from the result",
+        "repeat until one explanation is supported"
+      ],
+      "domains": [
+        "troubleshooting",
+        "coding",
+        "research",
+        "general"
+      ],
+      "problem_pattern": [
+        "fail",
+        "error",
+        "broken",
+        "crash",
+        "slow",
+        "unexpected",
+        "why",
+        "diagnose"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "no test distinguishes the candidates"
+      ],
+      "fallback": "narrow-the-search-space",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292514,
+      "last_used": 0.0
+    },
+    "narrow-the-search-space": {
+      "id": "b09404a91652",
+      "name": "narrow-the-search-space",
+      "description": "halve the space of possible causes with each observation",
+      "steps": [
+        "define the space of possible causes",
+        "find an observation that splits it roughly in half",
+        "make that observation",
+        "discard the eliminated half",
+        "repeat until one candidate remains"
+      ],
+      "domains": [
+        "troubleshooting",
+        "coding",
+        "general"
+      ],
+      "problem_pattern": [
+        "somewhere",
+        "intermittent",
+        "which",
+        "find",
+        "locate",
+        "conflict"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "the space cannot be partitioned cleanly"
+      ],
+      "fallback": "gather-then-decide",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292566,
+      "last_used": 0.0
+    },
+    "gather-then-decide": {
+      "id": "31d159c812da",
+      "name": "gather-then-decide",
+      "description": "refuse to act until the missing information is collected",
+      "steps": [
+        "list what is known",
+        "list what is missing and would change the decision",
+        "collect the missing information by the cheapest safe route",
+        "re-evaluate whether the goal is still the right one",
+        "decide"
+      ],
+      "domains": [
+        "general",
+        "research",
+        "planning",
+        "business"
+      ],
+      "problem_pattern": [
+        "unclear",
+        "unknown",
+        "ambiguous",
+        "decide",
+        "compare",
+        "choose",
+        "should"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "the information is not obtainable"
+      ],
+      "fallback": "ask-the-human",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292607,
+      "last_used": 0.0
+    },
+    "reversible-first": {
+      "id": "f449a9a51597",
+      "name": "reversible-first",
+      "description": "do the undoable part last and prove the reversible part works first",
+      "steps": [
+        "separate reversible steps from irreversible ones",
+        "execute and verify every reversible step",
+        "prepare a rollback for the irreversible step",
+        "request approval for the irreversible step",
+        "execute it only after approval",
+        "verify and keep the rollback available"
+      ],
+      "domains": [
+        "automation",
+        "general",
+        "coding"
+      ],
+      "problem_pattern": [
+        "delete",
+        "remove",
+        "overwrite",
+        "migrate",
+        "install",
+        "clean",
+        "reset"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "no rollback is possible"
+      ],
+      "fallback": "ask-the-human",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.729265,
+      "last_used": 0.0
+    },
+    "ask-the-human": {
+      "id": "02d39f8d8c0d",
+      "name": "ask-the-human",
+      "description": "stop and get the missing decision from the person",
+      "steps": [
+        "state precisely what is unknown or unsafe",
+        "state what each option would do",
+        "ask one specific question",
+        "wait for the answer",
+        "proceed under the answer"
+      ],
+      "domains": [
+        "general"
+      ],
+      "problem_pattern": [
+        "permission",
+        "risky",
+        "unsure",
+        "ambiguous",
+        "credential",
+        "external"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "the human is unavailable"
+      ],
+      "fallback": "",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292693,
+      "last_used": 0.0
+    },
+    "adapt-known-procedure": {
+      "id": "fbf1330675d1",
+      "name": "adapt-known-procedure",
+      "description": "take a procedure that worked on a structurally similar problem and adjust it",
+      "steps": [
+        "abstract the current problem to its structure",
+        "find a past problem with the same structure",
+        "list where the two differ",
+        "adjust the procedure for each difference",
+        "run it on the smallest possible case first",
+        "verify, then apply fully"
+      ],
+      "domains": [
+        "general",
+        "coding",
+        "automation",
+        "research"
+      ],
+      "problem_pattern": [
+        "similar",
+        "like",
+        "again",
+        "another",
+        "same",
+        "new",
+        "unfamiliar"
+      ],
+      "preconditions": [],
+      "constraints": [],
+      "failure_modes": [
+        "the structural match was superficial"
+      ],
+      "fallback": "gather-then-decide",
+      "attempts": 0,
+      "successes": 0,
+      "success_rate": 0.5,
+      "avg_duration": 0.0,
+      "consecutive_failures": 0,
+      "deprecated": false,
+      "replaced_by": "",
+      "proven": false,
+      "source": "seed",
+      "created": 1789724646.7292736,
+      "last_used": 0.0
+    }
+  },
+  "decisions": [
+    {
+      "problem": "make my project ready for release",
+      "domain": "general",
+      "selected": "decompose-and-verify",
+      "score": 0.3577,
+      "reason": "pattern fit 0.33; never tried",
+      "considered": [
+        {
+          "name": "decompose-and-verify",
+          "score": 0.3577,
+          "reason": "pattern fit 0.33; never tried"
+        }
+      ],
+      "at": 1789724837.6971169
+    },
+    {
+      "problem": "organise my downloads folder",
+      "domain": "automation",
+      "selected": "decompose-and-verify",
+      "score": 0.2915,
+      "reason": "pattern fit 0.21; never tried",
+      "considered": [
+        {
+          "name": "decompose-and-verify",
+          "score": 0.2915,
+          "reason": "pattern fit 0.21; never tried"
+        }
+      ],
+      "at": 1789724837.6985915
+    },
+    {
+      "problem": "the build keeps failing with a ModuleNotFoundError",
+      "domain": "coding",
+      "selected": "decompose-and-verify",
+      "score": 0.2664,
+      "reason": "pattern fit 0.17; never tried",
+      "considered": [
+        {
+          "name": "decompose-and-verify",
+          "score": 0.2664,
+          "reason": "pattern fit 0.17; never tried"
+        },
+        {
+          "name": "hypothesis-first",
+          "score": 0.2644,
+          "reason": "pattern fit 0.16; never tried"
+        }
+      ],
+      "at": 1789724837.6999457
+    },
+    {
+      "problem": "delete C:/temp/old.log",
+      "domain": "general",
+      "selected": "reversible-first",
+      "score": 0.2664,
+      "reason": "pattern fit 0.17; never tried",
+      "considered": [
+        {
+          "name": "reversible-first",
+          "score": 0.2664,
+          "reason": "pattern fit 0.17; never tried"
+        }
+      ],
+      "at": 1789724837.7012308
+    }
+  ],
+  "saved": 1789802879.7218666
+}

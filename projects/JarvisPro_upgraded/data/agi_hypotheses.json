@@ -1,0 +1,61 @@
+{
+  "hypotheses": {
+    "055baa6bd19f": {
+      "id": "055baa6bd19f",
+      "statement": "this problem is an instance of missing_prerequisite: an action fails when something it depends on does not exist; verify prerequisites before acting, not after",
+      "status": "untested",
+      "prior": 0.53,
+      "confidence": 0.53,
+      "level": "unknown",
+      "related_entities": [],
+      "related_goals": [],
+      "tests": [
+        "does everything this step depends on exist?"
+      ],
+      "cause": "",
+      "effect": "",
+      "created": 1789733214.1528196,
+      "updated": 1789733214.1528199,
+      "belief": {
+        "value": true,
+        "prior": 0.53,
+        "assumptions": [],
+        "source": "hypothesis",
+        "updated": 1789733214.1528244,
+        "freshness": 1.0,
+        "evidence": []
+      },
+      "evidence_for": 0,
+      "evidence_against": 0
+    },
+    "1f99d7da5090": {
+      "id": "1f99d7da5090",
+      "statement": "the task cannot be completed until the scope that 'all' covers is established",
+      "status": "untested",
+      "prior": 0.6,
+      "confidence": 0.6,
+      "level": "likely",
+      "related_entities": [],
+      "related_goals": [],
+      "tests": [
+        "attempt to establish the scope that 'all' covers"
+      ],
+      "cause": "",
+      "effect": "",
+      "created": 1789733214.1534054,
+      "updated": 1789733214.1534057,
+      "belief": {
+        "value": true,
+        "prior": 0.6,
+        "assumptions": [],
+        "source": "hypothesis",
+        "updated": 1789733214.1534097,
+        "freshness": 1.0,
+        "evidence": []
+      },
+      "evidence_for": 0,
+      "evidence_against": 0
+    }
+  },
+  "saved": 1789733214.1534362
+}

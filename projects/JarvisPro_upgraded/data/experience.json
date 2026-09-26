@@ -1,0 +1,345 @@
+{
+    "commands": [
+        {
+            "command": "open chrome.",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-18 08:28:55"
+        },
+        {
+            "command": "asdkjhasd qwe zzz",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:28:55"
+        },
+        {
+            "command": "show my running tasks.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:28:55"
+        },
+        {
+            "command": "open chrome.",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "search the web for python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "take a screenshot.",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "who am i?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "lock jarvis.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "create a workflow for study.",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "show system health.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "break this goal into tasks.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:29:21"
+        },
+        {
+            "command": "open chrome.",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "search the web and compare three sources.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "take a screenshot and tell me what is on the screen.",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "who am i?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "lock jarvis.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "switch to guest mode.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "create a workflow for my daily study routine.",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "run this task in the background.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "cancel the running task.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "show system health.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "show ai model status.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "break this goal into tasks.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "send this command to my phone.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "why did that task fail?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:34:00"
+        },
+        {
+            "command": "show my running tasks.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:39:55"
+        },
+        {
+            "command": "show my running tasks.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:39:55"
+        },
+        {
+            "command": "cancel the running task.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:40:18"
+        },
+        {
+            "command": "what do you know about my preferences?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:45:10"
+        },
+        {
+            "command": "i don't do this anymore.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:45:10"
+        },
+        {
+            "command": "update my study routine.",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:45:10"
+        },
+        {
+            "command": "what do you know about my preferences?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:47:47"
+        },
+        {
+            "command": "show my preferences.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:47:47"
+        },
+        {
+            "command": "what do you know about me?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-18 08:47:47"
+        },
+        {
+            "command": "what is the capital of france?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-18 08:47:47"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-19 12:56:16"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-19 12:56:16"
+        },
+        {
+            "command": "open paint",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-19 12:56:18"
+        },
+        {
+            "command": "open notepad and in new file write a letter for to principal for i was absent in yeterday",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-19 19:33:35"
+        },
+        {
+            "command": "hello what are the features in you",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 19:36:02"
+        },
+        {
+            "command": "open file",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-19 19:38:01"
+        },
+        {
+            "command": "open whatsapp and open the pinki contact and mesaage \"hello\"",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-19 19:42:09"
+        },
+        {
+            "command": "open whatsapp",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-19 19:43:42"
+        },
+        {
+            "command": "open youtube",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-09-19 19:45:12"
+        },
+        {
+            "command": "open paint",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-19 19:47:31"
+        },
+        {
+            "command": "write a code for print hello in python",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 19:49:31"
+        },
+        {
+            "command": "in java",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 19:53:33"
+        },
+        {
+            "command": "okk you can talk in hindi",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 19:55:52"
+        },
+        {
+            "command": "aur batao kaise ho tu",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 19:58:22"
+        },
+        {
+            "command": "what can you do?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 20:04:44"
+        },
+        {
+            "command": "in shot explain me",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 20:10:08"
+        },
+        {
+            "command": "give me a short answer about artificial intelligence.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 20:13:06"
+        },
+        {
+            "command": "what was my favorite color?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 20:15:43"
+        },
+        {
+            "command": "my name is krishna.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 20:18:05"
+        },
+        {
+            "command": "i like computers.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-19 20:20:33"
+        },
+        {
+            "command": "why do i like computers?",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-09-19 20:24:04"
+        }
+    ],
+    "statistics": {},
+    "mistakes": [],
+    "successes": [],
+    "predictions": {},
+    "habits": {}
+}

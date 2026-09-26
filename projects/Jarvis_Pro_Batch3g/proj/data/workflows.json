@@ -1,0 +1,37 @@
+{
+  "unit test routine": {
+    "name": "unit test routine",
+    "description": "unit test workflow",
+    "steps": [
+      {
+        "action": "run system_status",
+        "tool": "system_status",
+        "arguments": {}
+      },
+      {
+        "action": "summarise the result",
+        "tool": "",
+        "arguments": {}
+      }
+    ],
+    "created": 1789301387.7526567,
+    "updated": 1789480576.4368708,
+    "runs": 0,
+    "last_run": 0
+  },
+  "unit run routine": {
+    "name": "unit run routine",
+    "description": "",
+    "steps": [
+      {
+        "action": "run system_status",
+        "tool": "system_status",
+        "arguments": {}
+      }
+    ],
+    "created": 1789301387.7536495,
+    "updated": 1789480576.4379902,
+    "runs": 10,
+    "last_run": 1789480576.4400923
+  }
+}

@@ -1,0 +1,14961 @@
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro
+    delete_owner.py
+    jarvis.py
+    main.py
+    run_voice.py
+    test_agents.py
+    test_ai.py
+    test_all.py
+    test_app.py
+    test_apps.py
+    test_brain.py
+    test_brains.py
+    test_business.py
+    test_business_planner.py
+    test_clipboard.py
+    test_cmd.py
+    test_coding.py
+    test_conversation.py
+    test_emotion.py
+    test_engine.py
+    test_history.py
+    test_image_reader.py
+    test_intelligence.py
+    test_jarvis_llm.py
+    test_keyboard.py
+    test_listener.py
+    test_llm.py
+    test_manager.py
+    test_memory.py
+    test_mic.py
+    test_mission.py
+    test_mouse.py
+    test_ocr.py
+    test_planner.py
+    test_projects.py
+    test_recognizer.py
+    test_recorder.py
+    test_report.py
+    test_router.py
+    test_satisfaction.py
+    test_screenshot.py
+    test_screen_reader.py
+    test_speaker.py
+    test_sprint_a1.py
+    test_sprint_a2.py
+    test_sprint_a3.py
+    test_style.py
+    test_tasks.py
+    test_task_panel.py
+    test_tools.py
+    test_visitor.py
+    test_voice.py
+    test_voice_engine.py
+    test_voice_manager.py
+    test_wake_word.py
+    test_windows.py
+    test_windows_control.py
+    test_workspace.py
+    Untitled-1.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages
+    isympy.py
+    pefile.py
+    peutils.py
+    pythoncom.py
+    six.py
+    sounddevice.py
+    soundfile.py
+    typing_extensions.py
+    _sounddevice.py
+    _soundfile.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\adodbapi
+    adodbapi.py
+    ado_consts.py
+    apibase.py
+    is64bit.py
+    process_connect_string.py
+    schema_table.py
+    setup.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\adodbapi\examples
+    db_print.py
+    db_table_names.py
+    xls_read.py
+    xls_write.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\adodbapi\test
+    adodbapitest.py
+    adodbapitestconfig.py
+    dbapi20.py
+    is64bit.py
+    setuptestframework.py
+    test_adodbapi_dbapi20.py
+    tryconnection.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohappyeyeballs
+    impl.py
+    types.py
+    utils.py
+    _staggered.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohappyeyeballs-2.7.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohappyeyeballs-2.7.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp
+    abc.py
+    base_protocol.py
+    client.py
+    client_exceptions.py
+    client_middlewares.py
+    client_middleware_digest_auth.py
+    client_proto.py
+    client_reqrep.py
+    client_ws.py
+    compression_utils.py
+    connector.py
+    cookiejar.py
+    formdata.py
+    hdrs.py
+    helpers.py
+    http.py
+    http_exceptions.py
+    http_parser.py
+    http_websocket.py
+    http_writer.py
+    log.py
+    multipart.py
+    payload.py
+    payload_streamer.py
+    pytest_plugin.py
+    resolver.py
+    streams.py
+    tcp_helpers.py
+    test_utils.py
+    tracing.py
+    typedefs.py
+    web.py
+    web_app.py
+    web_exceptions.py
+    web_fileresponse.py
+    web_log.py
+    web_middlewares.py
+    web_protocol.py
+    web_request.py
+    web_response.py
+    web_routedef.py
+    web_runner.py
+    web_server.py
+    web_urldispatcher.py
+    web_ws.py
+    worker.py
+    _cookie_helpers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp\.hash
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp\_websocket
+    helpers.py
+    models.py
+    reader.py
+    reader_c.py
+    reader_py.py
+    writer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp\_websocket\.hash
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp-3.14.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp-3.14.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp-3.14.1.dist-info\licenses\vendor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiohttp-3.14.1.dist-info\licenses\vendor\llhttp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiosignal
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiosignal-1.4.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\aiosignal-1.4.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\altgraph
+    Dot.py
+    Graph.py
+    GraphAlgo.py
+    GraphStat.py
+    GraphUtil.py
+    ObjectGraph.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\altgraph-0.17.5.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_doc
+    main.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_doc-0.0.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_doc-0.0.4.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_types
+    test_cases.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_types-0.7.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\annotated_types-0.7.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio
+    from_thread.py
+    functools.py
+    itertools.py
+    lowlevel.py
+    pytest_plugin.py
+    to_interpreter.py
+    to_process.py
+    to_thread.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio\abc
+    _eventloop.py
+    _resources.py
+    _sockets.py
+    _streams.py
+    _subprocesses.py
+    _tasks.py
+    _testing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio\streams
+    buffered.py
+    file.py
+    memory.py
+    stapled.py
+    text.py
+    tls.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio\_backends
+    _asyncio.py
+    _trio.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio\_core
+    _asyncio_selector_thread.py
+    _contextmanagers.py
+    _eventloop.py
+    _exceptions.py
+    _fileio.py
+    _resources.py
+    _signals.py
+    _sockets.py
+    _streams.py
+    _subprocesses.py
+    _synchronization.py
+    _tasks.py
+    _tempfile.py
+    _testing.py
+    _typedattr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio-4.14.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\anyio-4.14.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\attr
+    converters.py
+    exceptions.py
+    filters.py
+    setters.py
+    validators.py
+    _cmp.py
+    _compat.py
+    _config.py
+    _funcs.py
+    _make.py
+    _next_gen.py
+    _version_info.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\attrs
+    converters.py
+    exceptions.py
+    filters.py
+    setters.py
+    validators.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\attrs-26.1.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\attrs-26.1.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av
+    about.py
+    bitstream.py
+    buffer.py
+    datasets.py
+    device.py
+    dictionary.py
+    error.py
+    format.py
+    frame.py
+    index.py
+    logging.py
+    opaque.py
+    packet.py
+    plane.py
+    stream.py
+    utils.py
+    _core.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\audio
+    codeccontext.py
+    fifo.py
+    format.py
+    frame.py
+    layout.py
+    plane.py
+    resampler.py
+    stream.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\codec
+    codec.py
+    context.py
+    hwaccel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\container
+    core.py
+    input.py
+    output.py
+    pyio.py
+    streams.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\filter
+    context.py
+    filter.py
+    graph.py
+    link.py
+    loudnorm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\sidedata
+    encparams.py
+    motionvectors.py
+    sidedata.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\subtitles
+    codeccontext.py
+    stream.py
+    subtitle.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av\video
+    codeccontext.py
+    format.py
+    frame.py
+    plane.py
+    reformatter.py
+    stream.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av-18.0.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av-18.0.0.dist-info\licenses
+    AUTHORS.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\av.libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\beautifulsoup4-4.15.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\beautifulsoup4-4.15.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\bidi
+    algorithm.py
+    mirror.py
+    wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\blinker
+    base.py
+    _utilities.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\blinker-1.9.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\bs4
+    css.py
+    dammit.py
+    diagnose.py
+    element.py
+    exceptions.py
+    filter.py
+    formatter.py
+    _deprecation.py
+    _typing.py
+    _warnings.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\bs4\builder
+    _html5lib.py
+    _htmlparser.py
+    _lxml.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\certifi
+    core.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\certifi-2026.6.17.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\certifi-2026.6.17.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cffi
+    api.py
+    backend_ctypes.py
+    cffi_opcode.py
+    commontypes.py
+    cparser.py
+    error.py
+    ffiplatform.py
+    lock.py
+    model.py
+    pkgconfig.py
+    recompiler.py
+    setuptools_ext.py
+    vengine_cpy.py
+    vengine_gen.py
+    verifier.py
+    _imp_emulation.py
+    _shimmed_dist_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cffi-2.0.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cffi-2.0.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\charset_normalizer
+    api.py
+    cd.py
+    constant.py
+    legacy.py
+    md.py
+    models.py
+    utils.py
+    version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\charset_normalizer\cli
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\charset_normalizer-3.4.7.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\charset_normalizer-3.4.7.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\click
+    core.py
+    decorators.py
+    exceptions.py
+    formatting.py
+    globals.py
+    parser.py
+    shell_completion.py
+    termui.py
+    testing.py
+    types.py
+    utils.py
+    _compat.py
+    _termui_impl.py
+    _textwrap.py
+    _utils.py
+    _winconsole.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\click-8.4.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\click-8.4.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\colorama
+    ansi.py
+    ansitowin32.py
+    initialise.py
+    win32.py
+    winterm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\colorama\tests
+    ansitowin32_test.py
+    ansi_test.py
+    initialise_test.py
+    isatty_test.py
+    utils.py
+    winterm_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\colorama-0.4.6.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\colorama-0.4.6.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes
+    automation.py
+    clear_cache.py
+    connectionpoints.py
+    errorinfo.py
+    git.py
+    GUID.py
+    hresult.py
+    logutil.py
+    malloc.py
+    messageloop.py
+    patcher.py
+    persist.py
+    safearray.py
+    shelllink.py
+    stream.py
+    typeinfo.py
+    util.py
+    viewobject.py
+    _comobject.py
+    _memberspec.py
+    _meta.py
+    _npsupport.py
+    _safearray.py
+    _tlib_version_checker.py
+    _vtbl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\client
+    dynamic.py
+    lazybind.py
+    _activeobj.py
+    _code_cache.py
+    _constants.py
+    _create.py
+    _events.py
+    _generate.py
+    _managing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\gen
+    SpeechLib.py
+    stdole.py
+    UIAutomationClient.py
+    _00020430_0000_0000_C000_000000000046_0_2_0.py
+    _944DE083_8FB8_45CF_BCB7_C477ACB2F897_0_1_0.py
+    _C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\server
+    automation.py
+    connectionpoints.py
+    inprocserver.py
+    localserver.py
+    register.py
+    w_getopt.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\test
+    find_memleak.py
+    gdi_helper.py
+    monikers_helper.py
+    runtests.py
+    setup.py
+    TestComServer.py
+    TestDispServer.py
+    test_agilent.py
+    test_avmc.py
+    test_basic.py
+    test_bctx.py
+    test_BSTR.py
+    test_casesensitivity.py
+    test_classfactory.py
+    test_clear_cache.py
+    test_client.py
+    test_client_dynamic.py
+    test_client_regenerate_modules.py
+    test_collections.py
+    test_comobject.py
+    test_comserver.py
+    test_connectionpoints.py
+    test_createwrappers.py
+    test_dict.py
+    test_dispifc_records.py
+    test_dispifc_safearrays.py
+    test_dispinterface.py
+    test_DISPPARAMS.py
+    test_dyndispatch.py
+    test_errorinfo.py
+    test_eventinterface.py
+    test_excel.py
+    test_findgendir.py
+    test_getactiveobj.py
+    test_git.py
+    test_GUID.py
+    test_hresult.py
+    test_ienum.py
+    test_imfattributes.py
+    test_inout_args.py
+    test_logutil.py
+    test_malloc.py
+    test_messageloop.py
+    test_midl_safearray_create.py
+    test_moniker.py
+    test_msscript.py
+    test_npsupport.py
+    test_outparam.py
+    test_persist.py
+    test_pump_events.py
+    test_puredispatch.py
+    test_QueryService.py
+    test_recordinfo.py
+    test_rot.py
+    test_safearray.py
+    test_sapi.py
+    test_server.py
+    test_server_automation.py
+    test_server_register.py
+    test_shelllink.py
+    test_showevents.py
+    test_storage.py
+    test_stream.py
+    test_subinterface.py
+    test_typeannotator.py
+    test_typeinfo.py
+    test_typeinfo_create.py
+    test_urlhistory.py
+    test_util.py
+    test_variant.py
+    test_variant_outparam.py
+    test_viewobject.py
+    test_win32com_interop.py
+    test_word.py
+    test_w_getopt.py
+    time_structs_helper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\tools
+    tlbparser.py
+    typedesc.py
+    typedesc_base.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\tools\codegenerator
+    codegenerator.py
+    comments.py
+    heads.py
+    helpers.py
+    modulenamer.py
+    namespaces.py
+    packing.py
+    typeannotator.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes\_post_coinit
+    activeobj.py
+    bstr.py
+    instancemethod.py
+    misc.py
+    unknwn.py
+    _cominterface_meta_patcher.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes-1.4.16.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\comtypes-1.4.16.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ctranslate2
+    extensions.py
+    logging.py
+    version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ctranslate2\converters
+    converter.py
+    eole_ct2.py
+    fairseq.py
+    marian.py
+    openai_gpt2.py
+    opennmt_py.py
+    opennmt_tf.py
+    opus_mt.py
+    transformers.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ctranslate2\models
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ctranslate2\specs
+    attention_spec.py
+    common_spec.py
+    model_spec.py
+    transformer_spec.py
+    wav2vec2bert_spec.py
+    wav2vec2_spec.py
+    whisper_spec.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ctranslate2-4.8.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2
+    config-3.py
+    config.py
+    load_config_py2.py
+    load_config_py3.py
+    version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\aruco
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\barcode
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\ccm
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\dnn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\Error
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\fisheye
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\flann
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\core\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\core\fluid
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\core\ocl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\ie
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\ie\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\imgproc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\imgproc\fluid
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\oak
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\onnx
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\onnx\ep
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\ot
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\ot\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\ov
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\own
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\own\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\render
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\render\ocv
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\streaming
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\video
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\wip
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\wip\draw
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\wip\gst
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\gapi\wip\onevpl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\instr
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\ipp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\mat_wrapper
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\mcc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\misc
+    version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\ml
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\ocl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\ogl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\parallel
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\samples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\segmentation
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\typing
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\utils
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\utils\fs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\utils\logging
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\utils\nested
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\cv2\videoio_registry
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\dotenv
+    cli.py
+    ipython.py
+    main.py
+    parser.py
+    variables.py
+    version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr
+    cli.py
+    config.py
+    craft.py
+    craft_utils.py
+    detection.py
+    detection_db.py
+    easyocr.py
+    export.py
+    imgproc.py
+    recognition.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\character
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet
+    DBNet.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets\ops
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets\ops\dcn
+    setup.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets\ops\dcn\functions
+    deform_conv.py
+    deform_pool.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets\ops\dcn\modules
+    deform_conv.py
+    deform_pool.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\assets\ops\dcn\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\backbones
+    mobilenetv3.py
+    resnet.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\configs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\decoders
+    balance_cross_entropy_loss.py
+    dice_loss.py
+    feature_attention.py
+    l1_loss.py
+    pss_loss.py
+    seg_detector.py
+    seg_detector_asf.py
+    seg_detector_loss.py
+    simple_detection.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\DBNet\model
+    constructor.py
+    detector.py
+    model.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\model
+    model.py
+    modules.py
+    vgg_model.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr\scripts
+    compile_dbnet_dcn.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\easyocr-1.7.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\edge_playback
+    util.py
+    win32_playback.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\edge_tts
+    communicate.py
+    constants.py
+    data_classes.py
+    drm.py
+    exceptions.py
+    srt_composer.py
+    submaker.py
+    typing.py
+    util.py
+    version.py
+    voices.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\edge_tts-7.2.8.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\edge_tts-7.2.8.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\faster_whisper
+    audio.py
+    feature_extractor.py
+    tokenizer.py
+    transcribe.py
+    utils.py
+    vad.py
+    version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\faster_whisper\assets
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\faster_whisper-1.2.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\filelock
+    asyncio.py
+    version.py
+    _api.py
+    _async_read_write.py
+    _error.py
+    _read_write.py
+    _soft.py
+    _unix.py
+    _util.py
+    _windows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\filelock\_soft_rw
+    _async.py
+    _sync.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\filelock-3.29.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\filelock-3.29.4.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flask
+    app.py
+    blueprints.py
+    cli.py
+    config.py
+    ctx.py
+    debughelpers.py
+    globals.py
+    helpers.py
+    logging.py
+    sessions.py
+    signals.py
+    templating.py
+    testing.py
+    typing.py
+    views.py
+    wrappers.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flask\json
+    provider.py
+    tag.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flask\sansio
+    app.py
+    blueprints.py
+    scaffold.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flask-3.1.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flask-3.1.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flatbuffers
+    builder.py
+    compat.py
+    encode.py
+    flexbuffers.py
+    number_types.py
+    packer.py
+    table.py
+    util.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\flatbuffers-25.12.19.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\frozenlist
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\frozenlist-1.8.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\frozenlist-1.8.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec
+    archive.py
+    asyn.py
+    caching.py
+    callbacks.py
+    compression.py
+    config.py
+    conftest.py
+    core.py
+    dircache.py
+    exceptions.py
+    fuse.py
+    generic.py
+    gui.py
+    json.py
+    mapping.py
+    parquet.py
+    registry.py
+    spec.py
+    transaction.py
+    utils.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec\implementations
+    arrow.py
+    asyn_wrapper.py
+    cached.py
+    cache_mapper.py
+    cache_metadata.py
+    chained.py
+    dask.py
+    data.py
+    dbfs.py
+    dirfs.py
+    ftp.py
+    gist.py
+    git.py
+    github.py
+    http.py
+    http_sync.py
+    jupyter.py
+    libarchive.py
+    local.py
+    memory.py
+    reference.py
+    sftp.py
+    smb.py
+    tar.py
+    webhdfs.py
+    zip.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec\tests
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec\tests\abstract
+    common.py
+    copy.py
+    get.py
+    mv.py
+    open.py
+    pipe.py
+    put.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec-2026.6.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\fsspec-2026.6.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\compile
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\dim
+    magic_trace.py
+    op_properties.py
+    wrap_type.py
+    _dim_entry.py
+    _enable_all_layers.py
+    _getsetitem.py
+    _order.py
+    _py_inst_decoder.py
+    _tensor_info.py
+    _wrap.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\einops
+    rearrange.py
+    _parsing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\experimental
+    control_flow.py
+    ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\_src
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\_src\aot_autograd
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\_src\eager_transforms
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\_src\make_functional
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\functorch\_src\vmap
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf
+    any.py
+    any_pb2.py
+    api_pb2.py
+    descriptor.py
+    descriptor_database.py
+    descriptor_pb2.py
+    descriptor_pool.py
+    duration.py
+    duration_pb2.py
+    empty_pb2.py
+    field_mask_pb2.py
+    json_format.py
+    message.py
+    message_factory.py
+    proto.py
+    proto_builder.py
+    proto_json.py
+    proto_text.py
+    reflection.py
+    runtime_version.py
+    service_reflection.py
+    source_context_pb2.py
+    struct_pb2.py
+    symbol_database.py
+    text_encoding.py
+    text_format.py
+    timestamp.py
+    timestamp_pb2.py
+    type_pb2.py
+    unknown_fields.py
+    wrappers_pb2.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf\compiler
+    plugin_pb2.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf\internal
+    api_implementation.py
+    builder.py
+    containers.py
+    decoder.py
+    encoder.py
+    enum_type_wrapper.py
+    extension_dict.py
+    field_mask.py
+    message_listener.py
+    python_edition_defaults.py
+    python_message.py
+    testing_refleaks.py
+    type_checkers.py
+    well_known_types.py
+    wire_format.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf\pyext
+    cpp_message.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf\testdata
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\protobuf\util
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\google\_upb
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\h11
+    _abnf.py
+    _connection.py
+    _events.py
+    _headers.py
+    _readers.py
+    _receivebuffer.py
+    _state.py
+    _util.py
+    _version.py
+    _writers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\h11-0.16.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\h11-0.16.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\hf_xet
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\hf_xet-1.5.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\hf_xet-1.5.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\hf_xet-1.5.1.dist-info\sboms
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore
+    _api.py
+    _exceptions.py
+    _models.py
+    _ssl.py
+    _synchronization.py
+    _trace.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore\_async
+    connection.py
+    connection_pool.py
+    http11.py
+    http2.py
+    http_proxy.py
+    interfaces.py
+    socks_proxy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore\_backends
+    anyio.py
+    auto.py
+    base.py
+    mock.py
+    sync.py
+    trio.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore\_sync
+    connection.py
+    connection_pool.py
+    http11.py
+    http2.py
+    http_proxy.py
+    interfaces.py
+    socks_proxy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore-1.0.9.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpcore-1.0.9.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpx
+    _api.py
+    _auth.py
+    _client.py
+    _config.py
+    _content.py
+    _decoders.py
+    _exceptions.py
+    _main.py
+    _models.py
+    _multipart.py
+    _status_codes.py
+    _types.py
+    _urlparse.py
+    _urls.py
+    _utils.py
+    __init__.py
+    __version__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpx\_transports
+    asgi.py
+    base.py
+    default.py
+    mock.py
+    wsgi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpx-0.28.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\httpx-0.28.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub
+    community.py
+    constants.py
+    dataclasses.py
+    errors.py
+    fastai_utils.py
+    file_download.py
+    hf_api.py
+    hf_file_system.py
+    hub_mixin.py
+    lfs.py
+    repocard.py
+    repocard_data.py
+    _buckets.py
+    _commit_api.py
+    _commit_scheduler.py
+    _dataset_viewer.py
+    _eval_results.py
+    _inference_endpoints.py
+    _jobs_api.py
+    _local_folder.py
+    _login.py
+    _oauth.py
+    _oidc.py
+    _snapshot_download.py
+    _space_api.py
+    _tensorboard_logger.py
+    _upload_large_folder.py
+    _upload_pipeline.py
+    _webhooks_payload.py
+    _webhooks_server.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\cli
+    auth.py
+    buckets.py
+    cache.py
+    collections.py
+    datasets.py
+    deprecated_cli.py
+    discussions.py
+    download.py
+    extensions.py
+    hf.py
+    inference_endpoints.py
+    jobs.py
+    lfs.py
+    models.py
+    papers.py
+    repos.py
+    repo_files.py
+    skills.py
+    spaces.py
+    system.py
+    upload.py
+    upload_large_folder.py
+    webhooks.py
+    _city_game.py
+    _cli_utils.py
+    _cp.py
+    _errors.py
+    _file_listing.py
+    _help_formatter.py
+    _output.py
+    _skills.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\inference
+    _client.py
+    _common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\inference\_generated
+    _async_client.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\inference\_generated\types
+    audio_classification.py
+    audio_to_audio.py
+    automatic_speech_recognition.py
+    base.py
+    chat_completion.py
+    depth_estimation.py
+    document_question_answering.py
+    feature_extraction.py
+    fill_mask.py
+    image_classification.py
+    image_segmentation.py
+    image_text_to_image.py
+    image_text_to_video.py
+    image_to_image.py
+    image_to_text.py
+    image_to_video.py
+    object_detection.py
+    question_answering.py
+    sentence_similarity.py
+    summarization.py
+    table_question_answering.py
+    text2text_generation.py
+    text_classification.py
+    text_generation.py
+    text_to_audio.py
+    text_to_image.py
+    text_to_speech.py
+    text_to_video.py
+    token_classification.py
+    translation.py
+    video_classification.py
+    visual_question_answering.py
+    zero_shot_classification.py
+    zero_shot_image_classification.py
+    zero_shot_object_detection.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\inference\_mcp
+    agent.py
+    cli.py
+    constants.py
+    mcp_client.py
+    types.py
+    utils.py
+    _cli_hacks.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\inference\_providers
+    black_forest_labs.py
+    cerebras.py
+    clarifai.py
+    cohere.py
+    deepinfra.py
+    fal_ai.py
+    featherless_ai.py
+    fireworks_ai.py
+    groq.py
+    hf_inference.py
+    hyperbolic.py
+    nebius.py
+    novita.py
+    nscale.py
+    nvidia.py
+    openai.py
+    ovhcloud.py
+    publicai.py
+    replicate.py
+    sambanova.py
+    scaleway.py
+    together.py
+    wavespeed.py
+    zai_org.py
+    _common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\serialization
+    _base.py
+    _dduf.py
+    _torch.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\templates
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\utils
+    endpoint_helpers.py
+    insecure_hashlib.py
+    logging.py
+    sha.py
+    tqdm.py
+    _auth.py
+    _cache_assets.py
+    _cache_manager.py
+    _chunk_utils.py
+    _datetime.py
+    _deprecation.py
+    _detect_agent.py
+    _dotenv.py
+    _experimental.py
+    _fixes.py
+    _git_credential.py
+    _headers.py
+    _hf_uris.py
+    _http.py
+    _lfs.py
+    _oauth_device.py
+    _pagination.py
+    _parsing.py
+    _paths.py
+    _runtime.py
+    _safetensors.py
+    _subprocess.py
+    _telemetry.py
+    _terminal.py
+    _typing.py
+    _validators.py
+    _verification.py
+    _xet.py
+    _xet_progress_reporting.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub\_hot_reload
+    client.py
+    sse_client.py
+    types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub-1.21.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\huggingface_hub-1.21.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\idna
+    cli.py
+    codec.py
+    compat.py
+    core.py
+    idnadata.py
+    intranges.py
+    package_data.py
+    uts46data.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\idna-3.18.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\idna-3.18.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio
+    freeze.py
+    testing.py
+    typing.py
+    v2.py
+    v3.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio\config
+    extensions.py
+    plugins.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio\core
+    fetching.py
+    findlib.py
+    format.py
+    imopen.py
+    legacy_plugin_wrapper.py
+    request.py
+    util.py
+    v3_plugin_api.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio\plugins
+    bsdf.py
+    dicom.py
+    example.py
+    feisem.py
+    ffmpeg.py
+    fits.py
+    freeimage.py
+    freeimagemulti.py
+    gdal.py
+    grab.py
+    lytro.py
+    npz.py
+    opencv.py
+    pillow.py
+    pillowmulti.py
+    pillow_info.py
+    pillow_legacy.py
+    pyav.py
+    rawpy.py
+    simpleitk.py
+    spe.py
+    swf.py
+    tifffile.py
+    tifffile_v3.py
+    _bsdf.py
+    _dicom.py
+    _freeimage.py
+    _swf.py
+    _tifffile.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio-2.37.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\imageio-2.37.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\isapi
+    install.py
+    isapicon.py
+    simple.py
+    threaded_extension.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\isapi\doc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\isapi\samples
+    advanced.py
+    redirector.py
+    redirector_asynch.py
+    redirector_with_filter.py
+    test.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\isapi\test
+    extension_simple.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\itsdangerous
+    encoding.py
+    exc.py
+    serializer.py
+    signer.py
+    timed.py
+    url_safe.py
+    _json.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\itsdangerous-2.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\jinja2
+    async_utils.py
+    bccache.py
+    compiler.py
+    constants.py
+    debug.py
+    defaults.py
+    environment.py
+    exceptions.py
+    ext.py
+    filters.py
+    idtracking.py
+    lexer.py
+    loaders.py
+    meta.py
+    nativetypes.py
+    nodes.py
+    optimizer.py
+    parser.py
+    runtime.py
+    sandbox.py
+    tests.py
+    utils.py
+    visitor.py
+    _identifier.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\jinja2-3.1.6.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\jinja2-3.1.6.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\keyboard
+    mouse.py
+    _canonical_names.py
+    _darwinkeyboard.py
+    _darwinmouse.py
+    _generic.py
+    _keyboard_event.py
+    _keyboard_tests.py
+    _mouse_event.py
+    _mouse_tests.py
+    _nixcommon.py
+    _nixkeyboard.py
+    _nixmouse.py
+    _winkeyboard.py
+    _winmouse.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\keyboard-0.13.5.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lazy_loader
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lazy_loader-0.5.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lazy_loader-0.5.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\licensing
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite
+    utils.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite\binding
+    analysis.py
+    common.py
+    config.py
+    context.py
+    dylib.py
+    executionengine.py
+    ffi.py
+    initfini.py
+    linker.py
+    module.py
+    newpassmanagers.py
+    object_file.py
+    options.py
+    orcjit.py
+    targets.py
+    typeref.py
+    value.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite\ir
+    builder.py
+    context.py
+    instructions.py
+    module.py
+    transforms.py
+    types.py
+    values.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite\tests
+    customize.py
+    refprune_proto.py
+    test_binding.py
+    test_ir.py
+    test_refprune.py
+    test_valuerepr.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite-0.47.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite-0.47.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\llvmlite.libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml
+    builder.py
+    cssselect.py
+    doctestcompare.py
+    ElementInclude.py
+    pyclasslookup.py
+    sax.py
+    usedoctest.py
+    _elementpath.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\html
+    builder.py
+    clean.py
+    defs.py
+    diff.py
+    ElementSoup.py
+    formfill.py
+    html5parser.py
+    soupparser.py
+    usedoctest.py
+    _diffcommand.py
+    _difflib.py
+    _html5builder.py
+    _setmixin.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\includes
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\includes\extlibs
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\includes\libexslt
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\includes\libxml
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\includes\libxslt
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\isoschematron
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\isoschematron\resources
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\isoschematron\resources\rng
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\isoschematron\resources\xsl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml\isoschematron\resources\xsl\iso-schematron-xslt1
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml-6.1.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\lxml-6.1.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it
+    main.py
+    parser_block.py
+    parser_core.py
+    parser_inline.py
+    renderer.py
+    ruler.py
+    token.py
+    tree.py
+    utils.py
+    _compat.py
+    _punycode.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\cli
+    parse.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\common
+    entities.py
+    html_blocks.py
+    html_re.py
+    normalize_url.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\helpers
+    parse_link_destination.py
+    parse_link_label.py
+    parse_link_title.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\presets
+    commonmark.py
+    default.py
+    zero.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\rules_block
+    blockquote.py
+    code.py
+    fence.py
+    heading.py
+    hr.py
+    html_block.py
+    lheading.py
+    list.py
+    paragraph.py
+    reference.py
+    state_block.py
+    table.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\rules_core
+    block.py
+    inline.py
+    linkify.py
+    normalize.py
+    replacements.py
+    smartquotes.py
+    state_core.py
+    text_join.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it\rules_inline
+    autolink.py
+    backticks.py
+    balance_pairs.py
+    emphasis.py
+    entity.py
+    escape.py
+    fragments_join.py
+    html_inline.py
+    image.py
+    link.py
+    linkify.py
+    newline.py
+    state_inline.py
+    strikethrough.py
+    text.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it_py-4.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markdown_it_py-4.2.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markupsafe
+    _native.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markupsafe-3.0.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\markupsafe-3.0.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mdurl
+    _decode.py
+    _encode.py
+    _format.py
+    _parse.py
+    _url.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mdurl-0.1.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\more_itertools
+    more.py
+    recipes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\more_itertools-11.1.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\more_itertools-11.1.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mouse
+    _generic.py
+    _mouse_event.py
+    _mouse_tests.py
+    _nixcommon.py
+    _nixmouse.py
+    _winmouse.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mouse-0.7.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mouseinfo
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mouseinfo-0.1.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath
+    ctx_base.py
+    ctx_fp.py
+    ctx_iv.py
+    ctx_mp.py
+    ctx_mp_python.py
+    function_docs.py
+    identification.py
+    math2.py
+    rational.py
+    usertools.py
+    visualization.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath\calculus
+    approximation.py
+    calculus.py
+    differentiation.py
+    extrapolation.py
+    inverselaplace.py
+    odes.py
+    optimization.py
+    polynomials.py
+    quadrature.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath\functions
+    bessel.py
+    elliptic.py
+    expintegrals.py
+    factorials.py
+    functions.py
+    hypergeometric.py
+    orthogonal.py
+    qfunctions.py
+    rszeta.py
+    signals.py
+    theta.py
+    zeta.py
+    zetazeros.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath\libmp
+    backend.py
+    gammazeta.py
+    libelefun.py
+    libhyper.py
+    libintmath.py
+    libmpc.py
+    libmpf.py
+    libmpi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath\matrices
+    calculus.py
+    eigen.py
+    eigen_symmetric.py
+    linalg.py
+    matrices.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath\tests
+    extratest_gamma.py
+    extratest_zeta.py
+    runtests.py
+    test_basic_ops.py
+    test_bitwise.py
+    test_calculus.py
+    test_compatibility.py
+    test_convert.py
+    test_diff.py
+    test_division.py
+    test_eigen.py
+    test_eigen_symmetric.py
+    test_elliptic.py
+    test_fp.py
+    test_functions.py
+    test_functions2.py
+    test_gammazeta.py
+    test_hp.py
+    test_identify.py
+    test_interval.py
+    test_levin.py
+    test_linalg.py
+    test_matrices.py
+    test_mpmath.py
+    test_ode.py
+    test_pickle.py
+    test_power.py
+    test_quad.py
+    test_rootfinding.py
+    test_special.py
+    test_str.py
+    test_summation.py
+    test_trig.py
+    test_visualization.py
+    torture.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\mpmath-1.3.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\multidict
+    _abc.py
+    _compat.py
+    _multidict_py.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\multidict-6.7.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\multidict-6.7.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx
+    conftest.py
+    convert.py
+    convert_matrix.py
+    exception.py
+    lazy_imports.py
+    relabel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms
+    asteroidal.py
+    boundary.py
+    bridges.py
+    broadcasting.py
+    chains.py
+    chordal.py
+    clique.py
+    cluster.py
+    communicability_alg.py
+    core.py
+    covering.py
+    cuts.py
+    cycles.py
+    dag.py
+    distance_measures.py
+    distance_regular.py
+    dominance.py
+    dominating.py
+    d_separation.py
+    efficiency_measures.py
+    euler.py
+    graphical.py
+    graph_hashing.py
+    hierarchy.py
+    hybrid.py
+    isolate.py
+    link_prediction.py
+    lowest_common_ancestors.py
+    matching.py
+    mis.py
+    moral.py
+    node_classification.py
+    non_randomness.py
+    perfect_graph.py
+    planarity.py
+    planar_drawing.py
+    polynomials.py
+    reciprocity.py
+    regular.py
+    richclub.py
+    similarity.py
+    simple_paths.py
+    smallworld.py
+    smetric.py
+    sparsifiers.py
+    structuralholes.py
+    summarization.py
+    swap.py
+    threshold.py
+    time_dependent.py
+    tournament.py
+    triads.py
+    vitality.py
+    voronoi.py
+    walks.py
+    wiener.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\approximation
+    clique.py
+    clustering_coefficient.py
+    connectivity.py
+    density.py
+    distance_measures.py
+    dominating_set.py
+    kcomponents.py
+    matching.py
+    maxcut.py
+    ramsey.py
+    steinertree.py
+    traveling_salesman.py
+    treewidth.py
+    vertex_cover.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\approximation\tests
+    test_approx_clust_coeff.py
+    test_clique.py
+    test_connectivity.py
+    test_density.py
+    test_distance_measures.py
+    test_dominating_set.py
+    test_kcomponents.py
+    test_matching.py
+    test_maxcut.py
+    test_ramsey.py
+    test_steinertree.py
+    test_traveling_salesman.py
+    test_treewidth.py
+    test_vertex_cover.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\assortativity
+    connectivity.py
+    correlation.py
+    mixing.py
+    neighbor_degree.py
+    pairs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\assortativity\tests
+    base_test.py
+    test_connectivity.py
+    test_correlation.py
+    test_mixing.py
+    test_neighbor_degree.py
+    test_pairs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\bipartite
+    basic.py
+    centrality.py
+    cluster.py
+    covering.py
+    edgelist.py
+    extendability.py
+    generators.py
+    link_analysis.py
+    matching.py
+    matrix.py
+    projection.py
+    redundancy.py
+    spectral.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\bipartite\tests
+    test_basic.py
+    test_centrality.py
+    test_cluster.py
+    test_covering.py
+    test_edgelist.py
+    test_extendability.py
+    test_generators.py
+    test_link_analysis.py
+    test_matching.py
+    test_matrix.py
+    test_project.py
+    test_redundancy.py
+    test_spectral_bipartivity.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\centrality
+    betweenness.py
+    betweenness_subset.py
+    closeness.py
+    current_flow_betweenness.py
+    current_flow_betweenness_subset.py
+    current_flow_closeness.py
+    degree_alg.py
+    dispersion.py
+    eigenvector.py
+    flow_matrix.py
+    group.py
+    harmonic.py
+    katz.py
+    laplacian.py
+    load.py
+    percolation.py
+    reaching.py
+    second_order.py
+    subgraph_alg.py
+    trophic.py
+    voterank_alg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\centrality\tests
+    test_betweenness_centrality.py
+    test_betweenness_centrality_subset.py
+    test_closeness_centrality.py
+    test_current_flow_betweenness_centrality.py
+    test_current_flow_betweenness_centrality_subset.py
+    test_current_flow_closeness.py
+    test_degree_centrality.py
+    test_dispersion.py
+    test_eigenvector_centrality.py
+    test_group.py
+    test_harmonic_centrality.py
+    test_katz_centrality.py
+    test_laplacian_centrality.py
+    test_load_centrality.py
+    test_percolation_centrality.py
+    test_reaching.py
+    test_second_order_centrality.py
+    test_subgraph.py
+    test_trophic.py
+    test_voterank.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\coloring
+    equitable_coloring.py
+    greedy_coloring.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\coloring\tests
+    test_coloring.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\community
+    asyn_fluid.py
+    bipartitions.py
+    centrality.py
+    community_utils.py
+    divisive.py
+    kclique.py
+    label_propagation.py
+    leiden.py
+    local.py
+    louvain.py
+    lukes.py
+    modularity_max.py
+    quality.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\community\tests
+    test_asyn_fluid.py
+    test_bipartitions.py
+    test_centrality.py
+    test_divisive.py
+    test_kclique.py
+    test_label_propagation.py
+    test_leiden.py
+    test_local.py
+    test_louvain.py
+    test_lukes.py
+    test_modularity_max.py
+    test_quality.py
+    test_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\components
+    attracting.py
+    biconnected.py
+    connected.py
+    semiconnected.py
+    strongly_connected.py
+    weakly_connected.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\components\tests
+    test_attracting.py
+    test_biconnected.py
+    test_connected.py
+    test_semiconnected.py
+    test_strongly_connected.py
+    test_weakly_connected.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\connectivity
+    connectivity.py
+    cuts.py
+    disjoint_paths.py
+    edge_augmentation.py
+    edge_kcomponents.py
+    kcomponents.py
+    kcutsets.py
+    stoerwagner.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\connectivity\tests
+    test_connectivity.py
+    test_cuts.py
+    test_disjoint_paths.py
+    test_edge_augmentation.py
+    test_edge_kcomponents.py
+    test_kcomponents.py
+    test_kcutsets.py
+    test_stoer_wagner.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\flow
+    boykovkolmogorov.py
+    capacityscaling.py
+    dinitz_alg.py
+    edmondskarp.py
+    gomory_hu.py
+    maxflow.py
+    mincost.py
+    networksimplex.py
+    preflowpush.py
+    shortestaugmentingpath.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\flow\tests
+    test_gomory_hu.py
+    test_maxflow.py
+    test_maxflow_large_graph.py
+    test_mincost.py
+    test_networksimplex.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\isomorphism
+    ismags.py
+    isomorph.py
+    isomorphvf2.py
+    matchhelpers.py
+    temporalisomorphvf2.py
+    tree_isomorphism.py
+    vf2pp.py
+    vf2userfunc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\isomorphism\tests
+    test_ismags.py
+    test_isomorphism.py
+    test_isomorphvf2.py
+    test_match_helpers.py
+    test_temporalisomorphvf2.py
+    test_tree_isomorphism.py
+    test_vf2pp.py
+    test_vf2pp_helpers.py
+    test_vf2userfunc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\link_analysis
+    hits_alg.py
+    pagerank_alg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\link_analysis\tests
+    test_hits.py
+    test_pagerank.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\minors
+    contraction.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\minors\tests
+    test_contraction.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\operators
+    all.py
+    binary.py
+    product.py
+    unary.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\operators\tests
+    test_all.py
+    test_binary.py
+    test_product.py
+    test_unary.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\shortest_paths
+    astar.py
+    dense.py
+    generic.py
+    unweighted.py
+    weighted.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\shortest_paths\tests
+    test_astar.py
+    test_dense.py
+    test_dense_numpy.py
+    test_generic.py
+    test_unweighted.py
+    test_weighted.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\tests
+    test_asteroidal.py
+    test_boundary.py
+    test_bridges.py
+    test_broadcasting.py
+    test_chains.py
+    test_chordal.py
+    test_clique.py
+    test_cluster.py
+    test_communicability.py
+    test_core.py
+    test_covering.py
+    test_cuts.py
+    test_cycles.py
+    test_dag.py
+    test_distance_measures.py
+    test_distance_regular.py
+    test_dominance.py
+    test_dominating.py
+    test_d_separation.py
+    test_efficiency.py
+    test_euler.py
+    test_graphical.py
+    test_graph_hashing.py
+    test_hierarchy.py
+    test_hybrid.py
+    test_isolate.py
+    test_link_prediction.py
+    test_lowest_common_ancestors.py
+    test_matching.py
+    test_max_weight_clique.py
+    test_mis.py
+    test_moral.py
+    test_node_classification.py
+    test_non_randomness.py
+    test_perfect_graph.py
+    test_planarity.py
+    test_planar_drawing.py
+    test_polynomials.py
+    test_reciprocity.py
+    test_regular.py
+    test_richclub.py
+    test_similarity.py
+    test_simple_paths.py
+    test_smallworld.py
+    test_smetric.py
+    test_sparsifiers.py
+    test_structuralholes.py
+    test_summarization.py
+    test_swap.py
+    test_threshold.py
+    test_time_dependent.py
+    test_tournament.py
+    test_triads.py
+    test_vitality.py
+    test_voronoi.py
+    test_walks.py
+    test_wiener.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\traversal
+    beamsearch.py
+    breadth_first_search.py
+    depth_first_search.py
+    edgebfs.py
+    edgedfs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\traversal\tests
+    test_beamsearch.py
+    test_bfs.py
+    test_dfs.py
+    test_edgebfs.py
+    test_edgedfs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\tree
+    branchings.py
+    coding.py
+    decomposition.py
+    distance_measures.py
+    mst.py
+    operations.py
+    recognition.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\algorithms\tree\tests
+    test_branchings.py
+    test_coding.py
+    test_decomposition.py
+    test_distance_measures.py
+    test_mst.py
+    test_operations.py
+    test_recognition.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\classes
+    coreviews.py
+    digraph.py
+    filters.py
+    function.py
+    graph.py
+    graphviews.py
+    multidigraph.py
+    multigraph.py
+    reportviews.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\classes\tests
+    dispatch_interface.py
+    historical_tests.py
+    test_coreviews.py
+    test_digraph.py
+    test_digraph_historical.py
+    test_filters.py
+    test_function.py
+    test_graph.py
+    test_graphviews.py
+    test_graph_historical.py
+    test_multidigraph.py
+    test_multigraph.py
+    test_reportviews.py
+    test_special.py
+    test_subgraphviews.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\drawing
+    layout.py
+    nx_agraph.py
+    nx_latex.py
+    nx_pydot.py
+    nx_pylab.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\drawing\tests
+    test_agraph.py
+    test_image_comparison_pylab_mpl.py
+    test_latex.py
+    test_layout.py
+    test_pydot.py
+    test_pylab.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\drawing\tests\baseline
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\generators
+    atlas.py
+    classic.py
+    cographs.py
+    community.py
+    degree_seq.py
+    directed.py
+    duplication.py
+    ego.py
+    expanders.py
+    geometric.py
+    harary_graph.py
+    internet_as_graphs.py
+    intersection.py
+    interval_graph.py
+    joint_degree_seq.py
+    lattice.py
+    line.py
+    mycielski.py
+    nonisomorphic_trees.py
+    random_clustered.py
+    random_graphs.py
+    small.py
+    social.py
+    spectral_graph_forge.py
+    stochastic.py
+    sudoku.py
+    time_series.py
+    trees.py
+    triads.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\generators\tests
+    test_atlas.py
+    test_classic.py
+    test_cographs.py
+    test_community.py
+    test_degree_seq.py
+    test_directed.py
+    test_duplication.py
+    test_ego.py
+    test_expanders.py
+    test_geometric.py
+    test_harary_graph.py
+    test_internet_as_graphs.py
+    test_intersection.py
+    test_interval_graph.py
+    test_joint_degree_seq.py
+    test_lattice.py
+    test_line.py
+    test_mycielski.py
+    test_nonisomorphic_trees.py
+    test_random_clustered.py
+    test_random_graphs.py
+    test_small.py
+    test_spectral_graph_forge.py
+    test_stochastic.py
+    test_sudoku.py
+    test_time_series.py
+    test_trees.py
+    test_triads.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\linalg
+    algebraicconnectivity.py
+    attrmatrix.py
+    bethehessianmatrix.py
+    graphmatrix.py
+    laplacianmatrix.py
+    modularitymatrix.py
+    spectrum.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\linalg\tests
+    test_algebraic_connectivity.py
+    test_attrmatrix.py
+    test_bethehessian.py
+    test_graphmatrix.py
+    test_laplacian.py
+    test_modularity.py
+    test_spectrum.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\readwrite
+    adjlist.py
+    edgelist.py
+    gexf.py
+    gml.py
+    graph6.py
+    graphml.py
+    leda.py
+    multiline_adjlist.py
+    p2g.py
+    pajek.py
+    sparse6.py
+    text.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\readwrite\json_graph
+    adjacency.py
+    cytoscape.py
+    node_link.py
+    tree.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\readwrite\json_graph\tests
+    test_adjacency.py
+    test_cytoscape.py
+    test_node_link.py
+    test_tree.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\readwrite\tests
+    test_adjlist.py
+    test_edgelist.py
+    test_gexf.py
+    test_gml.py
+    test_graph6.py
+    test_graphml.py
+    test_leda.py
+    test_p2g.py
+    test_pajek.py
+    test_sparse6.py
+    test_text.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\tests
+    test_all_random_functions.py
+    test_convert.py
+    test_convert_numpy.py
+    test_convert_pandas.py
+    test_convert_scipy.py
+    test_exceptions.py
+    test_import.py
+    test_lazy_imports.py
+    test_relabel.py
+    test_removed_functions_exception_messages.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\utils
+    backends.py
+    configs.py
+    decorators.py
+    heaps.py
+    mapped_queue.py
+    misc.py
+    random_sequence.py
+    rcm.py
+    union_find.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx\utils\tests
+    test_backends.py
+    test_config.py
+    test_decorators.py
+    test_heaps.py
+    test_mapped_queue.py
+    test_misc.py
+    test_random_sequence.py
+    test_rcm.py
+    test_unionfind.py
+    test__init.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx-3.6.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\networkx-3.6.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ninja
+    ninja_syntax.py
+    _version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ninja-1.13.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ninja-1.13.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba
+    extending.py
+    runtests.py
+    _version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cext
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cloudpickle
+    cloudpickle.py
+    cloudpickle_fast.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core
+    analysis.py
+    base.py
+    boxing.py
+    bytecode.py
+    byteflow.py
+    caching.py
+    callconv.py
+    callwrapper.py
+    ccallback.py
+    cgutils.py
+    codegen.py
+    compiler.py
+    compiler_lock.py
+    compiler_machinery.py
+    config.py
+    consts.py
+    controlflow.py
+    cpu.py
+    cpu_options.py
+    debuginfo.py
+    decorators.py
+    descriptors.py
+    dispatcher.py
+    entrypoints.py
+    environment.py
+    errors.py
+    event.py
+    extending.py
+    externals.py
+    fastmathpass.py
+    funcdesc.py
+    generators.py
+    imputils.py
+    inline_closurecall.py
+    interpreter.py
+    intrinsics.py
+    ir.py
+    ir_utils.py
+    itanium_mangler.py
+    llvm_bindings.py
+    lowering.py
+    object_mode_passes.py
+    optional.py
+    options.py
+    postproc.py
+    pylowering.py
+    pythonapi.py
+    registry.py
+    removerefctpass.py
+    serialize.py
+    sigutils.py
+    ssa.py
+    targetconfig.py
+    target_extension.py
+    tracing.py
+    transforms.py
+    typed_passes.py
+    typeinfer.py
+    untyped_passes.py
+    utils.py
+    withcontexts.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\annotations
+    pretty_annotate.py
+    type_annotations.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\datamodel
+    manager.py
+    models.py
+    packer.py
+    registry.py
+    testing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\rewrites
+    ir_print.py
+    registry.py
+    static_binop.py
+    static_getitem.py
+    static_raise.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\runtime
+    context.py
+    nrt.py
+    nrtdynmod.py
+    nrtopt.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\typeconv
+    castgraph.py
+    rules.py
+    typeconv.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\types
+    abstract.py
+    common.py
+    containers.py
+    functions.py
+    function_type.py
+    iterators.py
+    misc.py
+    npytypes.py
+    scalars.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\typing
+    arraydecl.py
+    asnumbatype.py
+    bufproto.py
+    builtins.py
+    cffi_utils.py
+    cmathdecl.py
+    collections.py
+    context.py
+    ctypes_utils.py
+    dictdecl.py
+    enumdecl.py
+    listdecl.py
+    mathdecl.py
+    npdatetime.py
+    npydecl.py
+    setdecl.py
+    templates.py
+    typeof.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\core\unsafe
+    bytes.py
+    eh.py
+    nrt.py
+    refcount.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cpython
+    builtins.py
+    charseq.py
+    cmathimpl.py
+    enumimpl.py
+    hashing.py
+    heapq.py
+    iterators.py
+    listobj.py
+    mathimpl.py
+    numbers.py
+    printimpl.py
+    randomimpl.py
+    rangeobj.py
+    setobj.py
+    slicing.py
+    tupleobj.py
+    unicode.py
+    unicode_support.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cpython\unsafe
+    numbers.py
+    tuple.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda
+    api.py
+    api_util.py
+    args.py
+    cg.py
+    codegen.py
+    compiler.py
+    cudadecl.py
+    cudaimpl.py
+    cudamath.py
+    cuda_paths.py
+    decorators.py
+    descriptor.py
+    deviceufunc.py
+    device_init.py
+    dispatcher.py
+    errors.py
+    extending.py
+    initialize.py
+    intrinsics.py
+    intrinsic_wrapper.py
+    libdevice.py
+    libdevicedecl.py
+    libdevicefuncs.py
+    libdeviceimpl.py
+    mathimpl.py
+    models.py
+    nvvmutils.py
+    printimpl.py
+    random.py
+    simulator_init.py
+    stubs.py
+    target.py
+    testing.py
+    types.py
+    ufuncs.py
+    vectorizers.py
+    vector_types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\cudadrv
+    devicearray.py
+    devices.py
+    driver.py
+    drvapi.py
+    dummyarray.py
+    enums.py
+    error.py
+    libs.py
+    ndarray.py
+    nvrtc.py
+    nvvm.py
+    rtapi.py
+    runtime.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\kernels
+    reduction.py
+    transpose.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\simulator
+    api.py
+    compiler.py
+    kernel.py
+    kernelapi.py
+    reduction.py
+    vector_types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\simulator\cudadrv
+    devicearray.py
+    devices.py
+    driver.py
+    drvapi.py
+    dummyarray.py
+    error.py
+    libs.py
+    nvvm.py
+    runtime.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\cudadrv
+    test_array_attr.py
+    test_context_stack.py
+    test_cuda_array_slicing.py
+    test_cuda_auto_context.py
+    test_cuda_devicerecord.py
+    test_cuda_driver.py
+    test_cuda_libraries.py
+    test_cuda_memory.py
+    test_cuda_ndarray.py
+    test_deallocations.py
+    test_detect.py
+    test_emm_plugins.py
+    test_events.py
+    test_host_alloc.py
+    test_init.py
+    test_inline_ptx.py
+    test_is_fp16.py
+    test_linker.py
+    test_managed_alloc.py
+    test_mvc.py
+    test_nvvm_driver.py
+    test_pinned.py
+    test_profiler.py
+    test_ptds.py
+    test_reset_device.py
+    test_runtime.py
+    test_select_device.py
+    test_streams.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\cudapy
+    cache_usecases.py
+    cache_with_cpu_usecases.py
+    extensions_usecases.py
+    recursion_usecases.py
+    test_alignment.py
+    test_array.py
+    test_array_args.py
+    test_array_methods.py
+    test_atomics.py
+    test_blackscholes.py
+    test_boolean.py
+    test_caching.py
+    test_casting.py
+    test_cffi.py
+    test_compiler.py
+    test_complex.py
+    test_complex_kernel.py
+    test_constmem.py
+    test_const_string.py
+    test_cooperative_groups.py
+    test_cuda_array_interface.py
+    test_cuda_jit_no_types.py
+    test_datetime.py
+    test_debug.py
+    test_debuginfo.py
+    test_device_func.py
+    test_dispatcher.py
+    test_enums.py
+    test_errors.py
+    test_exception.py
+    test_extending.py
+    test_fastmath.py
+    test_forall.py
+    test_freevar.py
+    test_frexp_ldexp.py
+    test_globals.py
+    test_gufunc.py
+    test_gufunc_scalar.py
+    test_gufunc_scheduling.py
+    test_idiv.py
+    test_inspect.py
+    test_intrinsics.py
+    test_ipc.py
+    test_iterators.py
+    test_lang.py
+    test_laplace.py
+    test_libdevice.py
+    test_lineinfo.py
+    test_localmem.py
+    test_mandel.py
+    test_math.py
+    test_matmul.py
+    test_minmax.py
+    test_montecarlo.py
+    test_multigpu.py
+    test_multiprocessing.py
+    test_multithreads.py
+    test_nondet.py
+    test_operator.py
+    test_optimization.py
+    test_overload.py
+    test_powi.py
+    test_print.py
+    test_py2_div_issue.py
+    test_random.py
+    test_record_dtype.py
+    test_recursion.py
+    test_reduction.py
+    test_retrieve_autoconverted_arrays.py
+    test_serialize.py
+    test_slicing.py
+    test_sm.py
+    test_sm_creation.py
+    test_sync.py
+    test_transpose.py
+    test_ufuncs.py
+    test_userexc.py
+    test_vectorize.py
+    test_vectorize_complex.py
+    test_vectorize_decor.py
+    test_vectorize_device.py
+    test_vectorize_scalar_arg.py
+    test_vector_type.py
+    test_warning.py
+    test_warp_ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\cudasim
+    support.py
+    test_cudasim_issues.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\doc_examples
+    test_cg.py
+    test_cpu_gpu_compat.py
+    test_ffi.py
+    test_laplace.py
+    test_matmul.py
+    test_montecarlo.py
+    test_random.py
+    test_reduction.py
+    test_sessionize.py
+    test_ufunc.py
+    test_vecadd.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\doc_examples\ffi
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\cuda\tests\nocuda
+    test_dummyarray.py
+    test_function_resolution.py
+    test_import.py
+    test_library_lookup.py
+    test_nvvm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\experimental
+    function_type.py
+    structref.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\experimental\jitclass
+    base.py
+    boxing.py
+    decorators.py
+    overloads.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\misc
+    appdirs.py
+    cffiimpl.py
+    coverage_support.py
+    dump_style.py
+    findlib.py
+    firstlinefinder.py
+    gdb_hook.py
+    gdb_print_extension.py
+    init_utils.py
+    inspection.py
+    literal.py
+    llvm_pass_timings.py
+    memoryutils.py
+    mergesort.py
+    numba_entry.py
+    numba_gdbinfo.py
+    numba_sysinfo.py
+    POST.py
+    quicksort.py
+    special.py
+    timsort.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\misc\help
+    inspector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np
+    arraymath.py
+    arrayobj.py
+    extensions.py
+    linalg.py
+    npdatetime.py
+    npdatetime_helpers.py
+    npyfuncs.py
+    npyimpl.py
+    numpy_support.py
+    ufunc_db.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np\math
+    cmathimpl.py
+    mathimpl.py
+    numbers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np\polynomial
+    polynomial_core.py
+    polynomial_functions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np\random
+    distributions.py
+    generator_core.py
+    generator_methods.py
+    random_methods.py
+    _constants.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np\ufunc
+    array_exprs.py
+    decorators.py
+    dufunc.py
+    gufunc.py
+    parallel.py
+    sigparse.py
+    ufuncbuilder.py
+    ufunc_base.py
+    wrappers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\np\unsafe
+    ndarray.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\parfors
+    array_analysis.py
+    parfor.py
+    parfor_lowering.py
+    parfor_lowering_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\pycc
+    cc.py
+    compiler.py
+    decorators.py
+    llvm_types.py
+    platform.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\scripts
+    generate_lower_listing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\stencils
+    stencil.py
+    stencilparfor.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\testing
+    loader.py
+    main.py
+    notebook.py
+    _runtests.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests
+    annotation_usecases.py
+    cache_usecases.py
+    cffi_usecases.py
+    cfunc_cache_usecases.py
+    chained_assign_usecases.py
+    cloudpickle_main_class.py
+    compile_with_pycc.py
+    complex_usecases.py
+    ctypes_usecases.py
+    doctest_usecase.py
+    dummy_module.py
+    enum_usecases.py
+    errorhandling_usecases.py
+    error_usecases.py
+    gdb_support.py
+    inlining_usecases.py
+    matmul_usecase.py
+    orphaned_semaphore_usecase.py
+    overload_usecases.py
+    parfors_cache_usecases.py
+    parfor_iss9490_usecase.py
+    pdlike_usecase.py
+    recursion_usecases.py
+    serialize_usecases.py
+    support.py
+    test_alignment.py
+    test_analysis.py
+    test_annotations.py
+    test_api.py
+    test_array_analysis.py
+    test_array_attr.py
+    test_array_constants.py
+    test_array_exprs.py
+    test_array_iterators.py
+    test_array_manipulation.py
+    test_array_methods.py
+    test_array_reductions.py
+    test_array_return.py
+    test_asnumbatype.py
+    test_auto_constants.py
+    test_blackscholes.py
+    test_boundscheck.py
+    test_buffer_protocol.py
+    test_builtins.py
+    test_byteflow.py
+    test_caching.py
+    test_casting.py
+    test_cffi.py
+    test_cfunc.py
+    test_cgutils.py
+    test_chained_assign.py
+    test_chrome_trace.py
+    test_cli.py
+    test_closure.py
+    test_codegen.py
+    test_compiler_flags.py
+    test_compiler_lock.py
+    test_compile_cache.py
+    test_complex.py
+    test_comprehension.py
+    test_conditions_as_predicates.py
+    test_config.py
+    test_conversion.py
+    test_copy_propagate.py
+    test_ctypes.py
+    test_dataflow.py
+    test_datamodel.py
+    test_debug.py
+    test_debuginfo.py
+    test_deprecations.py
+    test_dictimpl.py
+    test_dictobject.py
+    test_dicts.py
+    test_dispatcher.py
+    test_doctest.py
+    test_dyn_array.py
+    test_dyn_func.py
+    test_entrypoints.py
+    test_enums.py
+    test_errorhandling.py
+    test_errormodels.py
+    test_event.py
+    test_exceptions.py
+    test_extended_arg.py
+    test_extending.py
+    test_extending_types.py
+    test_fancy_indexing.py
+    test_fastmath.py
+    test_findlib.py
+    test_firstlinefinder.py
+    test_flow_control.py
+    test_funcdesc.py
+    test_function_type.py
+    test_func_interface.py
+    test_func_lifetime.py
+    test_gdb_bindings.py
+    test_gdb_dwarf.py
+    test_generators.py
+    test_getitem_on_types.py
+    test_gil.py
+    test_globals.py
+    test_hashing.py
+    test_heapq.py
+    test_help.py
+    test_import.py
+    test_indexing.py
+    test_init_utils.py
+    test_inlining.py
+    test_interpreter.py
+    test_interproc.py
+    test_intwidth.py
+    test_ir.py
+    test_ir_inlining.py
+    test_ir_utils.py
+    test_itanium_mangler.py
+    test_iteration.py
+    test_jitclasses.py
+    test_jitmethod.py
+    test_jit_module.py
+    test_linalg.py
+    test_listimpl.py
+    test_listobject.py
+    test_lists.py
+    test_literal_dispatch.py
+    test_llvm_pass_timings.py
+    test_llvm_version_check.py
+    test_locals.py
+    test_looplifting.py
+    test_make_function_to_jit_function.py
+    test_mandelbrot.py
+    test_mangling.py
+    test_map_filter_reduce.py
+    test_mathlib.py
+    test_maxmin.py
+    test_misc_coverage_support.py
+    test_mixed_tuple_unroller.py
+    test_moved_modules.py
+    test_multi3.py
+    test_nan.py
+    test_ndarray_subclasses.py
+    test_nested_calls.py
+    test_npdatetime.py
+    test_np_functions.py
+    test_np_randomgen.py
+    test_nrt.py
+    test_nrt_refct.py
+    test_numberctor.py
+    test_numbers.py
+    test_numconv.py
+    test_numpyadapt.py
+    test_numpy_support.py
+    test_num_threads.py
+    test_objects.py
+    test_object_mode.py
+    test_obj_lifetime.py
+    test_operators.py
+    test_optimisation_pipelines.py
+    test_optional.py
+    test_overlap.py
+    test_parallel_backend.py
+    test_parfors.py
+    test_parfors_caching.py
+    test_parfors_passes.py
+    test_pipeline.py
+    test_polynomial.py
+    test_practical_lowering_issues.py
+    test_print.py
+    test_profiler.py
+    test_pycc.py
+    test_pythonapi.py
+    test_python_int.py
+    test_random.py
+    test_range.py
+    test_recarray_usecases.py
+    test_record_dtype.py
+    test_recursion.py
+    test_refop_pruning.py
+    test_remove_dead.py
+    test_repr.py
+    test_return_values.py
+    test_runtests.py
+    test_serialize.py
+    test_sets.py
+    test_slices.py
+    test_sort.py
+    test_ssa.py
+    test_stencils.py
+    test_storeslice.py
+    test_struct_ref.py
+    test_support.py
+    test_svml.py
+    test_sysinfo.py
+    test_sys_monitoring.py
+    test_sys_stdin_assignment.py
+    test_target_extension.py
+    test_target_overloadselector.py
+    test_threadsafety.py
+    test_tracing.py
+    test_try_except.py
+    test_tuples.py
+    test_typeconv.py
+    test_typedlist.py
+    test_typedobjectutils.py
+    test_typeguard.py
+    test_typeinfer.py
+    test_typenames.py
+    test_typeof.py
+    test_types.py
+    test_typingerror.py
+    test_ufuncs.py
+    test_unicode.py
+    test_unicode_array.py
+    test_unicode_names.py
+    test_unpack_sequence.py
+    test_unpickle_without_module.py
+    test_unsafe_intrinsics.py
+    test_usecases.py
+    test_vectorization.py
+    test_vectorization_type_inference.py
+    test_warnings.py
+    test_withlifting.py
+    threading_backend_usecases.py
+    typedlist_usecases.py
+    usecases.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests\doc_examples
+    test_examples.py
+    test_interval_example.py
+    test_jitclass.py
+    test_literally_usage.py
+    test_literal_container_usage.py
+    test_llvm_pass_timings.py
+    test_numpy_generators.py
+    test_parallel_chunksize.py
+    test_rec_array.py
+    test_structref_usage.py
+    test_typed_dict_usage.py
+    test_typed_list_usage.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests\gdb
+    test_array_arg.py
+    test_basic.py
+    test_break_on_symbol.py
+    test_break_on_symbol_version.py
+    test_conditional_breakpoint.py
+    test_pretty_print.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests\npyufunc
+    cache_usecases.py
+    test_caching.py
+    test_dufunc.py
+    test_errors.py
+    test_gufunc.py
+    test_parallel_env_variable.py
+    test_parallel_low_work.py
+    test_parallel_ufunc_issues.py
+    test_ufunc.py
+    test_ufuncbuilding.py
+    test_update_inplace.py
+    test_vectorize_decor.py
+    ufuncbuilding_usecases.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests\pycc_distutils_usecase
+    setup_distutils.py
+    setup_distutils_nested.py
+    setup_setuptools.py
+    setup_setuptools_nested.py
+    source_module.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\tests\pycc_distutils_usecase\nested
+    source_module.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\typed
+    dictimpl.py
+    dictobject.py
+    listobject.py
+    typeddict.py
+    typedlist.py
+    typedobjectutils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba\types
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba-0.65.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numba-0.65.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy
+    conftest.py
+    dtypes.py
+    exceptions.py
+    matlib.py
+    version.py
+    _array_api_info.py
+    _configtool.py
+    _distributor_init.py
+    _expired_attrs_2_0.py
+    _globals.py
+    _pytesttester.py
+    __config__.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\char
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\core
+    arrayprint.py
+    defchararray.py
+    einsumfunc.py
+    fromnumeric.py
+    function_base.py
+    getlimits.py
+    multiarray.py
+    numeric.py
+    numerictypes.py
+    overrides.py
+    records.py
+    shape_base.py
+    umath.py
+    _dtype.py
+    _dtype_ctypes.py
+    _internal.py
+    _multiarray_umath.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\ctypeslib
+    _ctypeslib.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\doc
+    ufuncs.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py
+    auxfuncs.py
+    capi_maps.py
+    cb_rules.py
+    cfuncs.py
+    common_rules.py
+    crackfortran.py
+    diagnose.py
+    f2py2e.py
+    f90mod_rules.py
+    func2subr.py
+    rules.py
+    symbolic.py
+    use_rules.py
+    _isocbind.py
+    _src_pyf.py
+    __init__.py
+    __main__.py
+    __version__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests
+    test_abstract_interface.py
+    test_array_from_pyobj.py
+    test_assumed_shape.py
+    test_block_docstring.py
+    test_callback.py
+    test_capi_maps.py
+    test_character.py
+    test_common.py
+    test_crackfortran.py
+    test_data.py
+    test_docs.py
+    test_f2cmap.py
+    test_f2py2e.py
+    test_isoc.py
+    test_kind.py
+    test_mixed.py
+    test_modules.py
+    test_parameter.py
+    test_pyf_src.py
+    test_quoted_character.py
+    test_regression.py
+    test_return_character.py
+    test_return_complex.py
+    test_return_integer.py
+    test_return_logical.py
+    test_return_real.py
+    test_routines.py
+    test_semicolon_split.py
+    test_size.py
+    test_string.py
+    test_symbolic.py
+    test_value_attrspec.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\abstract_interface
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\array_from_pyobj
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\assumed_shape
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\block_docstring
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\callback
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\cli
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\common
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\crackfortran
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\f2cmap
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\isocintrin
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\kind
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\mixed
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\modules
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\modules\gh25337
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\modules\gh26920
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\negative_bounds
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\parameter
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\quoted_character
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\regression
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\return_character
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\return_complex
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\return_integer
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\return_logical
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\return_real
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\routines
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\size
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\string
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\tests\src\value_attrspec
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\f2py\_backends
+    _backend.py
+    _distutils.py
+    _meson.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\fft
+    _helper.py
+    _pocketfft.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\fft\tests
+    test_helper.py
+    test_pocketfft.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\lib
+    array_utils.py
+    format.py
+    introspect.py
+    mixins.py
+    npyio.py
+    recfunctions.py
+    scimath.py
+    stride_tricks.py
+    user_array.py
+    _arraypad_impl.py
+    _arraysetops_impl.py
+    _arrayterator_impl.py
+    _array_utils_impl.py
+    _datasource.py
+    _format_impl.py
+    _function_base_impl.py
+    _histograms_impl.py
+    _index_tricks_impl.py
+    _iotools.py
+    _nanfunctions_impl.py
+    _npyio_impl.py
+    _polynomial_impl.py
+    _scimath_impl.py
+    _shape_base_impl.py
+    _stride_tricks_impl.py
+    _twodim_base_impl.py
+    _type_check_impl.py
+    _ufunclike_impl.py
+    _user_array_impl.py
+    _utils_impl.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\lib\tests
+    test_arraypad.py
+    test_arraysetops.py
+    test_arrayterator.py
+    test_array_utils.py
+    test_format.py
+    test_function_base.py
+    test_histograms.py
+    test_index_tricks.py
+    test_io.py
+    test_loadtxt.py
+    test_mixins.py
+    test_nanfunctions.py
+    test_packbits.py
+    test_polynomial.py
+    test_recfunctions.py
+    test_regression.py
+    test_shape_base.py
+    test_stride_tricks.py
+    test_twodim_base.py
+    test_type_check.py
+    test_ufunclike.py
+    test_utils.py
+    test__datasource.py
+    test__iotools.py
+    test__version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\lib\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\linalg
+    _linalg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\linalg\tests
+    test_deprecations.py
+    test_linalg.py
+    test_regression.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\ma
+    core.py
+    extras.py
+    mrecords.py
+    testutils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\ma\tests
+    test_arrayobject.py
+    test_core.py
+    test_deprecations.py
+    test_extras.py
+    test_mrecords.py
+    test_old_ma.py
+    test_regression.py
+    test_subclassing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\matrixlib
+    defmatrix.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\matrixlib\tests
+    test_defmatrix.py
+    test_interaction.py
+    test_masked_matrix.py
+    test_matrix_linalg.py
+    test_multiarray.py
+    test_numeric.py
+    test_regression.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\polynomial
+    chebyshev.py
+    hermite.py
+    hermite_e.py
+    laguerre.py
+    legendre.py
+    polynomial.py
+    polyutils.py
+    _polybase.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\polynomial\tests
+    test_chebyshev.py
+    test_classes.py
+    test_hermite.py
+    test_hermite_e.py
+    test_laguerre.py
+    test_legendre.py
+    test_polynomial.py
+    test_polyutils.py
+    test_printing.py
+    test_symbol.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random
+    _pickle.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\lib
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\tests
+    test_direct.py
+    test_extending.py
+    test_generator_mt19937.py
+    test_generator_mt19937_regressions.py
+    test_random.py
+    test_randomstate.py
+    test_randomstate_regression.py
+    test_regression.py
+    test_seed_sequence.py
+    test_smoke.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\tests\data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\_examples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\_examples\cffi
+    extending.py
+    parse.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\_examples\cython
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\random\_examples\numba
+    extending.py
+    extending_distributions.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\rec
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\strings
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\testing
+    overrides.py
+    print_coercion_tables.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\testing\tests
+    test_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\testing\_private
+    extbuild.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\tests
+    test_configtool.py
+    test_ctypeslib.py
+    test_lazyloading.py
+    test_matlib.py
+    test_numpy_config.py
+    test_numpy_version.py
+    test_public_api.py
+    test_reloading.py
+    test_scripts.py
+    test_warnings.py
+    test__all__.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing
+    mypy_plugin.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests
+    test_isfile.py
+    test_runtime.py
+    test_typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests\data\fail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests\data\misc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests\data\pass
+    arithmetic.py
+    arrayprint.py
+    arrayterator.py
+    array_constructors.py
+    array_like.py
+    bitwise_ops.py
+    comparisons.py
+    dtype.py
+    einsumfunc.py
+    flatiter.py
+    fromnumeric.py
+    index_tricks.py
+    lib_user_array.py
+    lib_utils.py
+    lib_version.py
+    literal.py
+    ma.py
+    mod.py
+    modules.py
+    multiarray.py
+    ndarray_conversion.py
+    ndarray_misc.py
+    ndarray_shape_manipulation.py
+    nditer.py
+    numeric.py
+    numerictypes.py
+    random.py
+    recfunctions.py
+    scalars.py
+    shape.py
+    simple.py
+    ufunclike.py
+    ufuncs.py
+    ufunc_config.py
+    warnings_and_errors.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\typing\tests\data\reveal
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core
+    arrayprint.py
+    cversions.py
+    defchararray.py
+    einsumfunc.py
+    fromnumeric.py
+    function_base.py
+    getlimits.py
+    memmap.py
+    multiarray.py
+    numeric.py
+    numerictypes.py
+    overrides.py
+    printoptions.py
+    records.py
+    shape_base.py
+    strings.py
+    umath.py
+    _add_newdocs.py
+    _add_newdocs_scalars.py
+    _asarray.py
+    _dtype.py
+    _dtype_ctypes.py
+    _exceptions.py
+    _internal.py
+    _methods.py
+    _string_helpers.py
+    _type_aliases.py
+    _ufunc_config.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\include\numpy
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\include\numpy\random
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\lib
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\lib\npy-pkg-config
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\lib\pkgconfig
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\tests
+    test_abc.py
+    test_api.py
+    test_argparse.py
+    test_arraymethod.py
+    test_arrayobject.py
+    test_arrayprint.py
+    test_array_api_info.py
+    test_array_coercion.py
+    test_array_interface.py
+    test_casting_floatingpoint_errors.py
+    test_casting_unittests.py
+    test_conversion_utils.py
+    test_cpu_dispatcher.py
+    test_cpu_features.py
+    test_custom_dtypes.py
+    test_cython.py
+    test_datetime.py
+    test_defchararray.py
+    test_deprecations.py
+    test_dlpack.py
+    test_dtype.py
+    test_einsum.py
+    test_errstate.py
+    test_extint128.py
+    test_finfo.py
+    test_function_base.py
+    test_getlimits.py
+    test_half.py
+    test_hashtable.py
+    test_indexerrors.py
+    test_indexing.py
+    test_item_selection.py
+    test_limited_api.py
+    test_longdouble.py
+    test_memmap.py
+    test_mem_overlap.py
+    test_mem_policy.py
+    test_multiarray.py
+    test_multiprocessing.py
+    test_multithreading.py
+    test_nditer.py
+    test_nep50_promotions.py
+    test_numeric.py
+    test_numerictypes.py
+    test_overrides.py
+    test_print.py
+    test_protocols.py
+    test_records.py
+    test_regression.py
+    test_scalarbuffer.py
+    test_scalarinherit.py
+    test_scalarmath.py
+    test_scalarprint.py
+    test_scalar_ctors.py
+    test_scalar_methods.py
+    test_shape_base.py
+    test_simd.py
+    test_simd_module.py
+    test_stringdtype.py
+    test_strings.py
+    test_ufunc.py
+    test_umath.py
+    test_umath_accuracy.py
+    test_umath_complex.py
+    test_unicode.py
+    test__exceptions.py
+    _locales.py
+    _natype.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\tests\examples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\tests\examples\cython
+    setup.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_core\tests\examples\limited_api
+    setup.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_pyinstaller
+    hook-numpy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_pyinstaller\tests
+    pyinstaller-smoke.py
+    test_pyinstaller.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_typing
+    _add_docstring.py
+    _array_like.py
+    _char_codes.py
+    _dtype_like.py
+    _extended_precision.py
+    _nbit.py
+    _nbit_base.py
+    _nested_sequence.py
+    _scalars.py
+    _shape.py
+    _ufunc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy\_utils
+    _convertions.py
+    _inspect.py
+    _pep440.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\fft
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\fft\pocketfft
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\linalg
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\linalg\lapack_lite
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\ma
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\distributions
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\mt19937
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\pcg64
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\philox
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\sfc64
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\random\src\splitmix64
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\include\numpy
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\include\numpy\libdivide
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\common
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\common\pythoncapi-compat
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\highway
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\multiarray
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\npysort
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\npysort\x86-simd-sort
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\umath
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy-2.4.6.dist-info\licenses\numpy\_core\src\umath\svml
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\numpy.libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ollama
+    _client.py
+    _types.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ollama-0.6.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ollama-0.6.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\backend
+    backend.py
+    backend_rep.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\capi
+    build_and_package_info.py
+    convert_npz_to_onnx_adapter.py
+    onnxruntime_collect_build_info.py
+    onnxruntime_inference_collection.py
+    onnxruntime_validation.py
+    version_info.py
+    _ld_preload.py
+    _pybind_state.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\datasets
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization
+    base_quantizer.py
+    calibrate.py
+    matmul_bnb4_quantizer.py
+    matmul_nbits_quantizer.py
+    onnx_model.py
+    onnx_quantizer.py
+    preprocess.py
+    qdq_loss_debug.py
+    qdq_quantizer.py
+    quantize.py
+    quant_utils.py
+    registry.py
+    shape_inference.py
+    static_quantize_runner.py
+    tensor_quant_overrides.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\CalTableFlatBuffers
+    KeyValue.py
+    TrtTable.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\execution_providers
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\execution_providers\qnn
+    fusion_lpnorm.py
+    fusion_spacetodepth.py
+    mixed_precision_overrides_utils.py
+    preprocess.py
+    quant_config.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\fusions
+    fusion.py
+    fusion_gelu.py
+    fusion_layernorm.py
+    replace_upsample_with_resize.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\neural_compressor
+    onnx_model.py
+    util.py
+    weight_only.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\quantization\operators
+    activation.py
+    argmax.py
+    attention.py
+    base_operator.py
+    binary_op.py
+    concat.py
+    conv.py
+    direct_q8.py
+    embed_layernorm.py
+    gather.py
+    gavgpool.py
+    gemm.py
+    lstm.py
+    matmul.py
+    maxpool.py
+    norm.py
+    pad.py
+    pooling.py
+    qdq_base_operator.py
+    resize.py
+    softmax.py
+    split.py
+    where.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools
+    check_onnx_model_mobile_usability.py
+    convert_onnx_models_to_ort.py
+    file_utils.py
+    logger.py
+    make_dynamic_shape_fixed.py
+    offline_tuning.py
+    onnxruntime_test.py
+    onnx_model_utils.py
+    onnx_randomizer.py
+    optimize_onnx_model.py
+    pytorch_export_contrib_ops.py
+    pytorch_export_helpers.py
+    reduced_build_config_parser.py
+    remove_initializer_from_input.py
+    symbolic_shape_infer.py
+    update_onnx_opset.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\mobile_helpers
+    usability_checker.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\ort_format_model
+    operator_type_usage_processors.py
+    ort_model_processor.py
+    types.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\ort_format_model\ort_flatbuffers_py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\ort_format_model\ort_flatbuffers_py\fbs
+    ArgType.py
+    ArgTypeAndIndex.py
+    Attribute.py
+    AttributeType.py
+    Checkpoint.py
+    DeprecatedKernelCreateInfos.py
+    DeprecatedNodeIndexAndKernelDefHash.py
+    DeprecatedSessionState.py
+    DeprecatedSubGraphSessionState.py
+    Dimension.py
+    DimensionValue.py
+    DimensionValueType.py
+    EdgeEnd.py
+    FloatProperty.py
+    Graph.py
+    InferenceSession.py
+    IntProperty.py
+    KernelTypeStrArgsEntry.py
+    KernelTypeStrResolver.py
+    MapType.py
+    Model.py
+    ModuleState.py
+    Node.py
+    NodeEdge.py
+    NodesToOptimizeIndices.py
+    NodeType.py
+    OperatorSetId.py
+    OpIdKernelTypeStrArgsEntry.py
+    OptimizerGroup.py
+    ParameterOptimizerState.py
+    PropertyBag.py
+    RuntimeOptimizationRecord.py
+    RuntimeOptimizationRecordContainerEntry.py
+    RuntimeOptimizations.py
+    SequenceType.py
+    Shape.py
+    SparseTensor.py
+    StringProperty.py
+    StringStringEntry.py
+    Tensor.py
+    TensorDataType.py
+    TensorTypeAndShape.py
+    TypeInfo.py
+    TypeInfoValue.py
+    ValueInfo.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\qdq_helpers
+    optimize_qdq_model.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\tools\qnn
+    add_trans_cast.py
+    gen_qnn_ctx_onnx_model.py
+    preprocess.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers
+    affinity_helper.py
+    benchmark.py
+    benchmark_helper.py
+    bert_perf_test.py
+    bert_test_data.py
+    compare_bert_results.py
+    constants.py
+    convert_generation.py
+    convert_tf_models_to_pytorch.py
+    convert_to_packing_mode.py
+    dynamo_onnx_helper.py
+    float16.py
+    fusion_attention.py
+    fusion_attention_clip.py
+    fusion_attention_sam2.py
+    fusion_attention_unet.py
+    fusion_attention_vae.py
+    fusion_bart_attention.py
+    fusion_base.py
+    fusion_biasgelu.py
+    fusion_biassplitgelu.py
+    fusion_bias_add.py
+    fusion_conformer_attention.py
+    fusion_constant_fold.py
+    fusion_embedlayer.py
+    fusion_fastgelu.py
+    fusion_gelu.py
+    fusion_gelu_approximation.py
+    fusion_gemmfastgelu.py
+    fusion_gpt_attention.py
+    fusion_gpt_attention_megatron.py
+    fusion_gpt_attention_no_past.py
+    fusion_group_norm.py
+    fusion_layernorm.py
+    fusion_mha_dit.py
+    fusion_mha_mmdit.py
+    fusion_nhwc_conv.py
+    fusion_options.py
+    fusion_qordered_attention.py
+    fusion_qordered_gelu.py
+    fusion_qordered_layernorm.py
+    fusion_qordered_matmul.py
+    fusion_quickgelu.py
+    fusion_reshape.py
+    fusion_rotary_attention.py
+    fusion_shape.py
+    fusion_simplified_layernorm.py
+    fusion_skiplayernorm.py
+    fusion_skip_group_norm.py
+    fusion_transpose.py
+    fusion_utils.py
+    huggingface_models.py
+    import_utils.py
+    io_binding_helper.py
+    large_model_exporter.py
+    machine_info.py
+    metrics.py
+    onnx_exporter.py
+    onnx_model.py
+    onnx_model_bart.py
+    onnx_model_bert.py
+    onnx_model_bert_keras.py
+    onnx_model_bert_tf.py
+    onnx_model_clip.py
+    onnx_model_conformer.py
+    onnx_model_gpt2.py
+    onnx_model_mmdit.py
+    onnx_model_phi.py
+    onnx_model_sam2.py
+    onnx_model_t5.py
+    onnx_model_tnlr.py
+    onnx_model_unet.py
+    onnx_model_vae.py
+    onnx_utils.py
+    optimizer.py
+    past_helper.py
+    profiler.py
+    profile_result_processor.py
+    quantize_helper.py
+    shape_infer_helper.py
+    shape_optimizer.py
+    torch_onnx_export_helper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\bart
+    export.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\bert
+    eval_squad.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\gpt2
+    benchmark_gpt2.py
+    convert_to_onnx.py
+    gpt2_helper.py
+    gpt2_parity.py
+    gpt2_tester.py
+    parity_check_helper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\llama
+    benchmark.py
+    benchmark_all.py
+    benchmark_e2e.py
+    convert_to_onnx.py
+    dist_settings.py
+    llama_inputs.py
+    llama_parity.py
+    llama_torch.py
+    quant_kv_dataloader.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\longformer
+    benchmark_longformer.py
+    convert_to_onnx.py
+    generate_test_data.py
+    longformer_helper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\phi2
+    convert_to_onnx.py
+    inference_example.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\sam2
+    benchmark_sam2.py
+    convert_to_onnx.py
+    image_decoder.py
+    image_encoder.py
+    mask_decoder.py
+    nvtx_helper.py
+    prompt_encoder.py
+    sam2_demo.py
+    sam2_image_onnx_predictor.py
+    sam2_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\stable_diffusion
+    benchmark.py
+    benchmark_controlnet.py
+    demo_txt2img.py
+    demo_txt2img_xl.py
+    demo_utils.py
+    diffusion_models.py
+    diffusion_schedulers.py
+    engine_builder.py
+    engine_builder_ort_cuda.py
+    engine_builder_ort_trt.py
+    engine_builder_tensorrt.py
+    engine_builder_torch.py
+    optimize_pipeline.py
+    ort_optimizer.py
+    pipeline_stable_diffusion.py
+    trt_utilities.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\t5
+    convert_to_onnx.py
+    t5_decoder.py
+    t5_encoder.py
+    t5_encoder_decoder_init.py
+    t5_helper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime\transformers\models\whisper
+    benchmark.py
+    benchmark_all.py
+    convert_to_onnx.py
+    whisper_chain.py
+    whisper_decoder.py
+    whisper_encoder.py
+    whisper_encoder_decoder_init.py
+    whisper_helper.py
+    whisper_inputs.py
+    whisper_jump_times.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\onnxruntime-1.27.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\openai_whisper-20250625.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\openai_whisper-20250625.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\opencv_python-4.13.0.92.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\opencv_python_headless-5.0.0.93.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\ordlookup
+    oleaut32.py
+    ws2_32.py
+    wsock32.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\packaging
+    dependency_groups.py
+    direct_url.py
+    errors.py
+    markers.py
+    metadata.py
+    pylock.py
+    requirements.py
+    specifiers.py
+    tags.py
+    utils.py
+    version.py
+    _elffile.py
+    _manylinux.py
+    _musllinux.py
+    _parser.py
+    _structures.py
+    _tokenizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\packaging\licenses
+    _spdx.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\packaging-26.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\packaging-26.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pefile-2024.8.26.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PIL
+    AvifImagePlugin.py
+    BdfFontFile.py
+    BlpImagePlugin.py
+    BmpImagePlugin.py
+    BufrStubImagePlugin.py
+    ContainerIO.py
+    CurImagePlugin.py
+    DcxImagePlugin.py
+    DdsImagePlugin.py
+    EpsImagePlugin.py
+    ExifTags.py
+    features.py
+    FitsImagePlugin.py
+    FliImagePlugin.py
+    FontFile.py
+    FpxImagePlugin.py
+    FtexImagePlugin.py
+    GbrImagePlugin.py
+    GdImageFile.py
+    GifImagePlugin.py
+    GimpGradientFile.py
+    GimpPaletteFile.py
+    GribStubImagePlugin.py
+    Hdf5StubImagePlugin.py
+    IcnsImagePlugin.py
+    IcoImagePlugin.py
+    Image.py
+    ImageChops.py
+    ImageCms.py
+    ImageColor.py
+    ImageDraw.py
+    ImageDraw2.py
+    ImageEnhance.py
+    ImageFile.py
+    ImageFilter.py
+    ImageFont.py
+    ImageGrab.py
+    ImageMath.py
+    ImageMode.py
+    ImageMorph.py
+    ImageOps.py
+    ImagePalette.py
+    ImagePath.py
+    ImageQt.py
+    ImageSequence.py
+    ImageShow.py
+    ImageStat.py
+    ImageText.py
+    ImageTk.py
+    ImageTransform.py
+    ImageWin.py
+    ImImagePlugin.py
+    ImtImagePlugin.py
+    IptcImagePlugin.py
+    Jpeg2KImagePlugin.py
+    JpegImagePlugin.py
+    JpegPresets.py
+    McIdasImagePlugin.py
+    MicImagePlugin.py
+    MpegImagePlugin.py
+    MpoImagePlugin.py
+    MspImagePlugin.py
+    PaletteFile.py
+    PalmImagePlugin.py
+    PcdImagePlugin.py
+    PcfFontFile.py
+    PcxImagePlugin.py
+    PdfImagePlugin.py
+    PdfParser.py
+    PixarImagePlugin.py
+    PngImagePlugin.py
+    PpmImagePlugin.py
+    PsdImagePlugin.py
+    PSDraw.py
+    QoiImagePlugin.py
+    report.py
+    SgiImagePlugin.py
+    SpiderImagePlugin.py
+    SunImagePlugin.py
+    TarIO.py
+    TgaImagePlugin.py
+    TiffImagePlugin.py
+    TiffTags.py
+    WalImageFile.py
+    WebPImagePlugin.py
+    WmfImagePlugin.py
+    XbmImagePlugin.py
+    XpmImagePlugin.py
+    XVThumbImagePlugin.py
+    _binary.py
+    _deprecate.py
+    _tkinter_finder.py
+    _typing.py
+    _util.py
+    _version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pillow-12.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pillow-12.2.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip
+    __init__.py
+    __main__.py
+    __pip-runner__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal
+    build_env.py
+    cache.py
+    configuration.py
+    exceptions.py
+    main.py
+    pyproject.py
+    self_outdated_check.py
+    wheel_builder.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\cli
+    autocompletion.py
+    base_command.py
+    cmdoptions.py
+    command_context.py
+    index_command.py
+    main.py
+    main_parser.py
+    parser.py
+    progress_bars.py
+    req_command.py
+    spinners.py
+    status_codes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\commands
+    cache.py
+    check.py
+    completion.py
+    configuration.py
+    debug.py
+    download.py
+    freeze.py
+    hash.py
+    help.py
+    index.py
+    inspect.py
+    install.py
+    list.py
+    search.py
+    show.py
+    uninstall.py
+    wheel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\distributions
+    base.py
+    installed.py
+    sdist.py
+    wheel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\index
+    collector.py
+    package_finder.py
+    sources.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\locations
+    base.py
+    _distutils.py
+    _sysconfig.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\metadata
+    base.py
+    pkg_resources.py
+    _json.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\metadata\importlib
+    _compat.py
+    _dists.py
+    _envs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\models
+    candidate.py
+    direct_url.py
+    format_control.py
+    index.py
+    installation_report.py
+    link.py
+    scheme.py
+    search_scope.py
+    selection_prefs.py
+    target_python.py
+    wheel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\network
+    auth.py
+    cache.py
+    download.py
+    lazy_wheel.py
+    session.py
+    utils.py
+    xmlrpc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\operations
+    check.py
+    freeze.py
+    prepare.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\operations\build
+    build_tracker.py
+    metadata.py
+    metadata_editable.py
+    metadata_legacy.py
+    wheel.py
+    wheel_editable.py
+    wheel_legacy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\operations\install
+    editable_legacy.py
+    wheel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\req
+    constructors.py
+    req_file.py
+    req_install.py
+    req_set.py
+    req_uninstall.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\resolution
+    base.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\resolution\legacy
+    resolver.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+    base.py
+    candidates.py
+    factory.py
+    found_candidates.py
+    provider.py
+    reporter.py
+    requirements.py
+    resolver.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\utils
+    appdirs.py
+    compat.py
+    compatibility_tags.py
+    datetime.py
+    deprecation.py
+    direct_url_helpers.py
+    egg_link.py
+    entrypoints.py
+    filesystem.py
+    filetypes.py
+    glibc.py
+    hashes.py
+    logging.py
+    misc.py
+    packaging.py
+    retry.py
+    setuptools_build.py
+    subprocess.py
+    temp_dir.py
+    unpacking.py
+    urls.py
+    virtualenv.py
+    wheel.py
+    _jaraco_text.py
+    _log.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_internal\vcs
+    bazaar.py
+    git.py
+    mercurial.py
+    subversion.py
+    versioncontrol.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor
+    typing_extensions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\cachecontrol
+    adapter.py
+    cache.py
+    controller.py
+    filewrapper.py
+    heuristics.py
+    serialize.py
+    wrapper.py
+    _cmd.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+    file_cache.py
+    redis_cache.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\certifi
+    core.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\distlib
+    compat.py
+    database.py
+    index.py
+    locators.py
+    manifest.py
+    markers.py
+    metadata.py
+    resources.py
+    scripts.py
+    util.py
+    version.py
+    wheel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\distro
+    distro.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\idna
+    codec.py
+    compat.py
+    core.py
+    idnadata.py
+    intranges.py
+    package_data.py
+    uts46data.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\msgpack
+    exceptions.py
+    ext.py
+    fallback.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\packaging
+    markers.py
+    metadata.py
+    requirements.py
+    specifiers.py
+    tags.py
+    utils.py
+    version.py
+    _elffile.py
+    _manylinux.py
+    _musllinux.py
+    _parser.py
+    _structures.py
+    _tokenizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\packaging\licenses
+    _spdx.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pkg_resources
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\platformdirs
+    android.py
+    api.py
+    macos.py
+    unix.py
+    version.py
+    windows.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pygments
+    cmdline.py
+    console.py
+    filter.py
+    formatter.py
+    lexer.py
+    modeline.py
+    plugin.py
+    regexopt.py
+    scanner.py
+    sphinxext.py
+    style.py
+    token.py
+    unistring.py
+    util.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pygments\filters
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pygments\formatters
+    bbcode.py
+    groff.py
+    html.py
+    img.py
+    irc.py
+    latex.py
+    other.py
+    pangomarkup.py
+    rtf.py
+    svg.py
+    terminal.py
+    terminal256.py
+    _mapping.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pygments\lexers
+    python.py
+    _mapping.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pygments\styles
+    _mapping.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+    _impl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+    _in_process.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\requests
+    adapters.py
+    api.py
+    auth.py
+    certs.py
+    compat.py
+    cookies.py
+    exceptions.py
+    help.py
+    hooks.py
+    models.py
+    packages.py
+    sessions.py
+    status_codes.py
+    structures.py
+    utils.py
+    _internal_utils.py
+    __init__.py
+    __version__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\resolvelib
+    providers.py
+    reporters.py
+    resolvers.py
+    structs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+    collections_abc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\rich
+    abc.py
+    align.py
+    ansi.py
+    bar.py
+    box.py
+    cells.py
+    color.py
+    color_triplet.py
+    columns.py
+    console.py
+    constrain.py
+    containers.py
+    control.py
+    default_styles.py
+    diagnose.py
+    emoji.py
+    errors.py
+    filesize.py
+    file_proxy.py
+    highlighter.py
+    json.py
+    jupyter.py
+    layout.py
+    live.py
+    live_render.py
+    logging.py
+    markup.py
+    measure.py
+    padding.py
+    pager.py
+    palette.py
+    panel.py
+    pretty.py
+    progress.py
+    progress_bar.py
+    prompt.py
+    protocol.py
+    region.py
+    repr.py
+    rule.py
+    scope.py
+    screen.py
+    segment.py
+    spinner.py
+    status.py
+    style.py
+    styled.py
+    syntax.py
+    table.py
+    terminal_theme.py
+    text.py
+    theme.py
+    themes.py
+    traceback.py
+    tree.py
+    _cell_widths.py
+    _emoji_codes.py
+    _emoji_replace.py
+    _export_format.py
+    _extension.py
+    _fileno.py
+    _inspect.py
+    _log_render.py
+    _loop.py
+    _null_file.py
+    _palettes.py
+    _pick.py
+    _ratio.py
+    _spinners.py
+    _stack.py
+    _timer.py
+    _win32_console.py
+    _windows.py
+    _windows_renderer.py
+    _wrap.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\tomli
+    _parser.py
+    _re.py
+    _types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\truststore
+    _api.py
+    _macos.py
+    _openssl.py
+    _ssl_constants.py
+    _windows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3
+    connection.py
+    connectionpool.py
+    exceptions.py
+    fields.py
+    filepost.py
+    poolmanager.py
+    request.py
+    response.py
+    _collections.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+    appengine.py
+    ntlmpool.py
+    pyopenssl.py
+    securetransport.py
+    socks.py
+    _appengine_environ.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+    bindings.py
+    low_level.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3\packages
+    six.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+    makefile.py
+    weakref_finalize.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip\_vendor\urllib3\util
+    connection.py
+    proxy.py
+    queue.py
+    request.py
+    response.py
+    retry.py
+    ssltransport.py
+    ssl_.py
+    ssl_match_hostname.py
+    timeout.py
+    url.py
+    wait.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pip-25.0.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests
+    test_find_distributions.py
+    test_integration_zope_interface.py
+    test_markers.py
+    test_pkg_resources.py
+    test_resources.py
+    test_working_set.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source
+    setup.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-zip
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package_unpacked-egg
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package_unpacked-egg\my_test_package-1.0-py3.7.egg
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package_unpacked-egg\my_test_package-1.0-py3.7.egg\EGG-INFO
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pkg_resources\tests\data\my-test-package_zipped-egg
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\propcache
+    api.py
+    _helpers.py
+    _helpers_py.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\propcache-0.5.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\propcache-0.5.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\protobuf-7.35.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\psutil
+    _common.py
+    _ntuples.py
+    _psaix.py
+    _psbsd.py
+    _pslinux.py
+    _psosx.py
+    _psposix.py
+    _pssunos.py
+    _pswindows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\psutil-7.2.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyaudio
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyAudio-0.2.14.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyautogui
+    _pyautogui_java.py
+    _pyautogui_osx.py
+    _pyautogui_win.py
+    _pyautogui_x11.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyautogui-0.9.54.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyautogui-0.9.54.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw
+    callbacks.py
+    constants.py
+    magic.py
+    pycaw.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\audioclient
+    depend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\audiopolicy
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\endpointvolume
+    depend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\mmdeviceapi
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\mmdeviceapi\depend
+    structures.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw\api\policyconfig
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw-20251023.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycaw-20251023.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyclipper
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyclipper-1.4.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyclipper-1.4.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycparser
+    ast_transforms.py
+    c_ast.py
+    c_generator.py
+    c_lexer.py
+    c_parser.py
+    _ast_gen.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycparser-3.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pycparser-3.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic
+    aliases.py
+    alias_generators.py
+    annotated_handlers.py
+    class_validators.py
+    color.py
+    config.py
+    dataclasses.py
+    datetime_parse.py
+    decorator.py
+    env_settings.py
+    errors.py
+    error_wrappers.py
+    fields.py
+    functional_serializers.py
+    functional_validators.py
+    generics.py
+    json.py
+    json_schema.py
+    main.py
+    mypy.py
+    networks.py
+    parse.py
+    root_model.py
+    schema.py
+    tools.py
+    types.py
+    type_adapter.py
+    typing.py
+    utils.py
+    validate_call_decorator.py
+    validators.py
+    version.py
+    warnings.py
+    _migration.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic\deprecated
+    class_validators.py
+    config.py
+    copy_internals.py
+    decorator.py
+    json.py
+    parse.py
+    tools.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic\experimental
+    arguments_schema.py
+    missing_sentinel.py
+    pipeline.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic\plugin
+    _loader.py
+    _schema_validator.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic\v1
+    annotated_types.py
+    class_validators.py
+    color.py
+    config.py
+    dataclasses.py
+    datetime_parse.py
+    decorator.py
+    env_settings.py
+    errors.py
+    error_wrappers.py
+    fields.py
+    generics.py
+    json.py
+    main.py
+    mypy.py
+    networks.py
+    parse.py
+    schema.py
+    tools.py
+    types.py
+    typing.py
+    utils.py
+    validators.py
+    version.py
+    _hypothesis_plugin.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic\_internal
+    _config.py
+    _core_metadata.py
+    _core_utils.py
+    _dataclasses.py
+    _decorators.py
+    _decorators_v1.py
+    _discriminated_union.py
+    _docs_extraction.py
+    _fields.py
+    _forward_ref.py
+    _generate_schema.py
+    _generics.py
+    _git.py
+    _import_utils.py
+    _internal_dataclass.py
+    _known_annotated_metadata.py
+    _mock_val_ser.py
+    _model_construction.py
+    _namespace_utils.py
+    _repr.py
+    _schema_gather.py
+    _schema_generation_shared.py
+    _serializers.py
+    _signature.py
+    _typing_extra.py
+    _utils.py
+    _validate_call.py
+    _validators.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic-2.13.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic-2.13.4.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic_core
+    core_schema.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic_core-2.46.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic_core-2.46.4.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pydantic_core-2.46.4.dist-info\sboms
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygetwindow
+    _pygetwindow_macos.py
+    _pygetwindow_win.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygetwindow-0.0.9.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments
+    cmdline.py
+    console.py
+    filter.py
+    formatter.py
+    lexer.py
+    modeline.py
+    plugin.py
+    regexopt.py
+    scanner.py
+    sphinxext.py
+    style.py
+    token.py
+    unistring.py
+    util.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments\filters
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments\formatters
+    bbcode.py
+    groff.py
+    html.py
+    img.py
+    irc.py
+    latex.py
+    other.py
+    pangomarkup.py
+    rtf.py
+    svg.py
+    terminal.py
+    terminal256.py
+    _mapping.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments\lexers
+    actionscript.py
+    ada.py
+    agile.py
+    algebra.py
+    ambient.py
+    amdgpu.py
+    ampl.py
+    apdlexer.py
+    apl.py
+    archetype.py
+    arrow.py
+    arturo.py
+    asc.py
+    asm.py
+    asn1.py
+    automation.py
+    bare.py
+    basic.py
+    bdd.py
+    berry.py
+    bibtex.py
+    blueprint.py
+    boa.py
+    bqn.py
+    business.py
+    capnproto.py
+    carbon.py
+    cddl.py
+    chapel.py
+    clean.py
+    codeql.py
+    comal.py
+    compiled.py
+    configs.py
+    console.py
+    cplint.py
+    crystal.py
+    csound.py
+    css.py
+    c_cpp.py
+    c_like.py
+    d.py
+    dalvik.py
+    data.py
+    dax.py
+    devicetree.py
+    diff.py
+    dns.py
+    dotnet.py
+    dsls.py
+    dylan.py
+    ecl.py
+    eiffel.py
+    elm.py
+    elpi.py
+    email.py
+    erlang.py
+    esoteric.py
+    ezhil.py
+    factor.py
+    fantom.py
+    felix.py
+    fift.py
+    floscript.py
+    forth.py
+    fortran.py
+    foxpro.py
+    freefem.py
+    func.py
+    functional.py
+    futhark.py
+    gcodelexer.py
+    gdscript.py
+    gleam.py
+    go.py
+    grammar_notation.py
+    graph.py
+    graphics.py
+    graphql.py
+    graphviz.py
+    gsql.py
+    hare.py
+    haskell.py
+    haxe.py
+    hdl.py
+    hexdump.py
+    html.py
+    idl.py
+    igor.py
+    inferno.py
+    installers.py
+    int_fiction.py
+    iolang.py
+    j.py
+    javascript.py
+    jmespath.py
+    jslt.py
+    json5.py
+    jsonnet.py
+    jsx.py
+    julia.py
+    jvm.py
+    kuin.py
+    kusto.py
+    ldap.py
+    lean.py
+    lilypond.py
+    lisp.py
+    macaulay2.py
+    make.py
+    maple.py
+    markup.py
+    math.py
+    matlab.py
+    maxima.py
+    meson.py
+    mime.py
+    minecraft.py
+    mips.py
+    ml.py
+    modeling.py
+    modula2.py
+    mojo.py
+    monte.py
+    mosel.py
+    ncl.py
+    nimrod.py
+    nit.py
+    nix.py
+    numbair.py
+    oberon.py
+    objective.py
+    ooc.py
+    openscad.py
+    other.py
+    parasail.py
+    parsers.py
+    pascal.py
+    pawn.py
+    pddl.py
+    perl.py
+    phix.py
+    php.py
+    pointless.py
+    pony.py
+    praat.py
+    procfile.py
+    prolog.py
+    promql.py
+    prql.py
+    ptx.py
+    python.py
+    q.py
+    qlik.py
+    qvt.py
+    r.py
+    rdf.py
+    rebol.py
+    rego.py
+    rell.py
+    resource.py
+    ride.py
+    rita.py
+    rnc.py
+    roboconf.py
+    robotframework.py
+    ruby.py
+    rust.py
+    sas.py
+    savi.py
+    scdoc.py
+    scripting.py
+    sgf.py
+    shell.py
+    sieve.py
+    slash.py
+    smalltalk.py
+    smithy.py
+    smv.py
+    snobol.py
+    solidity.py
+    soong.py
+    sophia.py
+    special.py
+    spice.py
+    sql.py
+    srcinfo.py
+    stata.py
+    supercollider.py
+    tablegen.py
+    tact.py
+    tal.py
+    tcl.py
+    teal.py
+    templates.py
+    teraterm.py
+    testing.py
+    text.py
+    textedit.py
+    textfmts.py
+    theorem.py
+    thingsdb.py
+    tlb.py
+    tls.py
+    tnt.py
+    trafficscript.py
+    typoscript.py
+    typst.py
+    ul4.py
+    unicon.py
+    urbi.py
+    usd.py
+    varnish.py
+    verification.py
+    verifpal.py
+    vip.py
+    vyper.py
+    web.py
+    webassembly.py
+    webidl.py
+    webmisc.py
+    wgsl.py
+    whiley.py
+    wowtoc.py
+    wren.py
+    x10.py
+    xorg.py
+    yang.py
+    yara.py
+    zig.py
+    _ada_builtins.py
+    _asy_builtins.py
+    _cl_builtins.py
+    _cocoa_builtins.py
+    _csound_builtins.py
+    _css_builtins.py
+    _googlesql_builtins.py
+    _julia_builtins.py
+    _lasso_builtins.py
+    _lilypond_builtins.py
+    _luau_builtins.py
+    _lua_builtins.py
+    _mapping.py
+    _mql_builtins.py
+    _mysql_builtins.py
+    _openedge_builtins.py
+    _php_builtins.py
+    _postgres_builtins.py
+    _qlik_builtins.py
+    _scheme_builtins.py
+    _scilab_builtins.py
+    _sourcemod_builtins.py
+    _sql_builtins.py
+    _stan_builtins.py
+    _stata_builtins.py
+    _tsql_builtins.py
+    _usd_builtins.py
+    _vbscript_builtins.py
+    _vim_builtins.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments\styles
+    abap.py
+    algol.py
+    algol_nu.py
+    arduino.py
+    autumn.py
+    borland.py
+    bw.py
+    coffee.py
+    colorful.py
+    default.py
+    dracula.py
+    emacs.py
+    friendly.py
+    friendly_grayscale.py
+    fruity.py
+    gh_dark.py
+    gruvbox.py
+    igor.py
+    inkpot.py
+    lightbulb.py
+    lilypond.py
+    lovelace.py
+    manni.py
+    material.py
+    monokai.py
+    murphy.py
+    native.py
+    nord.py
+    onedark.py
+    paraiso_dark.py
+    paraiso_light.py
+    pastie.py
+    perldoc.py
+    rainbow_dash.py
+    rrt.py
+    sas.py
+    solarized.py
+    staroffice.py
+    stata_dark.py
+    stata_light.py
+    tango.py
+    trac.py
+    vim.py
+    vs.py
+    xcode.py
+    zenburn.py
+    _mapping.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments-2.20.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pygments-2.20.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller
+    compat.py
+    config.py
+    configure.py
+    exceptions.py
+    log.py
+    _recursion_too_deep_message.py
+    _shared_with_waf.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\archive
+    pyz_crypto.py
+    readers.py
+    writers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\bootloader
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\bootloader\images
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\building
+    api.py
+    build_main.py
+    datastruct.py
+    icon.py
+    makespec.py
+    osx.py
+    splash.py
+    splash_templates.py
+    templates.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\depend
+    analysis.py
+    bindepend.py
+    bytecode.py
+    dylib.py
+    imphook.py
+    imphookapi.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\fake-modules
+    pyi_splash.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\fake-modules\_pyi_rth_utils
+    qt.py
+    tempfile.py
+    _win32.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\hooks
+    hook-babel.py
+    hook-difflib.py
+    hook-distutils.command.check.py
+    hook-distutils.py
+    hook-distutils.util.py
+    hook-django.contrib.sessions.py
+    hook-django.core.cache.py
+    hook-django.core.mail.py
+    hook-django.core.management.py
+    hook-django.db.backends.mysql.base.py
+    hook-django.db.backends.oracle.base.py
+    hook-django.db.backends.py
+    hook-django.py
+    hook-django.template.loaders.py
+    hook-encodings.py
+    hook-gevent.py
+    hook-gi.py
+    hook-gi.repository.Adw.py
+    hook-gi.repository.AppIndicator3.py
+    hook-gi.repository.Atk.py
+    hook-gi.repository.AyatanaAppIndicator3.py
+    hook-gi.repository.cairo.py
+    hook-gi.repository.Champlain.py
+    hook-gi.repository.Clutter.py
+    hook-gi.repository.DBus.py
+    hook-gi.repository.freetype2.py
+    hook-gi.repository.Gdk.py
+    hook-gi.repository.GdkPixbuf.py
+    hook-gi.repository.Gio.py
+    hook-gi.repository.GioUnix.py
+    hook-gi.repository.GioWin32.py
+    hook-gi.repository.GIRepository.py
+    hook-gi.repository.GLib.py
+    hook-gi.repository.GLibUnix.py
+    hook-gi.repository.GLibWin32.py
+    hook-gi.repository.GModule.py
+    hook-gi.repository.GObject.py
+    hook-gi.repository.Graphene.py
+    hook-gi.repository.Gsk.py
+    hook-gi.repository.Gst.py
+    hook-gi.repository.GstAllocators.py
+    hook-gi.repository.GstApp.py
+    hook-gi.repository.GstAudio.py
+    hook-gi.repository.GstBadAudio.py
+    hook-gi.repository.GstBase.py
+    hook-gi.repository.GstCheck.py
+    hook-gi.repository.GstCodecs.py
+    hook-gi.repository.GstController.py
+    hook-gi.repository.GstGL.py
+    hook-gi.repository.GstGLEGL.py
+    hook-gi.repository.GstGLWayland.py
+    hook-gi.repository.GstGLX11.py
+    hook-gi.repository.GstInsertBin.py
+    hook-gi.repository.GstMpegts.py
+    hook-gi.repository.GstNet.py
+    hook-gi.repository.GstPbutils.py
+    hook-gi.repository.GstPlay.py
+    hook-gi.repository.GstPlayer.py
+    hook-gi.repository.GstRtp.py
+    hook-gi.repository.GstRtsp.py
+    hook-gi.repository.GstRtspServer.py
+    hook-gi.repository.GstSdp.py
+    hook-gi.repository.GstTag.py
+    hook-gi.repository.GstTranscoder.py
+    hook-gi.repository.GstVideo.py
+    hook-gi.repository.GstVulkan.py
+    hook-gi.repository.GstVulkanWayland.py
+    hook-gi.repository.GstVulkanXCB.py
+    hook-gi.repository.GstWebRTC.py
+    hook-gi.repository.Gtk.py
+    hook-gi.repository.GtkChamplain.py
+    hook-gi.repository.GtkClutter.py
+    hook-gi.repository.GtkosxApplication.py
+    hook-gi.repository.GtkSource.py
+    hook-gi.repository.HarfBuzz.py
+    hook-gi.repository.OsmGpsMap.py
+    hook-gi.repository.Pango.py
+    hook-gi.repository.PangoCairo.py
+    hook-gi.repository.Rsvg.py
+    hook-gi.repository.xlib.py
+    hook-heapq.py
+    hook-idlelib.py
+    hook-importlib_metadata.py
+    hook-importlib_resources.py
+    hook-keyring.py
+    hook-kivy.py
+    hook-lib2to3.py
+    hook-math.py
+    hook-matplotlib.backends.backend_qtagg.py
+    hook-matplotlib.backends.backend_qtcairo.py
+    hook-matplotlib.backends.py
+    hook-matplotlib.backends.qt_compat.py
+    hook-matplotlib.backend_bases.py
+    hook-matplotlib.numerix.py
+    hook-matplotlib.py
+    hook-matplotlib.pyplot.py
+    hook-multiprocessing.util.py
+    hook-numpy.py
+    hook-pandas.io.clipboard.py
+    hook-pandas.io.formats.style.py
+    hook-pandas.plotting.py
+    hook-pandas.py
+    hook-pickle.py
+    hook-PIL.Image.py
+    hook-PIL.ImageFilter.py
+    hook-PIL.py
+    hook-PIL.SpiderImagePlugin.py
+    hook-pkg_resources.py
+    hook-platform.py
+    hook-pygments.py
+    hook-PyQt5.py
+    hook-PyQt5.QAxContainer.py
+    hook-PyQt5.Qsci.py
+    hook-PyQt5.Qt.py
+    hook-PyQt5.Qt3DAnimation.py
+    hook-PyQt5.Qt3DCore.py
+    hook-PyQt5.Qt3DExtras.py
+    hook-PyQt5.Qt3DInput.py
+    hook-PyQt5.Qt3DLogic.py
+    hook-PyQt5.Qt3DRender.py
+    hook-PyQt5.QtBluetooth.py
+    hook-PyQt5.QtChart.py
+    hook-PyQt5.QtCore.py
+    hook-PyQt5.QtDataVisualization.py
+    hook-PyQt5.QtDBus.py
+    hook-PyQt5.QtDesigner.py
+    hook-PyQt5.QtGui.py
+    hook-PyQt5.QtHelp.py
+    hook-PyQt5.QtLocation.py
+    hook-PyQt5.QtMacExtras.py
+    hook-PyQt5.QtMultimedia.py
+    hook-PyQt5.QtMultimediaWidgets.py
+    hook-PyQt5.QtNetwork.py
+    hook-PyQt5.QtNetworkAuth.py
+    hook-PyQt5.QtNfc.py
+    hook-PyQt5.QtOpenGL.py
+    hook-PyQt5.QtPositioning.py
+    hook-PyQt5.QtPrintSupport.py
+    hook-PyQt5.QtPurchasing.py
+    hook-PyQt5.QtQml.py
+    hook-PyQt5.QtQuick.py
+    hook-PyQt5.QtQuick3D.py
+    hook-PyQt5.QtQuickWidgets.py
+    hook-PyQt5.QtRemoteObjects.py
+    hook-PyQt5.QtScript.py
+    hook-PyQt5.QtSensors.py
+    hook-PyQt5.QtSerialPort.py
+    hook-PyQt5.QtSql.py
+    hook-PyQt5.QtSvg.py
+    hook-PyQt5.QtTest.py
+    hook-PyQt5.QtTextToSpeech.py
+    hook-PyQt5.QtWebChannel.py
+    hook-PyQt5.QtWebEngine.py
+    hook-PyQt5.QtWebEngineCore.py
+    hook-PyQt5.QtWebEngineWidgets.py
+    hook-PyQt5.QtWebKit.py
+    hook-PyQt5.QtWebKitWidgets.py
+    hook-PyQt5.QtWebSockets.py
+    hook-PyQt5.QtWidgets.py
+    hook-PyQt5.QtWinExtras.py
+    hook-PyQt5.QtX11Extras.py
+    hook-PyQt5.QtXml.py
+    hook-PyQt5.QtXmlPatterns.py
+    hook-PyQt5.uic.py
+    hook-PyQt6.py
+    hook-PyQt6.QAxContainer.py
+    hook-PyQt6.Qsci.py
+    hook-PyQt6.Qt3DAnimation.py
+    hook-PyQt6.Qt3DCore.py
+    hook-PyQt6.Qt3DExtras.py
+    hook-PyQt6.Qt3DInput.py
+    hook-PyQt6.Qt3DLogic.py
+    hook-PyQt6.Qt3DRender.py
+    hook-PyQt6.QtBluetooth.py
+    hook-PyQt6.QtCharts.py
+    hook-PyQt6.QtCore.py
+    hook-PyQt6.QtDataVisualization.py
+    hook-PyQt6.QtDBus.py
+    hook-PyQt6.QtDesigner.py
+    hook-PyQt6.QtGraphs.py
+    hook-PyQt6.QtGraphsWidgets.py
+    hook-PyQt6.QtGui.py
+    hook-PyQt6.QtHelp.py
+    hook-PyQt6.QtMultimedia.py
+    hook-PyQt6.QtMultimediaWidgets.py
+    hook-PyQt6.QtNetwork.py
+    hook-PyQt6.QtNetworkAuth.py
+    hook-PyQt6.QtNfc.py
+    hook-PyQt6.QtOpenGL.py
+    hook-PyQt6.QtOpenGLWidgets.py
+    hook-PyQt6.QtPdf.py
+    hook-PyQt6.QtPdfWidgets.py
+    hook-PyQt6.QtPositioning.py
+    hook-PyQt6.QtPrintSupport.py
+    hook-PyQt6.QtQml.py
+    hook-PyQt6.QtQuick.py
+    hook-PyQt6.QtQuick3D.py
+    hook-PyQt6.QtQuickWidgets.py
+    hook-PyQt6.QtRemoteObjects.py
+    hook-PyQt6.QtSensors.py
+    hook-PyQt6.QtSerialPort.py
+    hook-PyQt6.QtSpatialAudio.py
+    hook-PyQt6.QtSql.py
+    hook-PyQt6.QtStateMachine.py
+    hook-PyQt6.QtSvg.py
+    hook-PyQt6.QtSvgWidgets.py
+    hook-PyQt6.QtTest.py
+    hook-PyQt6.QtTextToSpeech.py
+    hook-PyQt6.QtWebChannel.py
+    hook-PyQt6.QtWebEngineCore.py
+    hook-PyQt6.QtWebEngineQuick.py
+    hook-PyQt6.QtWebEngineWidgets.py
+    hook-PyQt6.QtWebSockets.py
+    hook-PyQt6.QtWidgets.py
+    hook-PyQt6.QtXml.py
+    hook-PyQt6.uic.py
+    hook-PySide2.py
+    hook-PySide2.Qt3DAnimation.py
+    hook-PySide2.Qt3DCore.py
+    hook-PySide2.Qt3DExtras.py
+    hook-PySide2.Qt3DInput.py
+    hook-PySide2.Qt3DLogic.py
+    hook-PySide2.Qt3DRender.py
+    hook-PySide2.QtAxContainer.py
+    hook-PySide2.QtCharts.py
+    hook-PySide2.QtConcurrent.py
+    hook-PySide2.QtCore.py
+    hook-PySide2.QtDataVisualization.py
+    hook-PySide2.QtGui.py
+    hook-PySide2.QtHelp.py
+    hook-PySide2.QtLocation.py
+    hook-PySide2.QtMacExtras.py
+    hook-PySide2.QtMultimedia.py
+    hook-PySide2.QtMultimediaWidgets.py
+    hook-PySide2.QtNetwork.py
+    hook-PySide2.QtOpenGL.py
+    hook-PySide2.QtOpenGLFunctions.py
+    hook-PySide2.QtPositioning.py
+    hook-PySide2.QtPrintSupport.py
+    hook-PySide2.QtQml.py
+    hook-PySide2.QtQuick.py
+    hook-PySide2.QtQuickControls2.py
+    hook-PySide2.QtQuickWidgets.py
+    hook-PySide2.QtRemoteObjects.py
+    hook-PySide2.QtScript.py
+    hook-PySide2.QtScriptTools.py
+    hook-PySide2.QtScxml.py
+    hook-PySide2.QtSensors.py
+    hook-PySide2.QtSerialPort.py
+    hook-PySide2.QtSql.py
+    hook-PySide2.QtSvg.py
+    hook-PySide2.QtTest.py
+    hook-PySide2.QtTextToSpeech.py
+    hook-PySide2.QtUiTools.py
+    hook-PySide2.QtWebChannel.py
+    hook-PySide2.QtWebEngine.py
+    hook-PySide2.QtWebEngineCore.py
+    hook-PySide2.QtWebEngineWidgets.py
+    hook-PySide2.QtWebKit.py
+    hook-PySide2.QtWebKitWidgets.py
+    hook-PySide2.QtWebSockets.py
+    hook-PySide2.QtWidgets.py
+    hook-PySide2.QtWinExtras.py
+    hook-PySide2.QtX11Extras.py
+    hook-PySide2.QtXml.py
+    hook-PySide2.QtXmlPatterns.py
+    hook-PySide2.Qwt5.py
+    hook-PySide6.py
+    hook-PySide6.Qt3DAnimation.py
+    hook-PySide6.Qt3DCore.py
+    hook-PySide6.Qt3DExtras.py
+    hook-PySide6.Qt3DInput.py
+    hook-PySide6.Qt3DLogic.py
+    hook-PySide6.Qt3DRender.py
+    hook-PySide6.QtAxContainer.py
+    hook-PySide6.QtBluetooth.py
+    hook-PySide6.QtCharts.py
+    hook-PySide6.QtConcurrent.py
+    hook-PySide6.QtCore.py
+    hook-PySide6.QtDataVisualization.py
+    hook-PySide6.QtDBus.py
+    hook-PySide6.QtDesigner.py
+    hook-PySide6.QtGraphs.py
+    hook-PySide6.QtGraphsWidgets.py
+    hook-PySide6.QtGui.py
+    hook-PySide6.QtHelp.py
+    hook-PySide6.QtHttpServer.py
+    hook-PySide6.QtLocation.py
+    hook-PySide6.QtMultimedia.py
+    hook-PySide6.QtMultimediaWidgets.py
+    hook-PySide6.QtNetwork.py
+    hook-PySide6.QtNetworkAuth.py
+    hook-PySide6.QtNfc.py
+    hook-PySide6.QtOpenGL.py
+    hook-PySide6.QtOpenGLWidgets.py
+    hook-PySide6.QtPdf.py
+    hook-PySide6.QtPdfWidgets.py
+    hook-PySide6.QtPositioning.py
+    hook-PySide6.QtPrintSupport.py
+    hook-PySide6.QtQml.py
+    hook-PySide6.QtQuick.py
+    hook-PySide6.QtQuick3D.py
+    hook-PySide6.QtQuickControls2.py
+    hook-PySide6.QtQuickWidgets.py
+    hook-PySide6.QtRemoteObjects.py
+    hook-PySide6.QtScxml.py
+    hook-PySide6.QtSensors.py
+    hook-PySide6.QtSerialBus.py
+    hook-PySide6.QtSerialPort.py
+    hook-PySide6.QtSpatialAudio.py
+    hook-PySide6.QtSql.py
+    hook-PySide6.QtStateMachine.py
+    hook-PySide6.QtSvg.py
+    hook-PySide6.QtSvgWidgets.py
+    hook-PySide6.QtTest.py
+    hook-PySide6.QtTextToSpeech.py
+    hook-PySide6.QtUiTools.py
+    hook-PySide6.QtWebChannel.py
+    hook-PySide6.QtWebEngineCore.py
+    hook-PySide6.QtWebEngineQuick.py
+    hook-PySide6.QtWebEngineWidgets.py
+    hook-PySide6.QtWebSockets.py
+    hook-PySide6.QtWidgets.py
+    hook-PySide6.QtXml.py
+    hook-pytz.py
+    hook-pytzdata.py
+    hook-qtawesome.py
+    hook-qtpy.py
+    hook-scapy.layers.all.py
+    hook-scipy.io.matlab.py
+    hook-scipy.linalg.py
+    hook-scipy.py
+    hook-scipy.sparse.csgraph.py
+    hook-scipy.spatial.transform.rotation.py
+    hook-scipy.spatial._ckdtree.py
+    hook-scipy.special._ellip_harm_2.py
+    hook-scipy.special._ufuncs.py
+    hook-scipy.stats._stats.py
+    hook-scrapy.py
+    hook-setuptools.py
+    hook-setuptools._vendor.importlib_metadata.py
+    hook-setuptools._vendor.jaraco.text.py
+    hook-shelve.py
+    hook-shiboken6.py
+    hook-sphinx.py
+    hook-sqlalchemy.py
+    hook-sqlite3.py
+    hook-sysconfig.py
+    hook-wcwidth.py
+    hook-webbrowser.py
+    hook-win32ctypes.core.py
+    hook-xml.dom.domreg.py
+    hook-xml.etree.cElementTree.py
+    hook-xml.py
+    hook-zope.interface.py
+    hook-_ctypes.py
+    hook-_osx_support.py
+    hook-_pyi_rth_utils.py
+    hook-_tkinter.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\hooks\pre_find_module_path
+    hook-distutils.py
+    hook-pyi_splash.py
+    hook-PyQt5.uic.port_v2.py
+    hook-tkinter.py
+    hook-_pyi_rth_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\hooks\pre_safe_import_module
+    hook-autocommand.py
+    hook-backports.py
+    hook-backports.tarfile.py
+    hook-distutils.py
+    hook-gi.overrides.py
+    hook-gi.py
+    hook-gi.repository.Adw.py
+    hook-gi.repository.AppIndicator3.py
+    hook-gi.repository.Atk.py
+    hook-gi.repository.AyatanaAppIndicator3.py
+    hook-gi.repository.cairo.py
+    hook-gi.repository.Champlain.py
+    hook-gi.repository.Clutter.py
+    hook-gi.repository.DBus.py
+    hook-gi.repository.freetype2.py
+    hook-gi.repository.Gdk.py
+    hook-gi.repository.GdkPixbuf.py
+    hook-gi.repository.Gio.py
+    hook-gi.repository.GioUnix.py
+    hook-gi.repository.GioWin32.py
+    hook-gi.repository.GIRepository.py
+    hook-gi.repository.GLib.py
+    hook-gi.repository.GLibUnix.py
+    hook-gi.repository.GLibWin32.py
+    hook-gi.repository.GModule.py
+    hook-gi.repository.GObject.py
+    hook-gi.repository.Graphene.py
+    hook-gi.repository.Gsk.py
+    hook-gi.repository.Gst.py
+    hook-gi.repository.GstAllocators.py
+    hook-gi.repository.GstApp.py
+    hook-gi.repository.GstAudio.py
+    hook-gi.repository.GstBadAudio.py
+    hook-gi.repository.GstBase.py
+    hook-gi.repository.GstCheck.py
+    hook-gi.repository.GstCodecs.py
+    hook-gi.repository.GstController.py
+    hook-gi.repository.GstGL.py
+    hook-gi.repository.GstGLEGL.py
+    hook-gi.repository.GstGLWayland.py
+    hook-gi.repository.GstGLX11.py
+    hook-gi.repository.GstInsertBin.py
+    hook-gi.repository.GstMpegts.py
+    hook-gi.repository.GstNet.py
+    hook-gi.repository.GstPbutils.py
+    hook-gi.repository.GstPlay.py
+    hook-gi.repository.GstPlayer.py
+    hook-gi.repository.GstRtp.py
+    hook-gi.repository.GstRtsp.py
+    hook-gi.repository.GstRtspServer.py
+    hook-gi.repository.GstSdp.py
+    hook-gi.repository.GstTag.py
+    hook-gi.repository.GstTranscoder.py
+    hook-gi.repository.GstVideo.py
+    hook-gi.repository.GstVulkan.py
+    hook-gi.repository.GstVulkanWayland.py
+    hook-gi.repository.GstVulkanXCB.py
+    hook-gi.repository.GstWebRTC.py
+    hook-gi.repository.Gtk.py
+    hook-gi.repository.GtkChamplain.py
+    hook-gi.repository.GtkClutter.py
+    hook-gi.repository.GtkosxApplication.py
+    hook-gi.repository.GtkSource.py
+    hook-gi.repository.HarfBuzz.py
+    hook-gi.repository.OsmGpsMap.py
+    hook-gi.repository.Pango.py
+    hook-gi.repository.PangoCairo.py
+    hook-gi.repository.Rsvg.py
+    hook-gi.repository.xlib.py
+    hook-importlib_metadata.py
+    hook-importlib_resources.py
+    hook-inflect.py
+    hook-jaraco.context.py
+    hook-jaraco.functools.py
+    hook-jaraco.py
+    hook-jaraco.text.py
+    hook-more_itertools.py
+    hook-ordered_set.py
+    hook-packaging.py
+    hook-platformdirs.py
+    hook-setuptools.extern.six.moves.py
+    hook-six.moves.py
+    hook-tomli.py
+    hook-typeguard.py
+    hook-typing_extensions.py
+    hook-urllib3.packages.six.moves.py
+    hook-wheel.py
+    hook-zipp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\hooks\rthooks
+    pyi_rth_django.py
+    pyi_rth_gdkpixbuf.py
+    pyi_rth_gi.py
+    pyi_rth_gio.py
+    pyi_rth_glib.py
+    pyi_rth_gstreamer.py
+    pyi_rth_gtk.py
+    pyi_rth_inspect.py
+    pyi_rth_kivy.py
+    pyi_rth_mplconfig.py
+    pyi_rth_multiprocessing.py
+    pyi_rth_pkgres.py
+    pyi_rth_pkgutil.py
+    pyi_rth_pyqt5.py
+    pyi_rth_pyqt6.py
+    pyi_rth_pyside2.py
+    pyi_rth_pyside6.py
+    pyi_rth_setuptools.py
+    pyi_rth__tkinter.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\isolated
+    _child.py
+    _parent.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\lib
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\lib\modulegraph
+    find_modules.py
+    modulegraph.py
+    util.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\loader
+    pyiboot01_bootstrap.py
+    pyimod01_archive.py
+    pyimod02_importers.py
+    pyimod03_ctypes.py
+    pyimod04_pywin32.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\utils
+    conftest.py
+    misc.py
+    osx.py
+    run_tests.py
+    tests.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\utils\cliutils
+    archive_viewer.py
+    bindepend.py
+    grab_version.py
+    makespec.py
+    set_version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\utils\hooks
+    conda.py
+    django.py
+    gi.py
+    setuptools.py
+    tcl_tk.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\utils\hooks\qt
+    _modules_info.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\PyInstaller\utils\win32
+    icon.py
+    versioninfo.py
+    winmanifest.py
+    winresource.py
+    winutils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyinstaller-6.21.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyinstaller-6.21.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyinstaller_hooks_contrib-2026.6.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyinstaller_hooks_contrib-2026.6.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pymsgbox
+    _native_win.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pymsgbox-2.0.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pymsgbox-2.0.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput
+    _info.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput\keyboard
+    _base.py
+    _darwin.py
+    _dummy.py
+    _uinput.py
+    _win32.py
+    _xorg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput\mouse
+    _base.py
+    _darwin.py
+    _dummy.py
+    _win32.py
+    _xorg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput\_util
+    darwin.py
+    darwin_vks.py
+    uinput.py
+    win32.py
+    win32_vks.py
+    xorg.py
+    xorg_keysyms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput-1.8.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pynput-1.8.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyperclip
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyperclip-1.11.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyperclip-1.11.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pypiwin32-223.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyrect
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyrect-0.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyrect-0.2.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyscreeze
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyscreeze-1.0.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyscreeze-1.0.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pytesseract
+    pytesseract.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pytesseract-0.3.13.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\debugger
+    configui.py
+    dbgcon.py
+    dbgpyapp.py
+    debugger.py
+    fail.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\Demos
+    cmdserver.py
+    createwin.py
+    demoutils.py
+    dibdemo.py
+    dlgtest.py
+    dyndlg.py
+    fontdemo.py
+    guidemo.py
+    hiertest.py
+    menutest.py
+    objdoc.py
+    openGLDemo.py
+    progressbar.py
+    sliderdemo.py
+    splittst.py
+    threadedgui.py
+    toolbar.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\Demos\app
+    basictimerapp.py
+    customprint.py
+    demoutils.py
+    dlgappdemo.py
+    dojobapp.py
+    helloapp.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\Demos\ocx
+    demoutils.py
+    flash.py
+    msoffice.py
+    ocxserialtest.py
+    ocxtest.py
+    webbrowser.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\dialogs
+    ideoptions.py
+    list.py
+    login.py
+    status.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\docking
+    DockingBar.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\framework
+    app.py
+    bitmap.py
+    cmdline.py
+    dbgcommands.py
+    dlgappcore.py
+    help.py
+    interact.py
+    intpyapp.py
+    intpydde.py
+    scriptutils.py
+    sgrepmdi.py
+    startup.py
+    stdin.py
+    toolmenu.py
+    window.py
+    winout.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\framework\editor
+    configui.py
+    document.py
+    editor.py
+    frame.py
+    ModuleBrowser.py
+    template.py
+    vss.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\framework\editor\color
+    coloreditor.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\idle
+    AutoExpand.py
+    AutoIndent.py
+    CallTips.py
+    FormatParagraph.py
+    IdleHistory.py
+    PyParse.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\mfc
+    activex.py
+    afxres.py
+    dialog.py
+    docview.py
+    object.py
+    thread.py
+    window.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\scintilla
+    bindings.py
+    config.py
+    configui.py
+    control.py
+    document.py
+    find.py
+    formatter.py
+    IDLEenvironment.py
+    keycodes.py
+    scintillacon.py
+    view.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pythonwin\pywin\tools
+    browseProjects.py
+    browser.py
+    hierlist.py
+    regedit.py
+    regpy.py
+    TraceCollector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\python_bidi-0.6.11.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\python_bidi-0.6.11.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\python_bidi-0.6.11.dist-info\sboms
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\python_dotenv-1.2.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\python_dotenv-1.2.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyttsx3
+    driver.py
+    engine.py
+    voice.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyttsx3\drivers
+    avspeech.py
+    dummy.py
+    espeak.py
+    nsss.py
+    sapi5.py
+    _espeak.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyttsx3-2.99.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyttsx3-2.99.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pytweening
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pytweening-1.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pytweening-1.2.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\adodbapi
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\com
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\com\win32comext
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\com\win32comext\mapi
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\com\win32comext\mapi\src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\com\win32comext\mapi\src\MAPIStubLibrary
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\isapi
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\pythonwin
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\pythonwin\pywin
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\pythonwin\pywin\idle
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\pythonwin\Scintilla
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32-312.dist-info\licenses\win32
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32_ctypes-0.2.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywin32_system32
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywinauto
+    actionlogger.py
+    application.py
+    backend.py
+    base_wrapper.py
+    clipboard.py
+    controlproperties.py
+    element_info.py
+    findbestmatch.py
+    findwindows.py
+    fuzzydict.py
+    handleprops.py
+    keyboard.py
+    mouse.py
+    remote_memory_block.py
+    sysinfo.py
+    taskbar.py
+    timings.py
+    uia_defines.py
+    uia_element_info.py
+    win32defines.py
+    win32functions.py
+    win32structures.py
+    win32_element_info.py
+    win32_hooks.py
+    xml_helpers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywinauto\controls
+    common_controls.py
+    hwndwrapper.py
+    menuwrapper.py
+    uiawrapper.py
+    uia_controls.py
+    win32_controls.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywinauto\linux
+    clipboard.py
+    keyboard.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywinauto\tests
+    allcontrols.py
+    asianhotkey.py
+    comboboxdroppedheight.py
+    comparetoreffont.py
+    leadtrailspaces.py
+    miscvalues.py
+    missalignment.py
+    missingextrastring.py
+    overlapping.py
+    repeatedhotkey.py
+    translation.py
+    truncation.py
+    _menux.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pywinauto-0.6.9.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyyaml-6.0.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\pyyaml-6.0.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\regex
+    _main.py
+    _regex_core.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\regex\tests
+    test_regex.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\regex-2026.5.9.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\regex-2026.5.9.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\requests
+    adapters.py
+    api.py
+    auth.py
+    certs.py
+    compat.py
+    cookies.py
+    exceptions.py
+    help.py
+    hooks.py
+    models.py
+    packages.py
+    sessions.py
+    status_codes.py
+    structures.py
+    utils.py
+    _internal_utils.py
+    _types.py
+    __init__.py
+    __version__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\requests-2.34.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\requests-2.34.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\rich
+    abc.py
+    align.py
+    ansi.py
+    bar.py
+    box.py
+    cells.py
+    color.py
+    color_triplet.py
+    columns.py
+    console.py
+    constrain.py
+    containers.py
+    control.py
+    default_styles.py
+    diagnose.py
+    emoji.py
+    errors.py
+    filesize.py
+    file_proxy.py
+    highlighter.py
+    json.py
+    jupyter.py
+    layout.py
+    live.py
+    live_render.py
+    logging.py
+    markdown.py
+    markup.py
+    measure.py
+    padding.py
+    pager.py
+    palette.py
+    panel.py
+    pretty.py
+    progress.py
+    progress_bar.py
+    prompt.py
+    protocol.py
+    region.py
+    repr.py
+    rule.py
+    scope.py
+    screen.py
+    segment.py
+    spinner.py
+    status.py
+    style.py
+    styled.py
+    syntax.py
+    table.py
+    terminal_theme.py
+    text.py
+    theme.py
+    themes.py
+    traceback.py
+    tree.py
+    _emoji_codes.py
+    _emoji_replace.py
+    _export_format.py
+    _extension.py
+    _fileno.py
+    _inspect.py
+    _log_render.py
+    _loop.py
+    _null_file.py
+    _palettes.py
+    _pick.py
+    _ratio.py
+    _spinners.py
+    _stack.py
+    _timer.py
+    _win32_console.py
+    _windows.py
+    _windows_renderer.py
+    _wrap.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\rich\_unicode_data
+    unicode10-0-0.py
+    unicode11-0-0.py
+    unicode12-0-0.py
+    unicode12-1-0.py
+    unicode13-0-0.py
+    unicode14-0-0.py
+    unicode15-0-0.py
+    unicode15-1-0.py
+    unicode16-0-0.py
+    unicode17-0-0.py
+    unicode4-1-0.py
+    unicode5-0-0.py
+    unicode5-1-0.py
+    unicode5-2-0.py
+    unicode6-0-0.py
+    unicode6-1-0.py
+    unicode6-2-0.py
+    unicode6-3-0.py
+    unicode7-0-0.py
+    unicode8-0-0.py
+    unicode9-0-0.py
+    _versions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\rich-15.0.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\rich-15.0.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scikit_image-0.26.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy
+    conftest.py
+    version.py
+    _distributor_init.py
+    __config__.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\cluster
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\cluster\hierarchy
+    _hierarchy_impl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\cluster\hierarchy\tests
+    hierarchy_test_data.py
+    test_disjoint_set.py
+    test_hierarchy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\cluster\vq
+    _vq_impl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\cluster\vq\tests
+    test_vq.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\constants
+    codata.py
+    constants.py
+    _codata.py
+    _constants.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\constants\tests
+    test_codata.py
+    test_constants.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\datasets
+    _download_all.py
+    _fetchers.py
+    _registry.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\datasets\tests
+    test_data.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\differentiate
+    _differentiate.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\differentiate\tests
+    test_differentiate.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fft
+    _backend.py
+    _basic.py
+    _basic_backend.py
+    _debug_backends.py
+    _fftlog.py
+    _fftlog_backend.py
+    _helper.py
+    _realtransforms.py
+    _realtransforms_backend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fft\tests
+    mock_backend.py
+    test_backend.py
+    test_basic.py
+    test_fftlog.py
+    test_helper.py
+    test_multithreading.py
+    test_real_transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fft\_duccfft
+    basic.py
+    helper.py
+    realtransforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fft\_duccfft\tests
+    test_basic.py
+    test_real_transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fftpack
+    basic.py
+    helper.py
+    pseudo_diffs.py
+    realtransforms.py
+    _basic.py
+    _helper.py
+    _pseudo_diffs.py
+    _realtransforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\fftpack\tests
+    test_basic.py
+    test_helper.py
+    test_import.py
+    test_pseudo_diffs.py
+    test_real_transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\integrate
+    dop.py
+    lsoda.py
+    odepack.py
+    quadpack.py
+    vode.py
+    _bvp.py
+    _cubature.py
+    _lebedev.py
+    _ode.py
+    _odepack_py.py
+    _quadpack_py.py
+    _quadrature.py
+    _quad_vec.py
+    _tanhsinh.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\integrate\tests
+    test_banded_ode_solvers.py
+    test_bvp.py
+    test_cubature.py
+    test_integrate.py
+    test_quadpack.py
+    test_quadrature.py
+    test_tanhsinh.py
+    test__quad_vec.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\integrate\_ivp
+    base.py
+    bdf.py
+    common.py
+    dop853_coefficients.py
+    ivp.py
+    lsoda.py
+    radau.py
+    rk.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\integrate\_ivp\tests
+    test_ivp.py
+    test_rk.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\integrate\_rules
+    _base.py
+    _gauss_kronrod.py
+    _gauss_legendre.py
+    _genz_malik.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\interpolate
+    dfitpack.py
+    fitpack.py
+    fitpack2.py
+    interpnd.py
+    interpolate.py
+    ndgriddata.py
+    polyint.py
+    rbf.py
+    _bary_rational.py
+    _bsplines.py
+    _cubic.py
+    _fitpack2.py
+    _fitpack_impl.py
+    _fitpack_py.py
+    _fitpack_repro.py
+    _interpolate.py
+    _ndbspline.py
+    _ndgriddata.py
+    _pade.py
+    _polyint.py
+    _rbf.py
+    _rbfinterp.py
+    _rbfinterp_common.py
+    _rbfinterp_np.py
+    _rbfinterp_xp.py
+    _regrid.py
+    _rgi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\interpolate\tests
+    test_bary_rational.py
+    test_bsplines.py
+    test_fitpack.py
+    test_fitpack2.py
+    test_gil.py
+    test_interpnd.py
+    test_interpolate.py
+    test_ndgriddata.py
+    test_pade.py
+    test_polyint.py
+    test_rbf.py
+    test_rbfinterp.py
+    test_rgi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\interpolate\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io
+    harwell_boeing.py
+    idl.py
+    mmio.py
+    netcdf.py
+    wavfile.py
+    _fortran.py
+    _idl.py
+    _mmio.py
+    _netcdf.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\arff
+    arffread.py
+    _arffread.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\arff\tests
+    test_arffread.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\arff\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\matlab
+    byteordercodes.py
+    mio.py
+    mio4.py
+    mio5.py
+    mio5_params.py
+    mio5_utils.py
+    miobase.py
+    mio_utils.py
+    streams.py
+    _byteordercodes.py
+    _mio.py
+    _mio4.py
+    _mio5.py
+    _mio5_params.py
+    _miobase.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\matlab\tests
+    test_byteordercodes.py
+    test_mio.py
+    test_mio5_utils.py
+    test_miobase.py
+    test_mio_funcs.py
+    test_mio_utils.py
+    test_pathological.py
+    test_streams.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\matlab\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\tests
+    test_fortran.py
+    test_idl.py
+    test_mmio.py
+    test_netcdf.py
+    test_paths.py
+    test_wavfile.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\_fast_matrix_market
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\_harwell_boeing
+    hb.py
+    _fortran_format_parser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\io\_harwell_boeing\tests
+    test_fortran_format.py
+    test_hb.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\linalg
+    basic.py
+    blas.py
+    decomp.py
+    decomp_cholesky.py
+    decomp_lu.py
+    decomp_qr.py
+    decomp_schur.py
+    decomp_svd.py
+    interpolative.py
+    lapack.py
+    matfuncs.py
+    misc.py
+    special_matrices.py
+    _basic.py
+    _decomp.py
+    _decomp_cholesky.py
+    _decomp_cossin.py
+    _decomp_ldl.py
+    _decomp_lu.py
+    _decomp_polar.py
+    _decomp_qr.py
+    _decomp_qz.py
+    _decomp_schur.py
+    _decomp_svd.py
+    _expm_frechet.py
+    _matfuncs.py
+    _matfuncs_inv_ssq.py
+    _matfuncs_sqrtm.py
+    _misc.py
+    _procrustes.py
+    _sketches.py
+    _solvers.py
+    _special_matrices.py
+    _testutils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\linalg\tests
+    test_basic.py
+    test_batch.py
+    test_blas.py
+    test_cythonized_array_utils.py
+    test_cython_abi.py
+    test_cython_blas.py
+    test_cython_lapack.py
+    test_decomp.py
+    test_decomp_cholesky.py
+    test_decomp_cossin.py
+    test_decomp_ldl.py
+    test_decomp_lu.py
+    test_decomp_polar.py
+    test_decomp_update.py
+    test_deprecations.py
+    test_extending.py
+    test_fblas.py
+    test_interpolative.py
+    test_lapack.py
+    test_matfuncs.py
+    test_matmul_toeplitz.py
+    test_procrustes.py
+    test_sketches.py
+    test_solvers.py
+    test_solve_toeplitz.py
+    test_special_matrices.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\linalg\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\linalg\tests\_cython_examples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\misc
+    common.py
+    doccer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\ndimage
+    filters.py
+    fourier.py
+    interpolation.py
+    measurements.py
+    morphology.py
+    _delegators.py
+    _filters.py
+    _fourier.py
+    _interpolation.py
+    _measurements.py
+    _morphology.py
+    _ndimage_api.py
+    _ni_docstrings.py
+    _ni_support.py
+    _support_alternative_backends.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\ndimage\tests
+    test_c_api.py
+    test_datatypes.py
+    test_filters.py
+    test_fourier.py
+    test_interpolation.py
+    test_measurements.py
+    test_morphology.py
+    test_ni_support.py
+    test_splines.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\ndimage\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\odr
+    models.py
+    odrpack.py
+    _add_newdocs.py
+    _models.py
+    _odrpack.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\odr\tests
+    test_odr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize
+    cobyla.py
+    elementwise.py
+    lbfgsb.py
+    linesearch.py
+    minpack.py
+    minpack2.py
+    moduleTNC.py
+    nonlin.py
+    optimize.py
+    slsqp.py
+    tnc.py
+    zeros.py
+    _basinhopping.py
+    _bracket.py
+    _chandrupatla.py
+    _cobyla_py.py
+    _cobyqa_py.py
+    _constraints.py
+    _dcsrch.py
+    _differentiable_functions.py
+    _differentialevolution.py
+    _direct_py.py
+    _dual_annealing.py
+    _elementwise.py
+    _hessian_update_strategy.py
+    _isotonic.py
+    _lbfgsb_py.py
+    _linesearch.py
+    _linprog.py
+    _linprog_doc.py
+    _linprog_highs.py
+    _linprog_ip.py
+    _linprog_rs.py
+    _linprog_simplex.py
+    _linprog_util.py
+    _milp.py
+    _minimize.py
+    _minpack_py.py
+    _nnls.py
+    _nonlin.py
+    _numdiff.py
+    _optimize.py
+    _qap.py
+    _remove_redundancy.py
+    _root.py
+    _root_scalar.py
+    _shgo.py
+    _slsqp_py.py
+    _spectral.py
+    _tnc.py
+    _trustregion.py
+    _trustregion_dogleg.py
+    _trustregion_exact.py
+    _trustregion_krylov.py
+    _trustregion_ncg.py
+    _tstutils.py
+    _zeros_py.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\cython_optimize
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\tests
+    test_bracket.py
+    test_chandrupatla.py
+    test_cobyla.py
+    test_cobyqa.py
+    test_constraints.py
+    test_constraint_conversion.py
+    test_cython_abi.py
+    test_cython_optimize.py
+    test_differentiable_functions.py
+    test_direct.py
+    test_extending.py
+    test_hessian_update_strategy.py
+    test_isotonic_regression.py
+    test_lbfgsb_hessinv.py
+    test_lbfgsb_setulb.py
+    test_least_squares.py
+    test_linear_assignment.py
+    test_linesearch.py
+    test_linprog.py
+    test_lsq_common.py
+    test_lsq_linear.py
+    test_milp.py
+    test_minimize_constrained.py
+    test_minpack.py
+    test_nnls.py
+    test_nonlin.py
+    test_optimize.py
+    test_quadratic_assignment.py
+    test_regression.py
+    test_slsqp.py
+    test_tnc.py
+    test_trustregion.py
+    test_trustregion_exact.py
+    test_trustregion_krylov.py
+    test_zeros.py
+    test__basinhopping.py
+    test__differential_evolution.py
+    test__dual_annealing.py
+    test__linprog_clean_inputs.py
+    test__numdiff.py
+    test__remove_redundancy.py
+    test__root.py
+    test__shgo.py
+    test__spectral.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\tests\_cython_examples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_highspy
+    _highs_wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_lsq
+    bvls.py
+    common.py
+    dogbox.py
+    least_squares.py
+    lsq_linear.py
+    trf.py
+    trf_linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_shgo_lib
+    _complex.py
+    _vertex.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_trlib
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_trustregion_constr
+    canonical_constraint.py
+    equality_constrained_sqp.py
+    minimize_trustregion_constr.py
+    projections.py
+    qp_subproblem.py
+    report.py
+    tr_interior_point.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\optimize\_trustregion_constr\tests
+    test_canonical_constraint.py
+    test_nested_minimize.py
+    test_projections.py
+    test_qp_subproblem.py
+    test_report.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\signal
+    bsplines.py
+    filter_design.py
+    fir_filter_design.py
+    ltisys.py
+    lti_conversion.py
+    signaltools.py
+    spectral.py
+    spline.py
+    waveforms.py
+    wavelets.py
+    _arraytools.py
+    _czt.py
+    _delegators.py
+    _filter_design.py
+    _fir_filter_design.py
+    _ltisys.py
+    _lti_conversion.py
+    _max_len_seq.py
+    _peak_finding.py
+    _polyutils.py
+    _savitzky_golay.py
+    _short_time_fft.py
+    _signaltools.py
+    _signal_api.py
+    _spectral_py.py
+    _spline_filters.py
+    _support_alternative_backends.py
+    _upfirdn.py
+    _waveforms.py
+    _wavelets.py
+    _whittaker.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\signal\tests
+    mpsig.py
+    test_array_tools.py
+    test_bsplines.py
+    test_cont2discrete.py
+    test_czt.py
+    test_dltisys.py
+    test_filter_design.py
+    test_fir_filter_design.py
+    test_ltisys.py
+    test_max_len_seq.py
+    test_peak_finding.py
+    test_result_type.py
+    test_savitzky_golay.py
+    test_short_time_fft.py
+    test_signaltools.py
+    test_spectral.py
+    test_splines.py
+    test_upfirdn.py
+    test_waveforms.py
+    test_wavelets.py
+    test_whittaker.py
+    test_windows.py
+    _scipy_spectral_test_shim.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\signal\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\signal\windows
+    windows.py
+    _windows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse
+    base.py
+    bsr.py
+    compressed.py
+    construct.py
+    coo.py
+    csc.py
+    csr.py
+    data.py
+    dia.py
+    dok.py
+    extract.py
+    lil.py
+    sparsetools.py
+    spfuncs.py
+    sputils.py
+    _base.py
+    _bsr.py
+    _compressed.py
+    _construct.py
+    _coo.py
+    _csc.py
+    _csr.py
+    _data.py
+    _dia.py
+    _dok.py
+    _extract.py
+    _index.py
+    _lil.py
+    _matrix.py
+    _matrix_io.py
+    _spfuncs.py
+    _sputils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\csgraph
+    _laplacian.py
+    _validation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\csgraph\tests
+    test_connected_components.py
+    test_conversions.py
+    test_flow.py
+    test_graph_laplacian.py
+    test_index_arrays_dtype.py
+    test_matching.py
+    test_pydata_sparse.py
+    test_reordering.py
+    test_shortest_path.py
+    test_spanning_tree.py
+    test_traversal.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg
+    dsolve.py
+    eigen.py
+    interface.py
+    isolve.py
+    matfuncs.py
+    _expm_multiply.py
+    _funm_multiply_krylov.py
+    _interface.py
+    _matfuncs.py
+    _norm.py
+    _onenormest.py
+    _special_sparse_arrays.py
+    _svdp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\tests
+    test_expm_multiply.py
+    test_funm_multiply_krylov.py
+    test_interface.py
+    test_matfuncs.py
+    test_norm.py
+    test_onenormest.py
+    test_propack.py
+    test_pydata_sparse.py
+    test_special_sparse_arrays.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_dsolve
+    linsolve.py
+    _add_newdocs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_dsolve\tests
+    test_linsolve.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen
+    _svds.py
+    _svds_doc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen\arpack
+    arpack.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen\arpack\tests
+    test_arpack.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen\lobpcg
+    lobpcg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen\lobpcg\tests
+    test_lobpcg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_eigen\tests
+    test_svds.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_isolve
+    iterative.py
+    lgmres.py
+    lsmr.py
+    lsqr.py
+    minres.py
+    tfqmr.py
+    utils.py
+    _gcrotmk.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\linalg\_isolve\tests
+    test_gcrotmk.py
+    test_iterative.py
+    test_lgmres.py
+    test_lsmr.py
+    test_lsqr.py
+    test_minres.py
+    test_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\sparse\tests
+    test_64bit.py
+    test_arithmetic1d.py
+    test_array_api.py
+    test_base.py
+    test_common1d.py
+    test_construct.py
+    test_coo.py
+    test_csc.py
+    test_csr.py
+    test_dok.py
+    test_extract.py
+    test_indexing1d.py
+    test_matrix_io.py
+    test_minmax1d.py
+    test_sparsetools.py
+    test_spfuncs.py
+    test_sputils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial
+    ckdtree.py
+    distance.py
+    kdtree.py
+    qhull.py
+    _geometric_slerp.py
+    _kdtree.py
+    _plotutils.py
+    _procrustes.py
+    _spherical_voronoi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial\qhull_src
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial\tests
+    test_distance.py
+    test_hausdorff.py
+    test_kdtree.py
+    test_qhull.py
+    test_slerp.py
+    test_spherical_voronoi.py
+    test__plotutils.py
+    test__procrustes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial\tests\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial\transform
+    rotation.py
+    _rigid_transform.py
+    _rigid_transform_xp.py
+    _rotation.py
+    _rotation_groups.py
+    _rotation_spline.py
+    _rotation_xp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\spatial\transform\tests
+    test_rigid_transform.py
+    test_rotation.py
+    test_rotation_groups.py
+    test_rotation_spline.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\special
+    add_newdocs.py
+    basic.py
+    orthogonal.py
+    sf_error.py
+    specfun.py
+    spfun_stats.py
+    _add_newdocs.py
+    _basic.py
+    _ellip_harm.py
+    _input_validation.py
+    _lambertw.py
+    _logsumexp.py
+    _mptestutils.py
+    _multiufuncs.py
+    _orthogonal.py
+    _sf_error.py
+    _spfun_stats.py
+    _spherical_bessel.py
+    _support_alternative_backends.py
+    _testutils.py
+    _ufunc_tools.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\special\tests
+    test_basic.py
+    test_bdtr.py
+    test_boost_ufuncs.py
+    test_boxcox.py
+    test_cdflib.py
+    test_cdft_asymptotic.py
+    test_cephes_intp_cast.py
+    test_cosine_distr.py
+    test_cython_abi.py
+    test_cython_special.py
+    test_data.py
+    test_dd.py
+    test_digamma.py
+    test_ellip_harm.py
+    test_erfinv.py
+    test_exponential_integrals.py
+    test_extending.py
+    test_faddeeva.py
+    test_gamma.py
+    test_gammainc.py
+    test_gen_harmonic.py
+    test_hyp2f1.py
+    test_hypergeometric.py
+    test_iv_ratio.py
+    test_kolmogorov.py
+    test_lambertw.py
+    test_legendre.py
+    test_log1mexp.py
+    test_loggamma.py
+    test_logit.py
+    test_logsumexp.py
+    test_mpmath.py
+    test_nan_inputs.py
+    test_ndtr.py
+    test_ndtri_exp.py
+    test_orthogonal.py
+    test_orthogonal_eval.py
+    test_owens_t.py
+    test_pcf.py
+    test_pdtr.py
+    test_powm1.py
+    test_precompute_expn_asy.py
+    test_precompute_gammainc.py
+    test_precompute_utils.py
+    test_round.py
+    test_sf_error.py
+    test_sici.py
+    test_specfun.py
+    test_spence.py
+    test_spfun_stats.py
+    test_spherical_bessel.py
+    test_sph_harm.py
+    test_support_alternative_backends.py
+    test_trig.py
+    test_ufunc_infra.py
+    test_ufunc_signatures.py
+    test_wrightomega.py
+    test_wright_bessel.py
+    test_zeta.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\special\tests\data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\special\tests\_cython_examples
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\special\_precompute
+    cosine_cdf.py
+    expn_asy.py
+    gammainc_asy.py
+    gammainc_data.py
+    hyp2f1_data.py
+    lambertw.py
+    loggamma.py
+    struve_convergence.py
+    utils.py
+    wrightomega.py
+    wright_bessel.py
+    wright_bessel_data.py
+    zetac.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats
+    biasedurn.py
+    contingency.py
+    distributions.py
+    kde.py
+    morestats.py
+    mstats.py
+    mstats_basic.py
+    mstats_extras.py
+    mvn.py
+    qmc.py
+    sampling.py
+    stats.py
+    _axis_nan_policy.py
+    _binned_statistic.py
+    _binomtest.py
+    _bws_test.py
+    _censored_data.py
+    _common.py
+    _constants.py
+    _continued_fraction.py
+    _continuous_distns.py
+    _correlation.py
+    _covariance.py
+    _crosstab.py
+    _discrete_distns.py
+    _distn_infrastructure.py
+    _distribution_infrastructure.py
+    _distr_params.py
+    _entropy.py
+    _finite_differences.py
+    _fit.py
+    _hypotests.py
+    _kde.py
+    _ksstats.py
+    _mannwhitneyu.py
+    _mgc.py
+    _morestats.py
+    _mstats_basic.py
+    _mstats_extras.py
+    _multicomp.py
+    _multivariate.py
+    _new_distributions.py
+    _odds_ratio.py
+    _page_trend_test.py
+    _probability_distribution.py
+    _qmc.py
+    _qmvnt.py
+    _quantile.py
+    _relative_risk.py
+    _resampling.py
+    _result_classes.py
+    _sampling.py
+    _sensitivity_analysis.py
+    _stats_mstats_common.py
+    _stats_py.py
+    _survival.py
+    _tukeylambda_stats.py
+    _variation.py
+    _warnings_errors.py
+    _wilcoxon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests
+    common_tests.py
+    test_axis_nan_policy.py
+    test_binned_statistic.py
+    test_censored_data.py
+    test_contingency.py
+    test_continued_fraction.py
+    test_continuous.py
+    test_continuous_basic.py
+    test_continuous_fit_censored.py
+    test_correlation.py
+    test_crosstab.py
+    test_device_dtype.py
+    test_discrete_basic.py
+    test_discrete_distns.py
+    test_distributions.py
+    test_entropy.py
+    test_fast_gen_inversion.py
+    test_fit.py
+    test_hypotests.py
+    test_kdeoth.py
+    test_marray.py
+    test_mgc.py
+    test_morestats.py
+    test_mstats_basic.py
+    test_mstats_extras.py
+    test_multicomp.py
+    test_multivariate.py
+    test_new_distributions.py
+    test_odds_ratio.py
+    test_qmc.py
+    test_quantile.py
+    test_rank.py
+    test_relative_risk.py
+    test_resampling.py
+    test_sampling.py
+    test_sensitivity_analysis.py
+    test_stats.py
+    test_survival.py
+    test_tukeylambda_stats.py
+    test_variation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests\data
+    fisher_exact_results_from_r.py
+    _mvt.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests\data\levy_stable
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests\data\nist_anova
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests\data\nist_linregress
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\tests\test_generation
+    reference_distributions.py
+    reference_distribution_infrastructure_tests.py
+    studentized_range_mpmath_ref.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\_levy_stable
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\_rcont
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\stats\_unuran
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external
+    _array_api_compat_vendor.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat
+    _internal.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\common
+    _aliases.py
+    _fft.py
+    _helpers.py
+    _linalg.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\cupy
+    fft.py
+    linalg.py
+    _aliases.py
+    _info.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\dask
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\dask\array
+    fft.py
+    linalg.py
+    _aliases.py
+    _info.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\numpy
+    fft.py
+    linalg.py
+    _aliases.py
+    _info.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_compat\torch
+    fft.py
+    linalg.py
+    _aliases.py
+    _info.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_extra
+    testing.py
+    _delegation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_extra\_lib
+    _at.py
+    _backends.py
+    _funcs.py
+    _lazy.py
+    _testing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\array_api_extra\_lib\_utils
+    _compat.py
+    _helpers.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\cobyqa
+    framework.py
+    main.py
+    models.py
+    problem.py
+    settings.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\cobyqa\subsolvers
+    geometry.py
+    optim.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\cobyqa\utils
+    exceptions.py
+    math.py
+    versions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\packaging_version
+    version.py
+    _structures.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\pyprima
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\pyprima\cobyla
+    cobyla.py
+    cobylb.py
+    geometry.py
+    initialize.py
+    trustregion.py
+    update.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_external\pyprima\common
+    checkbreak.py
+    consts.py
+    evaluate.py
+    history.py
+    infos.py
+    linalg.py
+    message.py
+    powalg.py
+    preproc.py
+    present.py
+    ratio.py
+    redrho.py
+    selectx.py
+    _bounds.py
+    _linear_constraints.py
+    _nonlinear_constraints.py
+    _project.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_lib
+    deprecation.py
+    doccer.py
+    uarray.py
+    _array_api.py
+    _array_api_docs_tables.py
+    _array_api_no_0d.py
+    _array_api_override.py
+    _bunch.py
+    _ccallback.py
+    _disjoint_set.py
+    _docscrape.py
+    _elementwise_iterative_method.py
+    _gcutils.py
+    _public_api.py
+    _sparse.py
+    _testutils.py
+    _util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_lib\tests
+    test_array_api.py
+    test_bunch.py
+    test_ccallback.py
+    test_config.py
+    test_deprecation.py
+    test_doccer.py
+    test_import_cycles.py
+    test_public_api.py
+    test_scipy_version.py
+    test_warnings.py
+    test_xp_capabilities.py
+    test__gcutils.py
+    test__testutils.py
+    test__util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy\_lib\_uarray
+    _backend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy-1.18.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\scipy.libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools
+    archive_util.py
+    build_meta.py
+    depends.py
+    discovery.py
+    dist.py
+    errors.py
+    extension.py
+    glob.py
+    installer.py
+    launch.py
+    logging.py
+    modified.py
+    monkey.py
+    msvc.py
+    namespaces.py
+    unicode_utils.py
+    version.py
+    warnings.py
+    wheel.py
+    windows_support.py
+    _core_metadata.py
+    _discovery.py
+    _entry_points.py
+    _imp.py
+    _importlib.py
+    _itertools.py
+    _normalization.py
+    _path.py
+    _reqs.py
+    _scripts.py
+    _shutil.py
+    _static.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\command
+    alias.py
+    bdist_egg.py
+    bdist_rpm.py
+    bdist_wheel.py
+    build.py
+    build_clib.py
+    build_ext.py
+    build_py.py
+    develop.py
+    dist_info.py
+    easy_install.py
+    editable_wheel.py
+    egg_info.py
+    install.py
+    install_egg_info.py
+    install_lib.py
+    install_scripts.py
+    rotate.py
+    saveopts.py
+    sdist.py
+    setopt.py
+    test.py
+    _requirestxt.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\compat
+    py310.py
+    py311.py
+    py312.py
+    py39.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\config
+    expand.py
+    pyprojecttoml.py
+    setupcfg.py
+    _apply_pyprojecttoml.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\config\_validate_pyproject
+    error_reporting.py
+    extra_validations.py
+    fastjsonschema_exceptions.py
+    fastjsonschema_validations.py
+    formats.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests
+    contexts.py
+    environment.py
+    fixtures.py
+    mod_with_constant.py
+    namespaces.py
+    script-with-bom.py
+    test_archive_util.py
+    test_bdist_deprecations.py
+    test_bdist_egg.py
+    test_bdist_wheel.py
+    test_build.py
+    test_build_clib.py
+    test_build_ext.py
+    test_build_meta.py
+    test_build_py.py
+    test_config_discovery.py
+    test_core_metadata.py
+    test_depends.py
+    test_develop.py
+    test_dist.py
+    test_distutils_adoption.py
+    test_dist_info.py
+    test_editable_install.py
+    test_egg_info.py
+    test_extern.py
+    test_find_packages.py
+    test_find_py_modules.py
+    test_glob.py
+    test_install_scripts.py
+    test_logging.py
+    test_manifest.py
+    test_namespaces.py
+    test_scripts.py
+    test_sdist.py
+    test_setopt.py
+    test_setuptools.py
+    test_shutil_wrapper.py
+    test_unicode_utils.py
+    test_virtualenv.py
+    test_warnings.py
+    test_wheel.py
+    test_windows_wrappers.py
+    text.py
+    textwrap.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\compat
+    py39.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\config
+    test_apply_pyprojecttoml.py
+    test_expand.py
+    test_pyprojecttoml.py
+    test_pyprojecttoml_dynamic_deps.py
+    test_setupcfg.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\config\downloads
+    preload.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\indexes
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\indexes\test_links_priority
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\indexes\test_links_priority\simple
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\indexes\test_links_priority\simple\foobar
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\tests\integration
+    helpers.py
+    test_pbr.py
+    test_pip_install_sdist.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils
+    archive_util.py
+    ccompiler.py
+    cmd.py
+    core.py
+    cygwinccompiler.py
+    debug.py
+    dep_util.py
+    dir_util.py
+    dist.py
+    errors.py
+    extension.py
+    fancy_getopt.py
+    filelist.py
+    file_util.py
+    log.py
+    spawn.py
+    sysconfig.py
+    text_file.py
+    unixccompiler.py
+    util.py
+    version.py
+    versionpredicate.py
+    zosccompiler.py
+    _log.py
+    _macos_compat.py
+    _modified.py
+    _msvccompiler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\command
+    bdist.py
+    bdist_dumb.py
+    bdist_rpm.py
+    build.py
+    build_clib.py
+    build_ext.py
+    build_py.py
+    build_scripts.py
+    check.py
+    clean.py
+    config.py
+    install.py
+    install_data.py
+    install_egg_info.py
+    install_headers.py
+    install_lib.py
+    install_scripts.py
+    sdist.py
+    _framework_compat.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\compat
+    numpy.py
+    py39.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\compilers
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\compilers\C
+    base.py
+    cygwin.py
+    errors.py
+    msvc.py
+    unix.py
+    zos.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\compilers\C\tests
+    test_base.py
+    test_cygwin.py
+    test_mingw.py
+    test_msvc.py
+    test_unix.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\tests
+    support.py
+    test_archive_util.py
+    test_bdist.py
+    test_bdist_dumb.py
+    test_bdist_rpm.py
+    test_build.py
+    test_build_clib.py
+    test_build_ext.py
+    test_build_py.py
+    test_build_scripts.py
+    test_check.py
+    test_clean.py
+    test_cmd.py
+    test_config_cmd.py
+    test_core.py
+    test_dir_util.py
+    test_dist.py
+    test_extension.py
+    test_filelist.py
+    test_file_util.py
+    test_install.py
+    test_install_data.py
+    test_install_headers.py
+    test_install_lib.py
+    test_install_scripts.py
+    test_log.py
+    test_modified.py
+    test_sdist.py
+    test_spawn.py
+    test_sysconfig.py
+    test_text_file.py
+    test_util.py
+    test_version.py
+    test_versionpredicate.py
+    unix_compat.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_distutils\tests\compat
+    py39.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\autocommand
+    autoasync.py
+    autocommand.py
+    automain.py
+    autoparse.py
+    errors.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\autocommand-2.2.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\backports
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\backports\tarfile
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\backports\tarfile\compat
+    py38.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\backports.tarfile-1.2.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+    diagnose.py
+    _adapters.py
+    _collections.py
+    _compat.py
+    _functools.py
+    _itertools.py
+    _meta.py
+    _text.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\importlib_metadata\compat
+    py311.py
+    py39.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\importlib_metadata-8.7.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\importlib_metadata-8.7.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco\context
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco\functools
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco\text
+    layouts.py
+    show-newlines.py
+    strip-prefix.py
+    to-dvorak.py
+    to-qwerty.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco.text-4.0.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco_context-6.1.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco_context-6.1.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco_functools-4.4.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\jaraco_functools-4.4.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\more_itertools
+    more.py
+    recipes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\more_itertools-10.8.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\more_itertools-10.8.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\packaging
+    markers.py
+    metadata.py
+    pylock.py
+    requirements.py
+    specifiers.py
+    tags.py
+    utils.py
+    version.py
+    _elffile.py
+    _manylinux.py
+    _musllinux.py
+    _parser.py
+    _structures.py
+    _tokenizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\packaging\licenses
+    _spdx.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\packaging-26.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\packaging-26.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\platformdirs
+    android.py
+    api.py
+    macos.py
+    unix.py
+    version.py
+    windows.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\platformdirs-4.4.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\platformdirs-4.4.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\tomli
+    _parser.py
+    _re.py
+    _types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\tomli-2.4.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\tomli-2.4.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\wheel
+    bdist_wheel.py
+    macosx_libfile.py
+    metadata.py
+    wheelfile.py
+    _bdist_wheel.py
+    _metadata.py
+    _setuptools_logging.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\wheel\_commands
+    convert.py
+    pack.py
+    tags.py
+    unpack.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\wheel-0.46.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\wheel-0.46.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\zipp
+    glob.py
+    _functools.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\zipp\compat
+    overlay.py
+    py310.py
+    py313.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\zipp-3.23.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools\_vendor\zipp-3.23.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools-81.0.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\setuptools-81.0.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely
+    affinity.py
+    conftest.py
+    constructive.py
+    coordinates.py
+    coords.py
+    creation.py
+    decorators.py
+    errors.py
+    geos.py
+    io.py
+    linear.py
+    measurement.py
+    ops.py
+    plotting.py
+    predicates.py
+    prepared.py
+    set_operations.py
+    speedups.py
+    strtree.py
+    testing.py
+    validation.py
+    wkb.py
+    wkt.py
+    _coverage.py
+    _enum.py
+    _geometry.py
+    _ragged_array.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\algorithms
+    cga.py
+    polylabel.py
+    _oriented_envelope.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\geometry
+    base.py
+    collection.py
+    geo.py
+    linestring.py
+    multilinestring.py
+    multipoint.py
+    multipolygon.py
+    point.py
+    polygon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\tests
+    common.py
+    test_constructive.py
+    test_coordinates.py
+    test_coverage.py
+    test_creation.py
+    test_creation_indices.py
+    test_decorators.py
+    test_geometry.py
+    test_io.py
+    test_linear.py
+    test_measurement.py
+    test_misc.py
+    test_plotting.py
+    test_predicates.py
+    test_ragged_array.py
+    test_set_operations.py
+    test_strtree.py
+    test_testing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\tests\geometry
+    test_collection.py
+    test_coords.py
+    test_decimal.py
+    test_emptiness.py
+    test_equality.py
+    test_format.py
+    test_geometry_base.py
+    test_hash.py
+    test_linestring.py
+    test_multi.py
+    test_multilinestring.py
+    test_multipoint.py
+    test_multipolygon.py
+    test_point.py
+    test_polygon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\tests\legacy
+    conftest.py
+    test_affinity.py
+    test_box.py
+    test_buffer.py
+    test_cga.py
+    test_clip_by_rect.py
+    test_create_inconsistent_dimensionality.py
+    test_delaunay.py
+    test_empty_polygons.py
+    test_equality.py
+    test_geointerface.py
+    test_invalid_geometries.py
+    test_linear_referencing.py
+    test_linemerge.py
+    test_locale.py
+    test_make_valid.py
+    test_mapping.py
+    test_minimum_clearance.py
+    test_ndarrays.py
+    test_nearest.py
+    test_operations.py
+    test_operators.py
+    test_orient.py
+    test_parallel_offset.py
+    test_persist.py
+    test_pickle.py
+    test_polygonize.py
+    test_polylabel.py
+    test_predicates.py
+    test_prepared.py
+    test_products_z.py
+    test_shape.py
+    test_shared_paths.py
+    test_singularity.py
+    test_snap.py
+    test_split.py
+    test_substring.py
+    test_svg.py
+    test_transform.py
+    test_union.py
+    test_validation.py
+    test_vectorized.py
+    test_voronoi_diagram.py
+    test_wkb.py
+    test_wkt.py
+    threading_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely\vectorized
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely-2.1.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely-2.1.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shapely.libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shellingham
+    nt.py
+    _core.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shellingham\posix
+    proc.py
+    ps.py
+    _core.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\shellingham-1.5.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\six-1.17.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage
+    conftest.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\color
+    adapt_rgb.py
+    colorconv.py
+    colorlabel.py
+    delta_e.py
+    rgb_colors.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\data
+    _binary_blobs.py
+    _fetchers.py
+    _registry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\draw
+    draw.py
+    draw3d.py
+    draw_nd.py
+    _polygon2mask.py
+    _random_shapes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\exposure
+    exposure.py
+    histogram_matching.py
+    _adapthist.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\feature
+    blob.py
+    brief.py
+    censure.py
+    corner.py
+    haar.py
+    match.py
+    orb.py
+    peak.py
+    sift.py
+    template.py
+    texture.py
+    util.py
+    _basic_features.py
+    _canny.py
+    _daisy.py
+    _fisher_vector.py
+    _hog.py
+    _orb_descriptor_positions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\filters
+    edges.py
+    lpi_filter.py
+    ridges.py
+    thresholding.py
+    _fft_based.py
+    _gabor.py
+    _gaussian.py
+    _median.py
+    _rank_order.py
+    _sparse.py
+    _unsharp_mask.py
+    _window.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\filters\rank
+    bilateral.py
+    generic.py
+    _percentile.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\future
+    manual_segmentation.py
+    trainable_segmentation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\graph
+    mcp.py
+    spath.py
+    _graph.py
+    _graph_cut.py
+    _graph_merge.py
+    _ncut.py
+    _rag.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\io
+    collection.py
+    manage_plugins.py
+    sift.py
+    util.py
+    _image_stack.py
+    _io.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\io\_plugins
+    fits_plugin.py
+    gdal_plugin.py
+    imageio_plugin.py
+    imread_plugin.py
+    matplotlib_plugin.py
+    pil_plugin.py
+    simpleitk_plugin.py
+    tifffile_plugin.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\measure
+    block.py
+    entropy.py
+    fit.py
+    pnpoly.py
+    profile.py
+    _blur_effect.py
+    _colocalization.py
+    _find_contours.py
+    _label.py
+    _marching_cubes_lewiner.py
+    _marching_cubes_lewiner_luts.py
+    _moments.py
+    _moments_analytical.py
+    _polygon.py
+    _regionprops.py
+    _regionprops_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\metrics
+    set_metrics.py
+    simple_metrics.py
+    _adapted_rand_error.py
+    _contingency_table.py
+    _structural_similarity.py
+    _variation_of_information.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\morphology
+    binary.py
+    convex_hull.py
+    extrema.py
+    footprints.py
+    gray.py
+    grayreconstruct.py
+    isotropic.py
+    max_tree.py
+    misc.py
+    _flood_fill.py
+    _skeletonize.py
+    _util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\registration
+    _masked_phase_cross_correlation.py
+    _optical_flow.py
+    _optical_flow_utils.py
+    _phase_cross_correlation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\restoration
+    deconvolution.py
+    inpaint.py
+    j_invariant.py
+    non_local_means.py
+    uft.py
+    unwrap.py
+    _cycle_spin.py
+    _denoise.py
+    _rolling_ball.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\segmentation
+    active_contour_model.py
+    boundaries.py
+    morphsnakes.py
+    random_walker_segmentation.py
+    slic_superpixels.py
+    _chan_vese.py
+    _clear_border.py
+    _expand_labels.py
+    _felzenszwalb.py
+    _join.py
+    _quickshift.py
+    _watershed.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\transform
+    finite_radon_transform.py
+    hough_transform.py
+    integral.py
+    pyramids.py
+    radon_transform.py
+    _geometric.py
+    _thin_plate_splines.py
+    _warps.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\util
+    apply_parallel.py
+    arraycrop.py
+    compare.py
+    dtype.py
+    lookfor.py
+    noise.py
+    shape.py
+    unique.py
+    _backends.py
+    _invert.py
+    _label.py
+    _map_array.py
+    _montage.py
+    _regular_grid.py
+    _slice_along_axes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\_shared
+    compat.py
+    coord.py
+    dtype.py
+    filters.py
+    tester.py
+    testing.py
+    utils.py
+    version_requirements.py
+    _dependency_checks.py
+    _geometry.py
+    _tempfile.py
+    _warnings.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\skimage\_vendored
+    numpy_lookfor.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sounddevice-0.5.5.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sounddevice-0.5.5.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\soundfile-0.14.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\soupsieve
+    css_match.py
+    css_parser.py
+    css_types.py
+    pretty.py
+    util.py
+    __init__.py
+    __meta__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\soupsieve-2.8.4.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\soupsieve-2.8.4.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speechrecognition-3.17.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speechrecognition-3.17.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition
+    audio.py
+    cli.py
+    exceptions.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\pocketsphinx-data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\pocketsphinx-data\en-US
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\pocketsphinx-data\en-US\acoustic-model
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\recognizers
+    cohere_api.py
+    google.py
+    google_cloud.py
+    pocketsphinx.py
+    vosk.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\recognizers\whisper_api
+    base.py
+    groq.py
+    openai.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\speech_recognition\recognizers\whisper_local
+    base.py
+    faster_whisper.py
+    whisper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy
+    abc.py
+    conftest.py
+    galgebra.py
+    release.py
+    this.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\algebras
+    quaternion.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\algebras\tests
+    test_quaternion.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\assumptions
+    ask.py
+    ask_generated.py
+    assume.py
+    cnf.py
+    facts.py
+    lra_satask.py
+    refine.py
+    satask.py
+    sathandlers.py
+    wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\assumptions\handlers
+    calculus.py
+    common.py
+    matrices.py
+    ntheory.py
+    order.py
+    sets.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\assumptions\predicates
+    calculus.py
+    common.py
+    matrices.py
+    ntheory.py
+    order.py
+    sets.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\assumptions\relation
+    binrel.py
+    equality.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\assumptions\tests
+    test_assumptions_2.py
+    test_context.py
+    test_matrices.py
+    test_query.py
+    test_refine.py
+    test_rel_queries.py
+    test_satask.py
+    test_sathandlers.py
+    test_wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\benchmarks
+    bench_discrete_log.py
+    bench_meijerint.py
+    bench_symbench.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\calculus
+    accumulationbounds.py
+    euler.py
+    finite_diff.py
+    singularities.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\calculus\tests
+    test_accumulationbounds.py
+    test_euler.py
+    test_finite_diff.py
+    test_singularities.py
+    test_util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\categories
+    baseclasses.py
+    diagram_drawing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\categories\tests
+    test_baseclasses.py
+    test_drawing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\codegen
+    abstract_nodes.py
+    algorithms.py
+    approximations.py
+    ast.py
+    cfunctions.py
+    cnodes.py
+    cutils.py
+    cxxnodes.py
+    fnodes.py
+    futils.py
+    matrix_nodes.py
+    numpy_nodes.py
+    pynodes.py
+    pyutils.py
+    rewriting.py
+    scipy_nodes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\codegen\tests
+    test_abstract_nodes.py
+    test_algorithms.py
+    test_applications.py
+    test_approximations.py
+    test_ast.py
+    test_cfunctions.py
+    test_cnodes.py
+    test_cxxnodes.py
+    test_fnodes.py
+    test_matrix_nodes.py
+    test_numpy_nodes.py
+    test_pynodes.py
+    test_pyutils.py
+    test_rewriting.py
+    test_scipy_nodes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\combinatorics
+    coset_table.py
+    fp_groups.py
+    free_groups.py
+    galois.py
+    generators.py
+    graycode.py
+    group_constructs.py
+    group_numbers.py
+    homomorphisms.py
+    named_groups.py
+    partitions.py
+    pc_groups.py
+    permutations.py
+    perm_groups.py
+    polyhedron.py
+    prufer.py
+    rewritingsystem.py
+    rewritingsystem_fsm.py
+    schur_number.py
+    subsets.py
+    tensor_can.py
+    testutil.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\combinatorics\tests
+    test_coset_table.py
+    test_fp_groups.py
+    test_free_groups.py
+    test_galois.py
+    test_generators.py
+    test_graycode.py
+    test_group_constructs.py
+    test_group_numbers.py
+    test_homomorphisms.py
+    test_named_groups.py
+    test_partitions.py
+    test_pc_groups.py
+    test_permutations.py
+    test_perm_groups.py
+    test_polyhedron.py
+    test_prufer.py
+    test_rewriting.py
+    test_schur_number.py
+    test_subsets.py
+    test_tensor_can.py
+    test_testutil.py
+    test_util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\concrete
+    delta.py
+    expr_with_intlimits.py
+    expr_with_limits.py
+    gosper.py
+    guess.py
+    products.py
+    summations.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\concrete\tests
+    test_delta.py
+    test_gosper.py
+    test_guess.py
+    test_products.py
+    test_sums_products.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\core
+    add.py
+    alphabets.py
+    assumptions.py
+    assumptions_generated.py
+    backend.py
+    basic.py
+    cache.py
+    compatibility.py
+    containers.py
+    core.py
+    coreerrors.py
+    decorators.py
+    evalf.py
+    expr.py
+    exprtools.py
+    facts.py
+    function.py
+    intfunc.py
+    kind.py
+    logic.py
+    mod.py
+    mul.py
+    multidimensional.py
+    numbers.py
+    operations.py
+    parameters.py
+    power.py
+    random.py
+    relational.py
+    rules.py
+    singleton.py
+    sorting.py
+    symbol.py
+    sympify.py
+    trace.py
+    traversal.py
+    _print_helpers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\core\benchmarks
+    bench_arit.py
+    bench_assumptions.py
+    bench_basic.py
+    bench_expand.py
+    bench_numbers.py
+    bench_sympify.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\core\tests
+    test_args.py
+    test_arit.py
+    test_assumptions.py
+    test_basic.py
+    test_cache.py
+    test_compatibility.py
+    test_complex.py
+    test_constructor_postprocessor.py
+    test_containers.py
+    test_count_ops.py
+    test_diff.py
+    test_equal.py
+    test_eval.py
+    test_evalf.py
+    test_expand.py
+    test_expr.py
+    test_exprtools.py
+    test_facts.py
+    test_function.py
+    test_kind.py
+    test_logic.py
+    test_match.py
+    test_multidimensional.py
+    test_noncommutative.py
+    test_numbers.py
+    test_operations.py
+    test_parameters.py
+    test_power.py
+    test_priority.py
+    test_random.py
+    test_relational.py
+    test_rules.py
+    test_singleton.py
+    test_sorting.py
+    test_subs.py
+    test_symbol.py
+    test_sympify.py
+    test_traversal.py
+    test_truediv.py
+    test_var.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\crypto
+    crypto.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\crypto\tests
+    test_crypto.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\diffgeom
+    diffgeom.py
+    rn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\diffgeom\tests
+    test_class_structure.py
+    test_diffgeom.py
+    test_function_diffgeom_book.py
+    test_hyperbolic_space.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\discrete
+    convolutions.py
+    recurrences.py
+    transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\discrete\tests
+    test_convolutions.py
+    test_recurrences.py
+    test_transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\external
+    gmpy.py
+    importtools.py
+    ntheory.py
+    pythonmpq.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\external\tests
+    test_autowrap.py
+    test_codegen.py
+    test_gmpy.py
+    test_importtools.py
+    test_ntheory.py
+    test_numpy.py
+    test_pythonmpq.py
+    test_scipy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\combinatorial
+    factorials.py
+    numbers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\combinatorial\tests
+    test_comb_factorials.py
+    test_comb_numbers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\elementary
+    complexes.py
+    exponential.py
+    hyperbolic.py
+    integers.py
+    miscellaneous.py
+    piecewise.py
+    trigonometric.py
+    _trigonometric_special.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\elementary\benchmarks
+    bench_exp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\elementary\tests
+    test_complexes.py
+    test_exponential.py
+    test_hyperbolic.py
+    test_integers.py
+    test_interface.py
+    test_miscellaneous.py
+    test_piecewise.py
+    test_trigonometric.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\special
+    bessel.py
+    beta_functions.py
+    bsplines.py
+    delta_functions.py
+    elliptic_integrals.py
+    error_functions.py
+    gamma_functions.py
+    hyper.py
+    mathieu_functions.py
+    polynomials.py
+    singularity_functions.py
+    spherical_harmonics.py
+    tensor_functions.py
+    zeta_functions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\special\benchmarks
+    bench_special.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\functions\special\tests
+    test_bessel.py
+    test_beta_functions.py
+    test_bsplines.py
+    test_delta_functions.py
+    test_elliptic_integrals.py
+    test_error_functions.py
+    test_gamma_functions.py
+    test_hyper.py
+    test_mathieu.py
+    test_singularity_functions.py
+    test_spec_polynomials.py
+    test_spherical_harmonics.py
+    test_tensor_functions.py
+    test_zeta_functions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\geometry
+    curve.py
+    ellipse.py
+    entity.py
+    exceptions.py
+    line.py
+    parabola.py
+    plane.py
+    point.py
+    polygon.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\geometry\tests
+    test_curve.py
+    test_ellipse.py
+    test_entity.py
+    test_geometrysets.py
+    test_line.py
+    test_parabola.py
+    test_plane.py
+    test_point.py
+    test_polygon.py
+    test_util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\holonomic
+    holonomic.py
+    holonomicerrors.py
+    numerical.py
+    recurrence.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\holonomic\tests
+    test_holonomic.py
+    test_recurrence.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\integrals
+    deltafunctions.py
+    heurisch.py
+    integrals.py
+    intpoly.py
+    laplace.py
+    manualintegrate.py
+    meijerint.py
+    meijerint_doc.py
+    prde.py
+    quadrature.py
+    rationaltools.py
+    rde.py
+    risch.py
+    singularityfunctions.py
+    transforms.py
+    trigonometry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\integrals\benchmarks
+    bench_integrate.py
+    bench_trigintegrate.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\integrals\tests
+    test_deltafunctions.py
+    test_failing_integrals.py
+    test_heurisch.py
+    test_integrals.py
+    test_intpoly.py
+    test_laplace.py
+    test_lineintegrals.py
+    test_manual.py
+    test_meijerint.py
+    test_prde.py
+    test_quadrature.py
+    test_rationaltools.py
+    test_rde.py
+    test_risch.py
+    test_singularityfunctions.py
+    test_transforms.py
+    test_trigonometry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\interactive
+    printing.py
+    session.py
+    traversal.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\interactive\tests
+    test_interactive.py
+    test_ipython.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\liealgebras
+    cartan_matrix.py
+    cartan_type.py
+    dynkin_diagram.py
+    root_system.py
+    type_a.py
+    type_b.py
+    type_c.py
+    type_d.py
+    type_e.py
+    type_f.py
+    type_g.py
+    weyl_group.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\liealgebras\tests
+    test_cartan_matrix.py
+    test_cartan_type.py
+    test_dynkin_diagram.py
+    test_root_system.py
+    test_type_A.py
+    test_type_B.py
+    test_type_C.py
+    test_type_D.py
+    test_type_E.py
+    test_type_F.py
+    test_type_G.py
+    test_weyl_group.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\logic
+    boolalg.py
+    inference.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\logic\algorithms
+    dpll.py
+    dpll2.py
+    lra_theory.py
+    minisat22_wrapper.py
+    pycosat_wrapper.py
+    z3_wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\logic\tests
+    test_boolalg.py
+    test_dimacs.py
+    test_inference.py
+    test_lra_theory.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\logic\utilities
+    dimacs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\matrices
+    common.py
+    decompositions.py
+    dense.py
+    determinant.py
+    eigen.py
+    exceptions.py
+    graph.py
+    immutable.py
+    inverse.py
+    kind.py
+    matrices.py
+    matrixbase.py
+    normalforms.py
+    reductions.py
+    repmatrix.py
+    solvers.py
+    sparse.py
+    sparsetools.py
+    subspaces.py
+    utilities.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\matrices\benchmarks
+    bench_matrix.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\matrices\expressions
+    adjoint.py
+    applyfunc.py
+    blockmatrix.py
+    companion.py
+    determinant.py
+    diagonal.py
+    dotproduct.py
+    factorizations.py
+    fourier.py
+    funcmatrix.py
+    hadamard.py
+    inverse.py
+    kronecker.py
+    matadd.py
+    matexpr.py
+    matmul.py
+    matpow.py
+    permutation.py
+    sets.py
+    slice.py
+    special.py
+    trace.py
+    transpose.py
+    _shape.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\matrices\expressions\tests
+    test_adjoint.py
+    test_applyfunc.py
+    test_blockmatrix.py
+    test_companion.py
+    test_derivatives.py
+    test_determinant.py
+    test_diagonal.py
+    test_dotproduct.py
+    test_factorizations.py
+    test_fourier.py
+    test_funcmatrix.py
+    test_hadamard.py
+    test_indexing.py
+    test_inverse.py
+    test_kronecker.py
+    test_matadd.py
+    test_matexpr.py
+    test_matmul.py
+    test_matpow.py
+    test_permutation.py
+    test_sets.py
+    test_slice.py
+    test_special.py
+    test_trace.py
+    test_transpose.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\matrices\tests
+    test_commonmatrix.py
+    test_decompositions.py
+    test_determinant.py
+    test_domains.py
+    test_eigen.py
+    test_graph.py
+    test_immutable.py
+    test_interactions.py
+    test_matrices.py
+    test_matrixbase.py
+    test_normalforms.py
+    test_reductions.py
+    test_repmatrix.py
+    test_solvers.py
+    test_sparse.py
+    test_sparsetools.py
+    test_subspaces.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\multipledispatch
+    conflict.py
+    core.py
+    dispatcher.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\multipledispatch\tests
+    test_conflict.py
+    test_core.py
+    test_dispatcher.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\ntheory
+    bbp_pi.py
+    continued_fraction.py
+    digits.py
+    ecm.py
+    egyptian_fraction.py
+    elliptic_curve.py
+    factor_.py
+    generate.py
+    modular.py
+    multinomial.py
+    partitions_.py
+    primetest.py
+    qs.py
+    residue_ntheory.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\ntheory\tests
+    test_bbp_pi.py
+    test_continued_fraction.py
+    test_digits.py
+    test_ecm.py
+    test_egyptian_fraction.py
+    test_elliptic_curve.py
+    test_factor_.py
+    test_generate.py
+    test_hypothesis.py
+    test_modular.py
+    test_multinomial.py
+    test_partitions.py
+    test_primetest.py
+    test_qs.py
+    test_residue.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing
+    ast_parser.py
+    mathematica.py
+    maxima.py
+    sympy_parser.py
+    sym_expr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\autolev
+    _build_autolev_antlr.py
+    _listener_autolev_antlr.py
+    _parse_autolev_antlr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\autolev\test-examples
+    ruletest1.py
+    ruletest10.py
+    ruletest11.py
+    ruletest12.py
+    ruletest2.py
+    ruletest3.py
+    ruletest4.py
+    ruletest5.py
+    ruletest6.py
+    ruletest7.py
+    ruletest8.py
+    ruletest9.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\autolev\test-examples\pydy-example-repo
+    chaos_pendulum.py
+    double_pendulum.py
+    mass_spring_damper.py
+    non_min_pendulum.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\autolev\_antlr
+    autolevlexer.py
+    autolevlistener.py
+    autolevparser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\c
+    c_parser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\fortran
+    fortran_parser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\latex
+    errors.py
+    _build_latex_antlr.py
+    _parse_latex_antlr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\latex\lark
+    latex_parser.py
+    transformer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\latex\lark\grammar
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\latex\_antlr
+    latexlexer.py
+    latexparser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\parsing\tests
+    test_ast_parser.py
+    test_autolev.py
+    test_custom_latex.py
+    test_c_parser.py
+    test_fortran_parser.py
+    test_implicit_multiplication_application.py
+    test_latex.py
+    test_latex_deps.py
+    test_latex_lark.py
+    test_mathematica.py
+    test_maxima.py
+    test_sympy_parser.py
+    test_sym_expr.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics
+    hydrogen.py
+    matrices.py
+    paulialgebra.py
+    pring.py
+    qho_1d.py
+    secondquant.py
+    sho.py
+    wigner.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\biomechanics
+    activation.py
+    curve.py
+    musculotendon.py
+    _mixin.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\biomechanics\tests
+    test_activation.py
+    test_curve.py
+    test_mixin.py
+    test_musculotendon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\continuum_mechanics
+    arch.py
+    beam.py
+    cable.py
+    truss.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\continuum_mechanics\tests
+    test_arch.py
+    test_beam.py
+    test_cable.py
+    test_truss.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\control
+    control_plots.py
+    lti.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\control\tests
+    test_control_plots.py
+    test_lti.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\hep
+    gamma_matrices.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\hep\tests
+    test_gamma_matrices.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\mechanics
+    actuator.py
+    body.py
+    body_base.py
+    functions.py
+    inertia.py
+    joint.py
+    jointsmethod.py
+    kane.py
+    lagrange.py
+    linearize.py
+    loads.py
+    method.py
+    models.py
+    particle.py
+    pathway.py
+    rigidbody.py
+    system.py
+    wrapping_geometry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\mechanics\tests
+    test_actuator.py
+    test_body.py
+    test_functions.py
+    test_inertia.py
+    test_joint.py
+    test_jointsmethod.py
+    test_kane.py
+    test_kane2.py
+    test_kane3.py
+    test_kane4.py
+    test_kane5.py
+    test_lagrange.py
+    test_lagrange2.py
+    test_linearity_of_velocity_constraints.py
+    test_linearize.py
+    test_loads.py
+    test_method.py
+    test_models.py
+    test_particle.py
+    test_pathway.py
+    test_rigidbody.py
+    test_system.py
+    test_system_class.py
+    test_wrapping_geometry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\optics
+    gaussopt.py
+    medium.py
+    polarization.py
+    utils.py
+    waves.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\optics\tests
+    test_gaussopt.py
+    test_medium.py
+    test_polarization.py
+    test_utils.py
+    test_waves.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\quantum
+    anticommutator.py
+    boson.py
+    cartesian.py
+    cg.py
+    circuitplot.py
+    circuitutils.py
+    commutator.py
+    constants.py
+    dagger.py
+    density.py
+    fermion.py
+    gate.py
+    grover.py
+    hilbert.py
+    identitysearch.py
+    innerproduct.py
+    kind.py
+    matrixcache.py
+    matrixutils.py
+    operator.py
+    operatorordering.py
+    operatorset.py
+    pauli.py
+    piab.py
+    qapply.py
+    qasm.py
+    qexpr.py
+    qft.py
+    qubit.py
+    represent.py
+    sho1d.py
+    shor.py
+    spin.py
+    state.py
+    tensorproduct.py
+    trace.py
+    transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\quantum\tests
+    test_anticommutator.py
+    test_boson.py
+    test_cartesian.py
+    test_cg.py
+    test_circuitplot.py
+    test_circuitutils.py
+    test_commutator.py
+    test_constants.py
+    test_dagger.py
+    test_density.py
+    test_fermion.py
+    test_gate.py
+    test_grover.py
+    test_hilbert.py
+    test_identitysearch.py
+    test_innerproduct.py
+    test_kind.py
+    test_matrixutils.py
+    test_operator.py
+    test_operatorordering.py
+    test_operatorset.py
+    test_pauli.py
+    test_piab.py
+    test_printing.py
+    test_qapply.py
+    test_qasm.py
+    test_qexpr.py
+    test_qft.py
+    test_qubit.py
+    test_represent.py
+    test_sho1d.py
+    test_shor.py
+    test_spin.py
+    test_state.py
+    test_tensorproduct.py
+    test_trace.py
+    test_transforms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\tests
+    test_clebsch_gordan.py
+    test_hydrogen.py
+    test_paulialgebra.py
+    test_physics_matrices.py
+    test_pring.py
+    test_qho_1d.py
+    test_secondquant.py
+    test_sho.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\units
+    dimensions.py
+    prefixes.py
+    quantities.py
+    unitsystem.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\units\definitions
+    dimension_definitions.py
+    unit_definitions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\units\systems
+    cgs.py
+    length_weight_time.py
+    mks.py
+    mksa.py
+    natural.py
+    si.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\units\tests
+    test_dimensions.py
+    test_dimensionsystem.py
+    test_prefixes.py
+    test_quantities.py
+    test_unitsystem.py
+    test_unit_system_cgs_gauss.py
+    test_util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\vector
+    dyadic.py
+    fieldfunctions.py
+    frame.py
+    functions.py
+    point.py
+    printing.py
+    vector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\physics\vector\tests
+    test_dyadic.py
+    test_fieldfunctions.py
+    test_frame.py
+    test_functions.py
+    test_output.py
+    test_point.py
+    test_printing.py
+    test_vector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting
+    experimental_lambdify.py
+    plot.py
+    plotgrid.py
+    plot_implicit.py
+    series.py
+    textplot.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\backends
+    base_backend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\backends\matplotlibbackend
+    matplotlib.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\backends\textbackend
+    text.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\intervalmath
+    interval_arithmetic.py
+    interval_membership.py
+    lib_interval.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\intervalmath\tests
+    test_intervalmath.py
+    test_interval_functions.py
+    test_interval_membership.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\pygletplot
+    color_scheme.py
+    managed_window.py
+    plot.py
+    plot_axes.py
+    plot_camera.py
+    plot_controller.py
+    plot_curve.py
+    plot_interval.py
+    plot_mode.py
+    plot_modes.py
+    plot_mode_base.py
+    plot_object.py
+    plot_rotation.py
+    plot_surface.py
+    plot_window.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\pygletplot\tests
+    test_plotting.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\plotting\tests
+    test_experimental_lambdify.py
+    test_plot.py
+    test_plot_implicit.py
+    test_series.py
+    test_textplot.py
+    test_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys
+    appellseqs.py
+    compatibility.py
+    constructor.py
+    densearith.py
+    densebasic.py
+    densetools.py
+    dispersion.py
+    distributedmodules.py
+    domainmatrix.py
+    euclidtools.py
+    factortools.py
+    fglmtools.py
+    fields.py
+    galoistools.py
+    groebnertools.py
+    heuristicgcd.py
+    modulargcd.py
+    monomials.py
+    multivariate_resultants.py
+    orderings.py
+    orthopolys.py
+    partfrac.py
+    polyclasses.py
+    polyconfig.py
+    polyerrors.py
+    polyfuncs.py
+    polymatrix.py
+    polyoptions.py
+    polyquinticconst.py
+    polyroots.py
+    polytools.py
+    polyutils.py
+    puiseux.py
+    rationaltools.py
+    rings.py
+    ring_series.py
+    rootisolation.py
+    rootoftools.py
+    solvers.py
+    specialpolys.py
+    sqfreetools.py
+    subresultants_qq_zz.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\agca
+    extensions.py
+    homomorphisms.py
+    ideals.py
+    modules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\agca\tests
+    test_extensions.py
+    test_homomorphisms.py
+    test_ideals.py
+    test_modules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\benchmarks
+    bench_galoispolys.py
+    bench_groebnertools.py
+    bench_solvers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\domains
+    algebraicfield.py
+    characteristiczero.py
+    complexfield.py
+    compositedomain.py
+    domain.py
+    domainelement.py
+    expressiondomain.py
+    expressionrawdomain.py
+    field.py
+    finitefield.py
+    fractionfield.py
+    gaussiandomains.py
+    gmpyfinitefield.py
+    gmpyintegerring.py
+    gmpyrationalfield.py
+    groundtypes.py
+    integerring.py
+    modularinteger.py
+    mpelements.py
+    old_fractionfield.py
+    old_polynomialring.py
+    polynomialring.py
+    pythonfinitefield.py
+    pythonintegerring.py
+    pythonrational.py
+    pythonrationalfield.py
+    quotientring.py
+    rationalfield.py
+    realfield.py
+    ring.py
+    simpledomain.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\domains\tests
+    test_domains.py
+    test_polynomialring.py
+    test_quotientring.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\matrices
+    ddm.py
+    dense.py
+    dfm.py
+    domainmatrix.py
+    domainscalar.py
+    eigen.py
+    exceptions.py
+    linsolve.py
+    lll.py
+    normalforms.py
+    rref.py
+    sdm.py
+    _dfm.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\matrices\tests
+    test_ddm.py
+    test_dense.py
+    test_domainmatrix.py
+    test_domainscalar.py
+    test_eigen.py
+    test_fflu.py
+    test_inverse.py
+    test_linsolve.py
+    test_lll.py
+    test_normalforms.py
+    test_nullspace.py
+    test_rref.py
+    test_sdm.py
+    test_xxm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\numberfields
+    basis.py
+    exceptions.py
+    galoisgroups.py
+    galois_resolvents.py
+    minpoly.py
+    modules.py
+    primes.py
+    resolvent_lookup.py
+    subfield.py
+    utilities.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\numberfields\tests
+    test_basis.py
+    test_galoisgroups.py
+    test_minpoly.py
+    test_modules.py
+    test_numbers.py
+    test_primes.py
+    test_subfield.py
+    test_utilities.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\polys\tests
+    test_appellseqs.py
+    test_constructor.py
+    test_densearith.py
+    test_densebasic.py
+    test_densetools.py
+    test_dispersion.py
+    test_distributedmodules.py
+    test_euclidtools.py
+    test_factortools.py
+    test_fields.py
+    test_galoistools.py
+    test_groebnertools.py
+    test_heuristicgcd.py
+    test_hypothesis.py
+    test_injections.py
+    test_modulargcd.py
+    test_monomials.py
+    test_multivariate_resultants.py
+    test_orderings.py
+    test_orthopolys.py
+    test_partfrac.py
+    test_polyclasses.py
+    test_polyfuncs.py
+    test_polymatrix.py
+    test_polyoptions.py
+    test_polyroots.py
+    test_polytools.py
+    test_polyutils.py
+    test_puiseux.py
+    test_pythonrational.py
+    test_rationaltools.py
+    test_rings.py
+    test_ring_series.py
+    test_rootisolation.py
+    test_rootoftools.py
+    test_solvers.py
+    test_specialpolys.py
+    test_sqfreetools.py
+    test_subresultants_qq_zz.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\printing
+    aesaracode.py
+    c.py
+    codeprinter.py
+    conventions.py
+    cxx.py
+    defaults.py
+    dot.py
+    fortran.py
+    glsl.py
+    gtk.py
+    jscode.py
+    julia.py
+    lambdarepr.py
+    latex.py
+    llvmjitcode.py
+    maple.py
+    mathematica.py
+    mathml.py
+    numpy.py
+    octave.py
+    precedence.py
+    preview.py
+    printer.py
+    pycode.py
+    python.py
+    pytorch.py
+    rcode.py
+    repr.py
+    rust.py
+    smtlib.py
+    str.py
+    tableform.py
+    tensorflow.py
+    theanocode.py
+    tree.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\printing\pretty
+    pretty.py
+    pretty_symbology.py
+    stringpict.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\printing\pretty\tests
+    test_pretty.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\printing\tests
+    test_aesaracode.py
+    test_c.py
+    test_codeprinter.py
+    test_conventions.py
+    test_cupy.py
+    test_cxx.py
+    test_dot.py
+    test_fortran.py
+    test_glsl.py
+    test_gtk.py
+    test_jax.py
+    test_jscode.py
+    test_julia.py
+    test_lambdarepr.py
+    test_latex.py
+    test_llvmjit.py
+    test_maple.py
+    test_mathematica.py
+    test_mathml.py
+    test_numpy.py
+    test_octave.py
+    test_precedence.py
+    test_preview.py
+    test_pycode.py
+    test_python.py
+    test_rcode.py
+    test_repr.py
+    test_rust.py
+    test_smtlib.py
+    test_str.py
+    test_tableform.py
+    test_tensorflow.py
+    test_theanocode.py
+    test_torch.py
+    test_tree.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\sandbox
+    indexed_integrals.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\sandbox\tests
+    test_indexed_integrals.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\series
+    acceleration.py
+    approximants.py
+    aseries.py
+    formal.py
+    fourier.py
+    gruntz.py
+    kauers.py
+    limits.py
+    limitseq.py
+    order.py
+    residues.py
+    sequences.py
+    series.py
+    series_class.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\series\benchmarks
+    bench_limit.py
+    bench_order.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\series\tests
+    test_approximants.py
+    test_aseries.py
+    test_demidovich.py
+    test_formal.py
+    test_fourier.py
+    test_gruntz.py
+    test_kauers.py
+    test_limits.py
+    test_limitseq.py
+    test_lseries.py
+    test_nseries.py
+    test_order.py
+    test_residues.py
+    test_sequences.py
+    test_series.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\sets
+    conditionset.py
+    contains.py
+    fancysets.py
+    ordinals.py
+    powerset.py
+    setexpr.py
+    sets.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\sets\handlers
+    add.py
+    comparison.py
+    functions.py
+    intersection.py
+    issubset.py
+    mul.py
+    power.py
+    union.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\sets\tests
+    test_conditionset.py
+    test_contains.py
+    test_fancysets.py
+    test_ordinals.py
+    test_powerset.py
+    test_setexpr.py
+    test_sets.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\simplify
+    combsimp.py
+    cse_main.py
+    cse_opts.py
+    epathtools.py
+    fu.py
+    gammasimp.py
+    hyperexpand.py
+    hyperexpand_doc.py
+    powsimp.py
+    radsimp.py
+    ratsimp.py
+    simplify.py
+    sqrtdenest.py
+    traversaltools.py
+    trigsimp.py
+    _cse_diff.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\simplify\tests
+    test_combsimp.py
+    test_cse.py
+    test_cse_diff.py
+    test_epathtools.py
+    test_fu.py
+    test_function.py
+    test_gammasimp.py
+    test_hyperexpand.py
+    test_powsimp.py
+    test_radsimp.py
+    test_ratsimp.py
+    test_rewrite.py
+    test_simplify.py
+    test_sqrtdenest.py
+    test_trigsimp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers
+    bivariate.py
+    decompogen.py
+    deutils.py
+    inequalities.py
+    pde.py
+    polysys.py
+    recurr.py
+    simplex.py
+    solvers.py
+    solveset.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\benchmarks
+    bench_solvers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\diophantine
+    diophantine.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\diophantine\tests
+    test_diophantine.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\ode
+    hypergeometric.py
+    lie_group.py
+    nonhomogeneous.py
+    ode.py
+    riccati.py
+    single.py
+    subscheck.py
+    systems.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\ode\tests
+    test_lie_group.py
+    test_ode.py
+    test_riccati.py
+    test_single.py
+    test_subscheck.py
+    test_systems.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\solvers\tests
+    test_constantsimp.py
+    test_decompogen.py
+    test_inequalities.py
+    test_numeric.py
+    test_pde.py
+    test_polysys.py
+    test_recurr.py
+    test_simplex.py
+    test_solvers.py
+    test_solveset.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\stats
+    compound_rv.py
+    crv.py
+    crv_types.py
+    drv.py
+    drv_types.py
+    error_prop.py
+    frv.py
+    frv_types.py
+    joint_rv.py
+    joint_rv_types.py
+    matrix_distributions.py
+    random_matrix.py
+    random_matrix_models.py
+    rv.py
+    rv_interface.py
+    stochastic_process.py
+    stochastic_process_types.py
+    symbolic_multivariate_probability.py
+    symbolic_probability.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\stats\sampling
+    sample_numpy.py
+    sample_pymc.py
+    sample_scipy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\stats\sampling\tests
+    test_sample_continuous_rv.py
+    test_sample_discrete_rv.py
+    test_sample_finite_rv.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\stats\tests
+    test_compound_rv.py
+    test_continuous_rv.py
+    test_discrete_rv.py
+    test_error_prop.py
+    test_finite_rv.py
+    test_joint_rv.py
+    test_matrix_distributions.py
+    test_mix.py
+    test_random_matrix.py
+    test_rv.py
+    test_stochastic_process.py
+    test_symbolic_multivariate.py
+    test_symbolic_probability.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\strategies
+    core.py
+    rl.py
+    tools.py
+    traverse.py
+    tree.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\strategies\branch
+    core.py
+    tools.py
+    traverse.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\strategies\branch\tests
+    test_core.py
+    test_tools.py
+    test_traverse.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\strategies\tests
+    test_core.py
+    test_rl.py
+    test_tools.py
+    test_traverse.py
+    test_tree.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor
+    functions.py
+    indexed.py
+    index_methods.py
+    tensor.py
+    toperators.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor\array
+    arrayop.py
+    array_comprehension.py
+    array_derivatives.py
+    dense_ndim_array.py
+    mutable_ndim_array.py
+    ndim_array.py
+    sparse_ndim_array.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor\array\expressions
+    arrayexpr_derivatives.py
+    array_expressions.py
+    conv_array_to_indexed.py
+    conv_array_to_matrix.py
+    conv_indexed_to_array.py
+    conv_matrix_to_array.py
+    from_array_to_indexed.py
+    from_array_to_matrix.py
+    from_indexed_to_array.py
+    from_matrix_to_array.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor\array\expressions\tests
+    test_arrayexpr_derivatives.py
+    test_array_expressions.py
+    test_as_explicit.py
+    test_convert_array_to_indexed.py
+    test_convert_array_to_matrix.py
+    test_convert_indexed_to_array.py
+    test_convert_matrix_to_array.py
+    test_deprecated_conv_modules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor\array\tests
+    test_arrayop.py
+    test_array_comprehension.py
+    test_array_derivatives.py
+    test_immutable_ndim_array.py
+    test_mutable_ndim_array.py
+    test_ndim_array.py
+    test_ndim_array_conversions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\tensor\tests
+    test_functions.py
+    test_indexed.py
+    test_index_methods.py
+    test_printing.py
+    test_tensor.py
+    test_tensor_element.py
+    test_tensor_operators.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\testing
+    matrices.py
+    pytest.py
+    quality_unicode.py
+    randtest.py
+    runtests.py
+    runtests_pytest.py
+    tmpfiles.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\testing\tests
+    diagnose_imports.py
+    test_code_quality.py
+    test_deprecated.py
+    test_module_imports.py
+    test_pytest.py
+    test_runtests_pytest.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\unify
+    core.py
+    rewrite.py
+    usympy.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\unify\tests
+    test_rewrite.py
+    test_sympy.py
+    test_unify.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities
+    autowrap.py
+    codegen.py
+    decorator.py
+    enumerative.py
+    exceptions.py
+    iterables.py
+    lambdify.py
+    magic.py
+    matchpy_connector.py
+    memoization.py
+    misc.py
+    pkgdata.py
+    pytest.py
+    randtest.py
+    runtests.py
+    source.py
+    timeutils.py
+    tmpfiles.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities\mathml
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities\mathml\data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities\tests
+    test_autowrap.py
+    test_codegen.py
+    test_codegen_julia.py
+    test_codegen_octave.py
+    test_codegen_rust.py
+    test_decorator.py
+    test_deprecated.py
+    test_enumerative.py
+    test_exceptions.py
+    test_iterables.py
+    test_lambdify.py
+    test_matchpy_connector.py
+    test_mathml.py
+    test_misc.py
+    test_pickling.py
+    test_source.py
+    test_timeutils.py
+    test_wester.py
+    test_xxe.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities\_compilation
+    availability.py
+    compilation.py
+    runners.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\utilities\_compilation\tests
+    test_compilation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\vector
+    basisdependent.py
+    coordsysrect.py
+    deloperator.py
+    dyadic.py
+    functions.py
+    implicitregion.py
+    integrals.py
+    kind.py
+    operators.py
+    orienters.py
+    parametricregion.py
+    point.py
+    scalar.py
+    vector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy\vector\tests
+    test_coordsysrect.py
+    test_dyadic.py
+    test_field_functions.py
+    test_functions.py
+    test_implicitregion.py
+    test_integrals.py
+    test_operators.py
+    test_parametricregion.py
+    test_printing.py
+    test_vector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy-1.14.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\sympy-1.14.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tabulate
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tabulate-0.10.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tabulate-0.10.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tifffile
+    geodb.py
+    lsm2bin.py
+    numcodecs.py
+    tiff2fsspec.py
+    tiffcomment.py
+    tifffile.py
+    zarr.py
+    _imagecodecs.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tifffile-2026.6.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tifffile-2026.6.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tiktoken
+    core.py
+    load.py
+    model.py
+    registry.py
+    _educational.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tiktoken-0.13.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tiktoken-0.13.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tiktoken_ext
+    openai_public.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\decoders
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\implementations
+    base_tokenizer.py
+    bert_wordpiece.py
+    byte_level_bpe.py
+    char_level_bpe.py
+    sentencepiece_bpe.py
+    sentencepiece_unigram.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\models
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\normalizers
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\pre_tokenizers
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\processors
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\tools
+    visualizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers\trainers
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers-0.23.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tokenizers-0.23.1.dist-info\sboms
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch
+    functional.py
+    hub.py
+    library.py
+    overrides.py
+    quasirandom.py
+    random.py
+    return_types.py
+    serialization.py
+    storage.py
+    torch_version.py
+    types.py
+    version.py
+    _appdirs.py
+    _classes.py
+    _compile.py
+    _custom_ops.py
+    _environment.py
+    _guards.py
+    _jit_internal.py
+    _linalg_utils.py
+    _lobpcg.py
+    _lowrank.py
+    _meta_registrations.py
+    _namedtensor_internals.py
+    _opaque_base.py
+    _ops.py
+    _python_dispatcher.py
+    _size_docs.py
+    _sources.py
+    _storage_docs.py
+    _streambase.py
+    _tensor.py
+    _tensor_docs.py
+    _tensor_str.py
+    _thread_safe_fork.py
+    _torch_docs.py
+    _utils.py
+    _utils_internal.py
+    _VF.py
+    _vmap_internals.py
+    _weights_only_unpickler.py
+    __config__.py
+    __future__.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\accelerator
+    graphs.py
+    memory.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\amp
+    autocast_mode.py
+    grad_scaler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\modules
+    fused.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\qat
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\qat\modules
+    conv_fused.py
+    linear_fused.py
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\quantized
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\quantized\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\quantized\dynamic\modules
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\intrinsic\quantized\modules
+    bn_relu.py
+    conv_add.py
+    conv_relu.py
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\qat
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\qat\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\qat\dynamic\modules
+    linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\qat\modules
+    conv.py
+    embedding_ops.py
+    linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantizable
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantizable\modules
+    activation.py
+    rnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized
+    functional.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized\dynamic\modules
+    conv.py
+    linear.py
+    rnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized\modules
+    activation.py
+    batchnorm.py
+    conv.py
+    dropout.py
+    embedding_ops.py
+    functional_modules.py
+    linear.py
+    normalization.py
+    rnn.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized\reference
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\quantized\reference\modules
+    conv.py
+    linear.py
+    rnn.py
+    sparse.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\sparse
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\sparse\quantized
+    linear.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\nn\sparse\quantized\dynamic
+    linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\ns
+    _numeric_suite.py
+    _numeric_suite_fx.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\ns\fx
+    graph_matcher.py
+    graph_passes.py
+    mappings.py
+    ns_types.py
+    n_shadows_utils.py
+    pattern_utils.py
+    qconfig_multi_mapping.py
+    utils.py
+    weight_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning
+    _mappings.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\scheduler
+    base_scheduler.py
+    cubic_scheduler.py
+    lambda_scheduler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\sparsifier
+    base_sparsifier.py
+    nearly_diagonal_sparsifier.py
+    utils.py
+    weight_norm_sparsifier.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\activation_sparsifier
+    activation_sparsifier.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\data_scheduler
+    base_data_scheduler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\data_sparsifier
+    base_data_sparsifier.py
+    data_norm_sparsifier.py
+    quantization_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\data_sparsifier\lightning
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\data_sparsifier\lightning\callbacks
+    data_sparsity.py
+    _data_sparstity_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\pruning\_experimental\pruner
+    base_structured_sparsifier.py
+    FPGM_pruner.py
+    lstm_saliency_pruner.py
+    match_utils.py
+    parametrization.py
+    prune_functions.py
+    saliency_pruner.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\quantization
+    fake_quantize.py
+    fuser_method_mappings.py
+    fuse_modules.py
+    observer.py
+    qconfig.py
+    qconfig_mapping.py
+    quantization_mappings.py
+    quantize.py
+    quantize_fx.py
+    quantize_jit.py
+    quant_type.py
+    stubs.py
+    utils.py
+    _correct_bias.py
+    _equalize.py
+    _learnable_fake_quantize.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\quantization\backend_config
+    backend_config.py
+    executorch.py
+    fbgemm.py
+    native.py
+    onednn.py
+    qnnpack.py
+    tensorrt.py
+    utils.py
+    x86.py
+    _common_operator_config_utils.py
+    _qnnpack_pt2e.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\quantization\fx
+    convert.py
+    custom_config.py
+    fuse.py
+    fuse_handler.py
+    graph_module.py
+    lower_to_fbgemm.py
+    lower_to_qnnpack.py
+    lstm_utils.py
+    match_utils.py
+    pattern_utils.py
+    prepare.py
+    qconfig_mapping_utils.py
+    quantize_handler.py
+    tracer.py
+    utils.py
+    _decomposed.py
+    _equalize.py
+    _lower_to_native_backend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\ao\quantization\fx\_model_report
+    detector.py
+    model_report.py
+    model_report_observer.py
+    model_report_visualizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\autograd
+    anomaly_mode.py
+    forward_ad.py
+    function.py
+    functional.py
+    gradcheck.py
+    grad_mode.py
+    graph.py
+    profiler.py
+    profiler_legacy.py
+    profiler_util.py
+    variable.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\autograd\_functions
+    tensor.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\cpu
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\cuda
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\cudnn
+    rnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\cusparselt
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\kleidiai
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\mha
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\miopen
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\mkl
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\mkldnn
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\mps
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\nnpack
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\openmp
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\opt_einsum
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\python_native
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\quantized
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\xeon
+    run_cpu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\xnnpack
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\_coreml
+    preprocess.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\backends\_nnapi
+    prepare.py
+    serializer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\bin
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\compiler
+    config.py
+    _cache.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\contrib
+    _tensorboard_vis.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\cpu
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\cpu\amp
+    autocast_mode.py
+    grad_scaler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\csrc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\csrc\inductor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\csrc\inductor\aoti_runtime
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\cuda
+    comm.py
+    gds.py
+    graphs.py
+    green_contexts.py
+    jiterator.py
+    memory.py
+    nccl.py
+    nvtx.py
+    profiler.py
+    random.py
+    sparse.py
+    streams.py
+    tunable.py
+    _annotate_cuda_graph_trace.py
+    _device_limits.py
+    _gpu_trace.py
+    _graph_annotations.py
+    _memory_viz.py
+    _pin_memory_utils.py
+    _sanitizer.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\cuda\amp
+    autocast_mode.py
+    common.py
+    grad_scaler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed
+    argparse_util.py
+    c10d_logger.py
+    collective_utils.py
+    config.py
+    constants.py
+    device_mesh.py
+    distributed_c10d.py
+    launch.py
+    logging_handlers.py
+    remote_device.py
+    rendezvous.py
+    run.py
+    utils.py
+    _checkpointable.py
+    _composable_state.py
+    _dist2.py
+    _functional_collectives.py
+    _functional_collectives_impl.py
+    _mesh_layout.py
+    _meta_registrations.py
+    _serialization.py
+    _state_dict_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms
+    join.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\ddp_comm_hooks
+    ddp_zero_hook.py
+    debugging_hooks.py
+    default_hooks.py
+    mixed_precision_hooks.py
+    optimizer_overlap_hooks.py
+    post_localSGD_hook.py
+    powerSGD_hook.py
+    quantization_hooks.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\model_averaging
+    averagers.py
+    hierarchical_model_averager.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\_checkpoint
+    checkpoint_wrapper.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\_comm_hooks
+    default_hooks.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\_optimizer_overlap
+    optimizer_overlap.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\algorithms\_quantization
+    quantization.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\autograd
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\checkpoint
+    api.py
+    default_planner.py
+    filesystem.py
+    format_utils.py
+    hf_storage.py
+    logger.py
+    logging_handlers.py
+    metadata.py
+    optimizer.py
+    planner.py
+    planner_helpers.py
+    quantized_hf_storage.py
+    resharding.py
+    staging.py
+    stateful.py
+    state_dict.py
+    state_dict_loader.py
+    state_dict_saver.py
+    storage.py
+    utils.py
+    _async_executor.py
+    _async_process_executor.py
+    _async_thread_executor.py
+    _checkpointer.py
+    _consolidate_hf_safetensors.py
+    _dedup_save_plans.py
+    _dedup_tensors.py
+    _extension.py
+    _fsspec_filesystem.py
+    _hf_utils.py
+    _nested_dict.py
+    _pg_transport.py
+    _sharded_tensor_utils.py
+    _state_dict_stager.py
+    _storage_utils.py
+    _traverse.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\checkpoint\_experimental
+    barriers.py
+    builder.py
+    checkpointer.py
+    checkpoint_process.py
+    checkpoint_reader.py
+    checkpoint_writer.py
+    config.py
+    staging.py
+    types.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\debug
+    _debug_handlers.py
+    _frontend.py
+    _handlers.py
+    _store.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic
+    control_plane.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\agent
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\agent\server
+    api.py
+    health_check_server.py
+    local_elastic_agent.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\events
+    api.py
+    handlers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\metrics
+    api.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\multiprocessing
+    api.py
+    redirects.py
+    tail_log.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\multiprocessing\errors
+    error_handler.py
+    handlers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\multiprocessing\subprocess_handler
+    handlers.py
+    subprocess_handler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\rendezvous
+    api.py
+    c10d_rendezvous_backend.py
+    dynamic_rendezvous.py
+    etcd_rendezvous.py
+    etcd_rendezvous_backend.py
+    etcd_server.py
+    etcd_store.py
+    registry.py
+    static_tcp_rendezvous.py
+    utils.py
+    _etcd_stub.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\timer
+    api.py
+    debug_info_logging.py
+    file_based_local_timer.py
+    local_timer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\utils
+    api.py
+    distributed.py
+    logging.py
+    log_level.py
+    store.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\elastic\utils\data
+    cycling_iterator.py
+    elastic_distributed_sampler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\flight_recorder
+    fr_trace.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\flight_recorder\components
+    builder.py
+    config_manager.py
+    fr_logger.py
+    loader.py
+    types.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\fsdp
+    api.py
+    fully_sharded_data_parallel.py
+    sharded_grad_scaler.py
+    wrap.py
+    _common_utils.py
+    _debug_utils.py
+    _dynamo_utils.py
+    _exec_order_utils.py
+    _flat_param.py
+    _fsdp_extensions.py
+    _init_utils.py
+    _limiter_utils.py
+    _optim_utils.py
+    _runtime_utils.py
+    _shard_utils.py
+    _state_dict_utils.py
+    _trace_utils.py
+    _traversal_utils.py
+    _unshard_param_utils.py
+    _wrap_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\fsdp\_fully_shard
+    _fsdp_api.py
+    _fsdp_collectives.py
+    _fsdp_common.py
+    _fsdp_init.py
+    _fsdp_param.py
+    _fsdp_param_group.py
+    _fsdp_state.py
+    _fully_shard.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\launcher
+    api.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\nn
+    functional.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\nn\api
+    remote_module.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\nn\jit
+    instantiator.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\nn\jit\templates
+    remote_module_template.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\optim
+    apply_optimizer_in_backward.py
+    functional_adadelta.py
+    functional_adagrad.py
+    functional_adam.py
+    functional_adamax.py
+    functional_adamw.py
+    functional_rmsprop.py
+    functional_rprop.py
+    functional_sgd.py
+    named_optimizer.py
+    optimizer.py
+    post_localSGD_optimizer.py
+    utils.py
+    zero_redundancy_optimizer.py
+    _deprecation_warning.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\pipelining
+    microbatch.py
+    schedules.py
+    stage.py
+    _backward.py
+    _debug.py
+    _IR.py
+    _schedule_visualizer.py
+    _unflatten.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\rpc
+    api.py
+    backend_registry.py
+    constants.py
+    functions.py
+    internal.py
+    options.py
+    rref_proxy.py
+    server_process_global_profiler.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\rpc\_testing
+    faulty_agent_backend_registry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor
+    device_mesh.py
+    placement_types.py
+    _api.py
+    _collective_utils.py
+    _decompositions.py
+    _dispatch.py
+    _dtensor_spec.py
+    _nonlinear_redux.py
+    _op_schema.py
+    _random.py
+    _redistribute.py
+    _sharding_prop.py
+    _shards_wrapper.py
+    _tp_conv.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor\debug
+    _comm_mode.py
+    _op_coverage.py
+    _visualize_sharding.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor\experimental
+    _attention.py
+    _func_map.py
+    _register_sharding.py
+    _tp_transform.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor\experimental\_context_parallel
+    _attention.py
+    _cp_custom_ops.py
+    _load_balancer.py
+    _sharding_rules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor\parallel
+    api.py
+    ddp.py
+    fsdp.py
+    input_reshard.py
+    loss.py
+    style.py
+    _data_parallel_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\tensor\_ops
+    single_dim_strategy.py
+    strategy_validation.py
+    utils.py
+    _common_rules.py
+    _conv_ops.py
+    _einsum_strategy.py
+    _embedding_ops.py
+    _mask_buffer.py
+    _math_ops.py
+    _matrix_ops.py
+    _pointwise_ops.py
+    _random_ops.py
+    _tensor_ops.py
+    _view_ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_composable
+    checkpoint_activation.py
+    contract.py
+    replicate.py
+    replicate_with_fsdp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_composable\fsdp
+    fully_shard.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_local_tensor
+    _c10d.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_ops
+    device_mesh.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_pycute
+    int_tuple.py
+    layout.py
+    typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard
+    api.py
+    common_op_utils.py
+    metadata.py
+    op_registry_utils.py
+    sharder.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\checkpoint
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharded_optim
+    api.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharded_tensor
+    api.py
+    logger.py
+    logging_handlers.py
+    metadata.py
+    reshard.py
+    shard.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharded_tensor\_ops
+    binary_cmp.py
+    init.py
+    misc_ops.py
+    tensor_ops.py
+    _common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharding_plan
+    api.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharding_spec
+    api.py
+    chunk_sharding_spec.py
+    _internals.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_shard\sharding_spec\chunk_sharding_spec_ops
+    embedding.py
+    embedding_bag.py
+    _common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_sharded_tensor
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_sharding_spec
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_symmetric_memory
+    _nvshmem_triton.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_tensor
+    api.py
+    placement_types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributed\_tools
+    common_utils.py
+    fake_collectives.py
+    fsdp2_mem_tracker.py
+    ilp_utils.py
+    memory_tracker.py
+    mem_tracker.py
+    mod_tracker.py
+    runtime_estimator.py
+    sac_estimator.py
+    sac_ilp.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\distributions
+    bernoulli.py
+    beta.py
+    binomial.py
+    categorical.py
+    cauchy.py
+    chi2.py
+    constraints.py
+    constraint_registry.py
+    continuous_bernoulli.py
+    dirichlet.py
+    distribution.py
+    exponential.py
+    exp_family.py
+    fishersnedecor.py
+    gamma.py
+    generalized_pareto.py
+    geometric.py
+    gumbel.py
+    half_cauchy.py
+    half_normal.py
+    independent.py
+    inverse_gamma.py
+    kl.py
+    kumaraswamy.py
+    laplace.py
+    lkj_cholesky.py
+    logistic_normal.py
+    log_normal.py
+    lowrank_multivariate_normal.py
+    mixture_same_family.py
+    multinomial.py
+    multivariate_normal.py
+    negative_binomial.py
+    normal.py
+    one_hot_categorical.py
+    pareto.py
+    poisson.py
+    relaxed_bernoulli.py
+    relaxed_categorical.py
+    studentT.py
+    transformed_distribution.py
+    transforms.py
+    uniform.py
+    utils.py
+    von_mises.py
+    weibull.py
+    wishart.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\export
+    custom_obj.py
+    custom_ops.py
+    decomp_utils.py
+    dynamic_shapes.py
+    exported_program.py
+    graph_signature.py
+    unflatten.py
+    _draft_export.py
+    _leakage_detection_utils.py
+    _patches.py
+    _remove_auto_functionalized_pass.py
+    _remove_effect_tokens_pass.py
+    _safeguard.py
+    _state_dict_utils.py
+    _swap.py
+    _trace.py
+    _tree_utils.py
+    _unlift.py
+    _wrapper_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\export\experimental
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\export\passes
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\export\pt2_archive
+    constants.py
+    _package.py
+    _package_weights.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fft
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\func
+    _random.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\futures
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx
+    annotate.py
+    config.py
+    graph.py
+    graph_module.py
+    immutable_collections.py
+    interpreter.py
+    node.py
+    operator_schemas.py
+    proxy.py
+    subgraph_rewriter.py
+    tensor_type.py
+    traceback.py
+    _compatibility.py
+    _graph_pickler.py
+    _lazy_graph_module.py
+    _pytree.py
+    _symbolic_trace.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\experimental
+    accelerator_partitioner.py
+    const_fold.py
+    debug.py
+    graph_gradual_typechecker.py
+    merge_matmul.py
+    meta_tracer.py
+    normalize.py
+    optimization.py
+    partitioner_utils.py
+    proxy_tensor.py
+    recording.py
+    refinement_types.py
+    rewriter.py
+    schema_type_annotation.py
+    symbolic_shapes.py
+    sym_node.py
+    unify_refinements.py
+    validator.py
+    _backward_state.py
+    _config.py
+    _constant_symnode.py
+    _dynamism.py
+    _size_hinting.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\experimental\migrate_gradual_types
+    constraint.py
+    constraint_generator.py
+    constraint_transformation.py
+    operation.py
+    transform_to_z3.py
+    util.py
+    z3_types.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\experimental\unification
+    core.py
+    dispatch.py
+    match.py
+    more.py
+    unification_tools.py
+    utils.py
+    variable.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\experimental\unification\multipledispatch
+    conflict.py
+    core.py
+    dispatcher.py
+    utils.py
+    variadic.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes
+    annotate_getitem_nodes.py
+    fake_tensor_prop.py
+    graph_drawer.py
+    graph_manipulation.py
+    graph_transform_observer.py
+    net_min_base.py
+    operator_support.py
+    param_fetch.py
+    pass_manager.py
+    regional_inductor.py
+    regional_inductor_invoke_subgraph.py
+    reinplace.py
+    runtime_assert.py
+    shape_prop.py
+    splitter_base.py
+    split_module.py
+    split_utils.py
+    tools_common.py
+    _tensorify_python_scalars.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\backends
+    cudagraphs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\dialect
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\dialect\common
+    cse_pass.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\infra
+    partitioner.py
+    pass_base.py
+    pass_manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\tests
+    test_pass_manager.py
+    _test_split_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\fx\passes\utils
+    common.py
+    fuser_utils.py
+    matcher_utils.py
+    matcher_with_name_node_map_utils.py
+    source_matcher_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\accelerator
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\core\boxing
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\core\boxing\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\core\dispatch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\core\op_registration
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\sve
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\vec128
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\vec256
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\vec256\vsx
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\vec256\zarch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cpu\vec\vec512
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cuda\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cuda\tunable
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\cudnn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\functorch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\hip
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\hip\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\metal
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\miopen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\mps
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\ao_sparse
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\ao_sparse\quantized
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\ao_sparse\quantized\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\hip
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\hip\bgemm_kernels
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\kleidiai
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\mps
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\mps\kernels
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\mps\operations
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\nested
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\quantized
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\quantized\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\quantized\cudnn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\flash_attn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention\epilogue
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention\gemm
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention\iterators
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention\kernels
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\cuda\mem_eff_attention\transform
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\hip
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\hip\flash_attn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\hip\flash_attn\ck
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\transformers\xpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\native\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\ops
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\quantized
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\xpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\ATen\xpu\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\core\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\cuda\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\macros
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\metal
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\mobile
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\test
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\test\util
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\util
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\xpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\xpu\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\xpu\test
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\c10\xpu\test\impl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2\perfkernels
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2\serialize
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\caffe2\utils\threadpool
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\fmt
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\fp16
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\cpp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\csharp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\java
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\js
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\objectivec
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\php
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\python
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\compiler\ruby
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\io
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\stubs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\google\protobuf\util
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\kineto
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\legacy
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\mimalloc-2.2
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\oneapi
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\oneapi\dnnl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\pybind11
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\pybind11\conduit
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\pybind11\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\pybind11\eigen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\pybind11\stl
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\acc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data\dataloader
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data\datasets
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data\samplers
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\data\transforms
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\detail
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nativert
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\functional
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\modules
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\modules\container
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\options
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\parallel
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\nn\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\optim
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\optim\schedulers
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\python
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\api\include\torch\serialize
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\autograd
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\autograd\functions
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\autograd\generated
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\autograd\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\autograd
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\autograd\context
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\autograd\engine
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\autograd\functions
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\autograd\rpc_messages
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d\control_collectives
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d\control_plane
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d\quantization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\c10d\symm_mem
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\rpc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\rpc\metrics
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\rpc\profiler
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\distributed\rpc\testing
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\dynamo
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\export
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\functionalization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\functorch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\fx
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_eager
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_package
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_runner
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_runtime
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_torch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_torch\c
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\aoti_torch\generated
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\cpp_wrapper
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\cpp_wrapper\device_internal
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\inductor\static_launcher
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\instruction_counter
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\api
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\coreml
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\coreml\cpp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\coreml\objc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\xnnpack
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\xnnpack\compiler
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\xnnpack\executor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\backends\xnnpack\serialization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen\fuser
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen\fuser\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen\fuser\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\codegen\onednn
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\cuda
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\frontend
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\ir
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile\compatibility
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile\model_tracer
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile\nnc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile\train
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\mobile\train\optim
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\operator_upgraders
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes\dbr_quantization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes\onnx
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes\onnx\pattern_conversion
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes\quantization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\passes\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\python
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\runtime
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\runtime\interpreter
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\runtime\static
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\serialization
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\tensorexpr
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\tensorexpr\operators
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\jit\testing
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\backend
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\core\internal_ops
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\core\ops
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\generated
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\python
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\ts_backend
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\lazy\ts_backend\ops
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\monitor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\mps
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\mtia
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\mtia\profiler
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\multiprocessing
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\onnx
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler\orchestration
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler\python
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler\standalone
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler\stubs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\profiler\unwind
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\stable
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\stable\c
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\tensor
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\utils
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\csrc\xpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly\core
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly\cpu
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly\cpu\vec
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly\macros
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\include\torch\headeronly\util
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\jit
+    annotations.py
+    frontend.py
+    generate_bytecode.py
+    quantized.py
+    supported_ops.py
+    unsupported_tensor_ops.py
+    _async.py
+    _await.py
+    _builtins.py
+    _check.py
+    _dataclass_impls.py
+    _decompositions.py
+    _decomposition_utils.py
+    _freeze.py
+    _fuser.py
+    _ir_utils.py
+    _logging.py
+    _monkeytype_config.py
+    _pickle.py
+    _recursive.py
+    _script.py
+    _serialization.py
+    _shape_functions.py
+    _state.py
+    _trace.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\jit\mobile
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\jit\_passes
+    _property_propagation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\lib
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\lib\libshm
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\lib\libshm_windows
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\linalg
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\masked
+    _docs.py
+    _ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\masked\maskedtensor
+    binary.py
+    core.py
+    creation.py
+    passthrough.py
+    reductions.py
+    unary.py
+    _ops_refs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\monitor
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\mps
+    event.py
+    profiler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\mtia
+    memory.py
+    mtia_graph.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\multiprocessing
+    pool.py
+    queue.py
+    reductions.py
+    spawn.py
+    _atfork.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nativert
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nativert\backends
+    _lowered_aoti_module.py
+    _lower_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nested
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nested\_internal
+    nested_int.py
+    nested_tensor.py
+    ops.py
+    sdpa.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn
+    common_types.py
+    cpp.py
+    functional.py
+    grad.py
+    init.py
+    parameter.py
+    _reduction.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\attention
+    bias.py
+    flex_attention.py
+    varlen.py
+    _fa3.py
+    _fa4.py
+    _registry.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\attention\experimental
+    _paged_attention.py
+    _scaled_dot_product_attention_quantized.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\backends
+    thnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\modules
+    fused.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\qat
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\qat\modules
+    conv_fused.py
+    linear_fused.py
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\quantized
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\quantized\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\quantized\dynamic\modules
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\intrinsic\quantized\modules
+    bn_relu.py
+    conv_relu.py
+    linear_relu.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\modules
+    activation.py
+    adaptive.py
+    batchnorm.py
+    channelshuffle.py
+    container.py
+    conv.py
+    distance.py
+    dropout.py
+    flatten.py
+    fold.py
+    instancenorm.py
+    lazy.py
+    linear.py
+    loss.py
+    module.py
+    normalization.py
+    padding.py
+    pixelshuffle.py
+    pooling.py
+    rnn.py
+    sparse.py
+    transformer.py
+    upsampling.py
+    utils.py
+    _functions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\parallel
+    comm.py
+    data_parallel.py
+    distributed.py
+    parallel_apply.py
+    replicate.py
+    scatter_gather.py
+    _functions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\qat
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\qat\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\qat\dynamic\modules
+    linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\qat\modules
+    conv.py
+    embedding_ops.py
+    linear.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantizable
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantizable\modules
+    activation.py
+    rnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized
+    functional.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized\dynamic
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized\dynamic\modules
+    conv.py
+    linear.py
+    rnn.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized\modules
+    activation.py
+    batchnorm.py
+    conv.py
+    dropout.py
+    embedding_ops.py
+    functional_modules.py
+    linear.py
+    normalization.py
+    rnn.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized\_reference
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\quantized\_reference\modules
+    conv.py
+    linear.py
+    rnn.py
+    sparse.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\utils
+    clip_grad.py
+    convert_parameters.py
+    fusion.py
+    init.py
+    memory_format.py
+    parametrizations.py
+    parametrize.py
+    prune.py
+    rnn.py
+    spectral_norm.py
+    stateless.py
+    weight_norm.py
+    _deprecation_utils.py
+    _named_member_accessor.py
+    _per_sample_grad.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\nn\utils\_expanded_weights
+    conv_expanded_weights.py
+    conv_utils.py
+    embedding_expanded_weights.py
+    expanded_weights_impl.py
+    expanded_weights_utils.py
+    group_norm_expanded_weights.py
+    instance_norm_expanded_weights.py
+    layer_norm_expanded_weights.py
+    linear_expanded_weights.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\numa
+    binding.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx
+    errors.py
+    operators.py
+    symbolic_helper.py
+    symbolic_opset10.py
+    symbolic_opset11.py
+    symbolic_opset12.py
+    symbolic_opset13.py
+    symbolic_opset14.py
+    symbolic_opset15.py
+    symbolic_opset16.py
+    symbolic_opset17.py
+    symbolic_opset18.py
+    symbolic_opset19.py
+    symbolic_opset20.py
+    symbolic_opset7.py
+    symbolic_opset8.py
+    symbolic_opset9.py
+    testing.py
+    utils.py
+    verification.py
+    _constants.py
+    _flags.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\ops
+    _dtype_mappings.py
+    _impl.py
+    _symbolic_impl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal
+    _lazy_import.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\exporter
+    _analysis.py
+    _building.py
+    _capture_strategies.py
+    _compat.py
+    _constants.py
+    _core.py
+    _decomp.py
+    _dispatching.py
+    _dynamic_shapes.py
+    _errors.py
+    _exportable_module.py
+    _flags.py
+    _fx_passes.py
+    _input_observer.py
+    _ir_passes.py
+    _isolated.py
+    _onnx_program.py
+    _registration.py
+    _reporting.py
+    _schemas.py
+    _tensors.py
+    _testing.py
+    _type_casting.py
+    _verification.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\exporter\_torchlib
+    _tensor_typing.py
+    _torchlib_registry.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\exporter\_torchlib\ops
+    core.py
+    hop.py
+    nn.py
+    symbolic.py
+    symops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\fx
+    type_utils.py
+    _pass.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\fx\passes
+    type_promotion.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\onnx\_internal\torchscript_exporter
+    jit_utils.py
+    onnx_proto_utils.py
+    registration.py
+    symbolic_helper.py
+    symbolic_opset10.py
+    symbolic_opset11.py
+    symbolic_opset12.py
+    symbolic_opset13.py
+    symbolic_opset14.py
+    symbolic_opset15.py
+    symbolic_opset16.py
+    symbolic_opset17.py
+    symbolic_opset18.py
+    symbolic_opset19.py
+    symbolic_opset20.py
+    symbolic_opset7.py
+    symbolic_opset8.py
+    symbolic_opset9.py
+    utils.py
+    verification.py
+    _experimental.py
+    _globals.py
+    _type_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\optim
+    adadelta.py
+    adagrad.py
+    adam.py
+    adamax.py
+    adamw.py
+    asgd.py
+    lbfgs.py
+    lr_scheduler.py
+    nadam.py
+    optimizer.py
+    radam.py
+    rmsprop.py
+    rprop.py
+    sgd.py
+    sparse_adam.py
+    swa_utils.py
+    _adafactor.py
+    _functional.py
+    _muon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\optim\_multi_tensor
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\package
+    file_structure_representation.py
+    find_file_dependencies.py
+    glob_group.py
+    importer.py
+    package_exporter.py
+    package_importer.py
+    _digraph.py
+    _directory_reader.py
+    _importlib.py
+    _mangling.py
+    _mock.py
+    _package_pickler.py
+    _package_unpickler.py
+    _stdlib.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\package\analyze
+    find_first_use_of_broken_modules.py
+    is_from_package.py
+    trace_dependencies.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\profiler
+    itt.py
+    profiler.py
+    python_tracer.py
+    _memory_profiler.py
+    _pattern_matcher.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\quantization
+    fake_quantize.py
+    fuser_method_mappings.py
+    fuse_modules.py
+    observer.py
+    qconfig.py
+    quantization_mappings.py
+    quantize.py
+    quantize_fx.py
+    quantize_jit.py
+    quant_type.py
+    stubs.py
+    utils.py
+    _numeric_suite.py
+    _numeric_suite_fx.py
+    _quantized_conversions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\quantization\fx
+    convert.py
+    fuse.py
+    fusion_patterns.py
+    graph_module.py
+    match_utils.py
+    pattern_utils.py
+    prepare.py
+    quantization_patterns.py
+    quantization_types.py
+    utils.py
+    _equalize.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\ATen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Caffe2
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Caffe2\Modules_CUDA_fix
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Caffe2\Modules_CUDA_fix\upstream
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Caffe2\Modules_CUDA_fix\upstream\FindCUDA
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Caffe2\public
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\share\cmake\Torch
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\signal
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\signal\windows
+    windows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\sparse
+    semi_structured.py
+    _semi_structured_conversions.py
+    _semi_structured_ops.py
+    _triton_ops.py
+    _triton_ops_meta.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\special
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing
+    _comparison.py
+    _creation.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal
+    autocast_test_lists.py
+    autograd_function_db.py
+    check_kernel_launches.py
+    common_cuda.py
+    common_device_type.py
+    common_distributed.py
+    common_dist_composable.py
+    common_dtype.py
+    common_fsdp.py
+    common_jit.py
+    common_methods_invocations.py
+    common_mkldnn.py
+    common_modules.py
+    common_mps.py
+    common_nn.py
+    common_ops_unbacked.py
+    common_optimizers.py
+    common_pruning.py
+    common_quantization.py
+    common_quantized.py
+    common_subclass.py
+    common_utils.py
+    common_xpu.py
+    composite_compliance.py
+    custom_op_db.py
+    custom_tensor.py
+    dist_utils.py
+    dynamo_pytree_test_utils.py
+    dynamo_test_failures.py
+    fake_config_module.py
+    fake_config_module2.py
+    fake_config_module3.py
+    hop_db.py
+    hypothesis_utils.py
+    inductor_utils.py
+    jit_metaprogramming_utils.py
+    jit_utils.py
+    logging_tensor.py
+    logging_utils.py
+    py312_intrinsics.py
+    quantization_torch_package_models.py
+    static_module.py
+    subclasses.py
+    torchbind_impls.py
+    triton_utils.py
+    two_tensor.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\codegen
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\data
+    network1.py
+    network2.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed
+    checkpoint_utils.py
+    common_state_dict.py
+    ddp_under_dist_autograd_test.py
+    distributed_test.py
+    distributed_utils.py
+    fake_pg.py
+    multi_threaded_pg.py
+    rpc_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\nn
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\nn\api
+    remote_module_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\rpc
+    dist_autograd_test.py
+    dist_optimizer_test.py
+    faulty_agent_rpc_test.py
+    faulty_rpc_agent_test_fixture.py
+    rpc_agent_test_fixture.py
+    rpc_test.py
+    tensorpipe_rpc_agent_test_fixture.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\rpc\examples
+    parameter_server_test.py
+    reinforcement_learning_rpc_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\rpc\jit
+    dist_autograd_test.py
+    rpc_test.py
+    rpc_test_faulty.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\_shard
+    test_common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\_shard\sharded_tensor
+    _test_ops_common.py
+    _test_st_common.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\distributed\_tensor
+    common_dtensor.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\generated
+    annotated_fn_args.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\opinfo
+    core.py
+    refs.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\opinfo\definitions
+    fft.py
+    linalg.py
+    nested.py
+    signal.py
+    sparse.py
+    special.py
+    _masked.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\optests
+    aot_autograd.py
+    autograd_registration.py
+    fake_tensor.py
+    generate_tests.py
+    make_fx.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\testing\_internal\test_module
+    future_div.py
+    no_future_div.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils
+    backend_registration.py
+    bundled_inputs.py
+    checkpoint.py
+    collect_env.py
+    cpp_backtrace.py
+    cpp_extension.py
+    deterministic.py
+    dlpack.py
+    file_baton.py
+    flop_counter.py
+    hooks.py
+    mkldnn.py
+    mobile_optimizer.py
+    model_zoo.py
+    module_tracker.py
+    show_pickle.py
+    throughput_benchmark.py
+    weak.py
+    _appending_byte_serializer.py
+    _config_module.py
+    _content_store.py
+    _contextlib.py
+    _cpp_embed_headers.py
+    _cpp_extension_versioner.py
+    _cxx_pytree.py
+    _device.py
+    _dtype_abbrs.py
+    _exposed_in.py
+    _filelock.py
+    _foreach_utils.py
+    _functools.py
+    _get_clean_triton.py
+    _helion.py
+    _import_utils.py
+    _inspect.py
+    _mode_utils.py
+    _ordered_set.py
+    _pallas.py
+    _python_dispatch.py
+    _pytree.py
+    _runtime_estimation.py
+    _stats.py
+    _thunk.py
+    _traceback.py
+    _triton.py
+    _typing_utils.py
+    _zip.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\backcompat
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\benchmark
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\benchmark\examples
+    compare.py
+    fuzzer.py
+    op_benchmark.py
+    simple_timeit.py
+    spectral_ops_fuzz_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\benchmark\op_fuzzers
+    binary.py
+    sparse_binary.py
+    sparse_unary.py
+    spectral.py
+    unary.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\benchmark\utils
+    common.py
+    compare.py
+    compile.py
+    cpp_jit.py
+    fuzzer.py
+    sparse_fuzzer.py
+    timer.py
+    _stubs.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\benchmark\utils\valgrind_wrapper
+    timer_interface.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data
+    backward_compatibility.py
+    dataloader.py
+    dataset.py
+    distributed.py
+    graph.py
+    graph_settings.py
+    sampler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\datapipes
+    datapipe.py
+    gen_pyi.py
+    _decorator.py
+    _hook_iterator.py
+    _typing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\datapipes\dataframe
+    dataframes.py
+    dataframe_wrapper.py
+    datapipes.py
+    structures.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\datapipes\iter
+    callable.py
+    combinatorics.py
+    combining.py
+    filelister.py
+    fileopener.py
+    grouping.py
+    routeddecoder.py
+    selecting.py
+    sharding.py
+    streamreader.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\datapipes\map
+    callable.py
+    combinatorics.py
+    combining.py
+    grouping.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\datapipes\utils
+    common.py
+    decoder.py
+    snapshot.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\data\_utils
+    collate.py
+    fetch.py
+    pin_memory.py
+    signal_handling.py
+    worker.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\hipify
+    constants.py
+    cuda_to_hip_mappings.py
+    hipify_python.py
+    version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\jit
+    log_extract.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\model_dump
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\serialization
+    config.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\tensorboard
+    summary.py
+    writer.py
+    _convert_np.py
+    _embedding.py
+    _onnx_graph.py
+    _proto_graph.py
+    _pytorch_graph.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\viz
+    _cycles.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\_debug_mode
+    _calls.py
+    _mode.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\_strobelight
+    cli_function_profiler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\utils\_sympy
+    functions.py
+    interp.py
+    numbers.py
+    printers.py
+    reference.py
+    singleton_int.py
+    solve.py
+    symbol.py
+    value_ranges.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\xpu
+    graphs.py
+    memory.py
+    random.py
+    streams.py
+    _gpu_trace.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_awaits
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_C
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_C\_acc
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_C\_dynamo
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_C\_export
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_custom_op
+    autograd.py
+    impl.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_C_flatbuffer
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_decomp
+    decompositions.py
+    decompositions_for_jvp.py
+    decompositions_for_rng.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dispatch
+    python.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dynamo
+    aot_compile.py
+    aot_compile_types.py
+    bytecode_analysis.py
+    bytecode_debugger.py
+    bytecode_transformation.py
+    cache_size.py
+    callback.py
+    codegen.py
+    code_context.py
+    compiled_autograd.py
+    comprehension_graph_break.py
+    comptime.py
+    config.py
+    convert_frame.py
+    create_parameter_op.py
+    current_scope_id.py
+    dce_extra_outputs.py
+    debug_utils.py
+    decorators.py
+    device_interface.py
+    distributed.py
+    dynamo_profiler.py
+    eval_frame.py
+    exc.py
+    external_utils.py
+    funcname_cache.py
+    functional_export.py
+    graph_break_hints.py
+    graph_bytecode_inputs.py
+    graph_deduplication.py
+    graph_id_filter.py
+    graph_region_tracker.py
+    graph_utils.py
+    guards.py
+    hooks.py
+    logging.py
+    metrics_context.py
+    mutation_guard.py
+    output_graph.py
+    package.py
+    pgo.py
+    precompile_context.py
+    profiler.py
+    replay_record.py
+    resume_execution.py
+    side_effects.py
+    source.py
+    symbolic_convert.py
+    tensor_version_op.py
+    testing.py
+    test_case.py
+    test_dont_skip_tracing_functions.py
+    test_minifier_common.py
+    trace_rules.py
+    types.py
+    utils.py
+    _trace_wrapped_higher_order_op.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dynamo\backends
+    common.py
+    cudagraphs.py
+    debugging.py
+    distributed.py
+    inductor.py
+    onnxrt.py
+    registry.py
+    tensorrt.py
+    torchxla.py
+    tvm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dynamo\polyfills
+    builtins.py
+    copy.py
+    functools.py
+    fx.py
+    heapq.py
+    itertools.py
+    loader.py
+    operator.py
+    os.py
+    pytree.py
+    struct.py
+    sys.py
+    tensor.py
+    torch_c_nn.py
+    traceback.py
+    _collections.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dynamo\repro
+    after_aot.py
+    after_dynamo.py
+    aoti.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_dynamo\variables
+    base.py
+    builder.py
+    builtin.py
+    constant.py
+    ctx_manager.py
+    dicts.py
+    distributed.py
+    functions.py
+    hashable.py
+    higher_order_ops.py
+    invoke_subgraph.py
+    iter.py
+    lazy.py
+    lists.py
+    misc.py
+    nn_module.py
+    object_protocol.py
+    optimizer.py
+    script_object.py
+    sdpa.py
+    sets.py
+    streams.py
+    tensor.py
+    torch.py
+    torch_function.py
+    user_defined.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export
+    config.py
+    converter.py
+    error.py
+    non_strict_utils.py
+    pass_base.py
+    tools.py
+    utils.py
+    verifier.py
+    wrappers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export\db
+    case.py
+    gen_example.py
+    logging.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export\db\examples
+    assume_constant_result.py
+    autograd_function.py
+    class_method.py
+    cond_branch_class_method.py
+    cond_branch_nested_function.py
+    cond_branch_nonlocal_variables.py
+    cond_closed_over_variable.py
+    cond_operands.py
+    cond_predicate.py
+    constrain_as_size_example.py
+    constrain_as_value_example.py
+    decorator.py
+    dictionary.py
+    dynamic_shape_assert.py
+    dynamic_shape_constructor.py
+    dynamic_shape_if_guard.py
+    dynamic_shape_map.py
+    dynamic_shape_round.py
+    dynamic_shape_slicing.py
+    dynamic_shape_view.py
+    fn_with_kwargs.py
+    list_contains.py
+    list_unpack.py
+    model_attr_mutation.py
+    nested_function.py
+    null_context_manager.py
+    optional_input.py
+    pytree_flatten.py
+    scalar_output.py
+    specialized_attribute.py
+    static_for_loop.py
+    static_if.py
+    tensor_setattr.py
+    type_reflection_method.py
+    unsupported_operator.py
+    user_input_mutation.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export\passes
+    add_runtime_assertions_for_constraints_pass.py
+    collect_tracepoints_pass.py
+    constant_folding.py
+    functionalize_side_effectful_ops_pass.py
+    insert_custom_op_guards.py
+    lift_constants_pass.py
+    remove_runtime_assertions.py
+    replace_autocast_with_hop_pass.py
+    replace_quantized_ops_with_standard_ops_pass.py
+    replace_set_grad_with_hop_pass.py
+    replace_view_ops_with_view_copy_ops_pass.py
+    replace_with_hop_pass_util.py
+    _node_metadata_hook.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export\pass_infra
+    node_metadata.py
+    proxy_value.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_export\serde
+    dynamic_shapes.py
+    schema.py
+    schema_check.py
+    serialize.py
+    union.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_functorch
+    aot_autograd.py
+    apis.py
+    autograd_function.py
+    batch_norm_replacement.py
+    benchmark_utils.py
+    compilers.py
+    compile_utils.py
+    config.py
+    deprecated.py
+    eager_transforms.py
+    functional_call.py
+    fx_minifier.py
+    make_functional.py
+    partitioners.py
+    predispatch.py
+    pyfunctorch.py
+    python_key.py
+    pytree_hacks.py
+    top_operators_github_usage.py
+    utils.py
+    vmap.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_functorch\_activation_checkpointing
+    ac_logging_utils.py
+    graph_info_provider.py
+    knapsack.py
+    knapsack_evaluator.py
+    remat_using_tags_for_fwd_loss_bwd_graph_pass.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_functorch\_activation_offloading
+    activation_offloading.py
+    offload_ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_functorch\_aot_autograd
+    aot_autograd_result.py
+    autograd_cache.py
+    collect_metadata_analysis.py
+    descriptors.py
+    frontend_utils.py
+    functional_utils.py
+    fx_utils.py
+    graph_capture.py
+    graph_capture_wrappers.py
+    graph_compile.py
+    indexed_dict.py
+    input_output_analysis.py
+    logging_utils.py
+    runtime_wrappers.py
+    schemas.py
+    streams.py
+    subclass_codegen.py
+    subclass_parametrization.py
+    subclass_utils.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_higher_order_ops
+    aoti_call_delegate.py
+    associative_scan.py
+    auto_functionalize.py
+    base_hop.py
+    cond.py
+    cudagraph_conditional_nodes.py
+    effects.py
+    executorch_call_delegate.py
+    flat_apply.py
+    flex_attention.py
+    foreach_map.py
+    hints_wrap.py
+    inline_asm_elementwise.py
+    invoke_leaf_function.py
+    invoke_subgraph.py
+    local_map.py
+    map.py
+    out_dtype.py
+    partitioner.py
+    print.py
+    run_const_graph.py
+    scan.py
+    schema.py
+    strict_mode.py
+    torchbind.py
+    triton_kernel_wrap.py
+    utils.py
+    while_loop.py
+    wrap.py
+    _invoke_quant.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_higher_order_ops\passes
+    inline_invoke_subgraph.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor
+    analyze_preserves_zero_mask.py
+    aoti_eager.py
+    async_compile.py
+    augmented_graph_helper.py
+    autotune_process.py
+    await_utils.py
+    bounds.py
+    cache.py
+    choices.py
+    codecache.py
+    comms.py
+    comms_debug.py
+    comm_analysis.py
+    comm_lowering.py
+    compiler_bisector.py
+    compile_fx.py
+    compile_fx_async.py
+    compile_fx_ext.py
+    compile_fx_subproc.py
+    config.py
+    config_comms.py
+    constant_folding.py
+    cpp_builder.py
+    cpu_vec_isa.py
+    cudagraph_trees.py
+    cudagraph_utils.py
+    custom_graph_pass.py
+    debug.py
+    decomposition.py
+    dependencies.py
+    distributed_autotune.py
+    dtype_propagation.py
+    exc.py
+    extern_node_serializer.py
+    freezing.py
+    freezing_utils.py
+    fuzzer.py
+    fx_utils.py
+    graph.py
+    hooks.py
+    index_propagation.py
+    inductor_prims.py
+    invert_expr_analysis.py
+    ir.py
+    jagged_lowerings.py
+    kernel_inputs.py
+    kernel_template_choice.py
+    loop_body.py
+    lowering.py
+    memory.py
+    metrics.py
+    mkldnn_ir.py
+    mkldnn_lowerings.py
+    mock_cache.py
+    ops_handler.py
+    optimize_indexing.py
+    output_code.py
+    pattern_matcher.py
+    quantized_lowerings.py
+    remote_cache.py
+    remote_gemm_autotune_cache.py
+    rocm_multiarch_utils.py
+    scheduler.py
+    select_algorithm.py
+    shape_propagation.py
+    sizevars.py
+    standalone_compile.py
+    stream_constants.py
+    stream_utils.py
+    subgraph_lowering.py
+    test_case.py
+    test_operators.py
+    tiling_utils.py
+    triton_bundler.py
+    utils.py
+    virtualized.py
+    wrapper_benchmark.py
+    __autotune_main__.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\analysis
+    device_info.py
+    profile_analysis.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\autoheuristic
+    autoheuristic.py
+    autoheuristic_utils.py
+    learnedheuristic_interface.py
+    learned_heuristic_controller.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\autoheuristic\artifacts
+    _MixedMMA100.py
+    _MixedMMH100.py
+    _MMRankingA100.py
+    _MMRankingH100.py
+    _PadMMA100.py
+    _PadMMH200.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen
+    aoti_hipify_utils.py
+    block_analysis.py
+    common.py
+    cpp.py
+    cpp_bmm_template.py
+    cpp_flex_attention_template.py
+    cpp_gemm_template.py
+    cpp_grouped_gemm_template.py
+    cpp_micro_gemm.py
+    cpp_template.py
+    cpp_template_kernel.py
+    cpp_utils.py
+    cpp_wrapper_cpu.py
+    cpp_wrapper_cpu_array_ref.py
+    cpp_wrapper_gpu.py
+    cpp_wrapper_mps.py
+    cpu_device_op_overrides.py
+    cuda_combined_scheduling.py
+    custom_extern_kernel_codegen.py
+    debug_utils.py
+    halide.py
+    memory_planning.py
+    mps.py
+    mps_device_op_overrides.py
+    multi_kernel.py
+    pallas.py
+    python_wrapper_mtia.py
+    segmented_tree.py
+    simd.py
+    simd_kernel_features.py
+    subgraph.py
+    triton.py
+    triton_combo_kernel.py
+    triton_split_scan.py
+    triton_utils.py
+    wrapper.py
+    wrapper_fxir.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\aoti_runtime
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cuda
+    compile_utils.py
+    cuda_env.py
+    device_op_overrides.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutedsl
+    cutedsl_kernel.py
+    cutedsl_op_overrides.py
+    cutedsl_scheduling.py
+    cutedsl_template.py
+    _cutedsl_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass
+    cache.py
+    gemm_template.py
+    kernel.py
+    python_evt.py
+    scheduling.py
+    serialization.py
+    template.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass\lib_extensions
+    evt_extensions.py
+    gemm_operation_extensions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass\lib_extensions\cutlass_mock_imports
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass\lib_extensions\cutlass_mock_imports\cuda
+    cuda.py
+    cudart.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass\lib_extensions\cutlass_mock_imports\pydot
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\cutlass\lib_extensions\cutlass_mock_imports\scipy
+    special.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\mtia
+    device_op_overrides.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\nv_universal_gemm
+    kernel_cache.py
+    nv_universal_gemm.py
+    nv_universal_gemm_kernel.py
+    nv_universal_gemm_scheduling.py
+    nv_universal_gemm_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\rocm
+    ck_conv_template.py
+    ck_template.py
+    ck_tile_template.py
+    ck_tile_universal_gemm_template.py
+    ck_universal_gemm_template.py
+    compile_command.py
+    rocm_benchmark_request.py
+    rocm_cpp_scheduling.py
+    rocm_kernel.py
+    rocm_template.py
+    rocm_template_buffer.py
+    rocm_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\codegen\xpu
+    compile_utils.py
+    device_op_overrides.py
+    xpu_combined_scheduling.py
+    xpu_env.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\compile_worker
+    subproc_pool.py
+    timer.py
+    tracked_process_pool.py
+    utils.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\fx_passes
+    apply_gumbel_max_trick.py
+    b2b_gemm.py
+    binary_folding.py
+    bucketing.py
+    control_dependencies.py
+    ddp_fusion.py
+    decompose_mem_bound_mm.py
+    dedupe_symint_uses.py
+    efficient_conv_bn_eval.py
+    freezing_patterns.py
+    fsdp.py
+    fuse_attention.py
+    fusion_regions.py
+    graph_view.py
+    group_batch_fusion.py
+    joint_graph.py
+    memory_estimator.py
+    micro_pipeline_tp.py
+    misc_patterns.py
+    mkldnn_fusion.py
+    node_runtime_estimation.py
+    numeric_utils.py
+    overlap_manual_scheduling.py
+    overlap_preserving_bucketer.py
+    overlap_scheduling.py
+    pad_mm.py
+    post_grad.py
+    pre_grad.py
+    quantization.py
+    reduced_atomic_contention.py
+    reinplace.py
+    replace_random.py
+    split_cat.py
+    spmd_check.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\fx_passes\auto_chunker
+    applier.py
+    common.py
+    core.py
+    propagate_scale_by.py
+    propagator.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\fx_passes\serialized_patterns
+    addmm_pattern.py
+    bmm_pattern.py
+    mm_pattern.py
+    _sfdp_pattern_1.py
+    _sfdp_pattern_10.py
+    _sfdp_pattern_11.py
+    _sfdp_pattern_12.py
+    _sfdp_pattern_13.py
+    _sfdp_pattern_14.py
+    _sfdp_pattern_15.py
+    _sfdp_pattern_16.py
+    _sfdp_pattern_17.py
+    _sfdp_pattern_18.py
+    _sfdp_pattern_19.py
+    _sfdp_pattern_2.py
+    _sfdp_pattern_20.py
+    _sfdp_pattern_21.py
+    _sfdp_pattern_22.py
+    _sfdp_pattern_23.py
+    _sfdp_pattern_24.py
+    _sfdp_pattern_25.py
+    _sfdp_pattern_26.py
+    _sfdp_pattern_27.py
+    _sfdp_pattern_28.py
+    _sfdp_pattern_3.py
+    _sfdp_pattern_4.py
+    _sfdp_pattern_5.py
+    _sfdp_pattern_6.py
+    _sfdp_pattern_7.py
+    _sfdp_pattern_8.py
+    _sfdp_pattern_9.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel
+    bmm.py
+    conv.py
+    custom_op.py
+    mm.py
+    mm_common.py
+    mm_grouped.py
+    mm_plus_mm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\flex
+    common.py
+    flex_attention.py
+    flex_cpu.py
+    flex_decoding.py
+    flex_flash_attention.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\flex\templates
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\templates
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\vendored_templates
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\vendored_templates\cutedsl
+    dense_blockscaled_gemm_persistent.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\vendored_templates\cutedsl\kernels
+    cutedsl_grouped_gemm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\kernel\vendored_templates\cutedsl\wrappers
+    dense_blockscaled_gemm_kernel.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\lookup_table
+    choices.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\package
+    build_package.py
+    package.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\runtime
+    autotune_cache.py
+    benchmarking.py
+    cache_dir_utils.py
+    compile_tasks.py
+    coordinate_descent_tuner.py
+    debug_utils.py
+    halide_helpers.py
+    hints.py
+    proton_utils.py
+    runtime_utils.py
+    static_triton_launcher.py
+    triton_compat.py
+    triton_helpers.py
+    triton_heuristics.py
+    triton_lazy_compile.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\runtime\caching
+    config.py
+    context.py
+    encoders.py
+    exceptions.py
+    implementations.py
+    interfaces.py
+    locks.py
+    memoizers.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_inductor\template_heuristics
+    aten.py
+    base.py
+    contiguous_mm.py
+    cutedsl.py
+    decompose_k.py
+    gemm.py
+    nv_universal_gemm.py
+    params.py
+    registry.py
+    tlx.py
+    triton.py
+    triton_addmm.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_lazy
+    closure.py
+    computation.py
+    config.py
+    debug.py
+    device_context.py
+    extract_compiled_graph.py
+    ir_cache.py
+    metrics.py
+    tensor_factory_functions.py
+    ts_backend.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_library
+    autograd.py
+    custom_ops.py
+    effects.py
+    fake_class_registry.py
+    fake_impl.py
+    fake_profile.py
+    infer_schema.py
+    opaque_object.py
+    simple_registry.py
+    triton.py
+    utils.py
+    _out_variant.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_logging
+    scribe.py
+    structured.py
+    _internal.py
+    _registrations.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_native
+    common_utils.py
+    cutedsl_utils.py
+    dsl_registry.py
+    registry.py
+    triton_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_native\ops
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_numpy
+    fft.py
+    linalg.py
+    random.py
+    _binary_ufuncs_impl.py
+    _casting_dicts.py
+    _dtypes.py
+    _dtypes_impl.py
+    _funcs.py
+    _funcs_impl.py
+    _getlimits.py
+    _ndarray.py
+    _normalizations.py
+    _reductions_impl.py
+    _ufuncs.py
+    _unary_ufuncs_impl.py
+    _util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_numpy\testing
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_prims
+    context.py
+    debug_prims.py
+    executor.py
+    rng_prims.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_prims_common
+    wrappers.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_refs
+    fft.py
+    _conversions.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_refs\linalg
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_refs\nn
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_refs\nn\functional
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_refs\special
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_strobelight
+    cli_function_profiler.py
+    compile_time_profiler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_subclasses
+    fake_impls.py
+    fake_tensor.py
+    fake_utils.py
+    functional_tensor.py
+    meta_utils.py
+    schema_check_mode.py
+    _fake_tensor_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_subclasses\complex_tensor
+    _core.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_subclasses\complex_tensor\_ops
+    aten.py
+    common.py
+    prims.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_vendor
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch\_vendor\packaging
+    version.py
+    _structures.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torch-2.12.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen
+    code_template.py
+    context.py
+    gen.py
+    gen_aoti_c_shim.py
+    gen_backend_stubs.py
+    gen_functionalization_type.py
+    gen_lazy_tensor.py
+    gen_schema_utils.py
+    gen_vmap_plumbing.py
+    local.py
+    model.py
+    native_function_generation.py
+    utils.py
+    yaml_utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\aoti
+    fallback_ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\api
+    autograd.py
+    cpp.py
+    dispatcher.py
+    functionalization.py
+    lazy.py
+    meta.py
+    native.py
+    python.py
+    structured.py
+    translate.py
+    ufunc.py
+    unboxing.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\api\types
+    signatures.py
+    types.py
+    types_base.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\dest
+    lazy_ir.py
+    lazy_ts_lowering.py
+    native_functions.py
+    register_dispatch_key.py
+    ufunc.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\operator_versions
+    gen_mobile_upgraders.py
+    gen_mobile_upgraders_constant.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged\ATen
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged\ATen\native
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged\ATen\templates
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged\autograd
+    context.py
+    gen_annotated_fn_args.py
+    gen_autograd.py
+    gen_autograd_functions.py
+    gen_inplace_or_view_type.py
+    gen_python_functions.py
+    gen_trace_type.py
+    gen_variable_factories.py
+    gen_variable_type.py
+    gen_view_funcs.py
+    load_derivatives.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\packaged\autograd\templates
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\selective_build
+    operator.py
+    selector.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchgen\static_runtime
+    config.py
+    generator.py
+    gen_static_runtime_ops.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision
+    extension.py
+    utils.py
+    version.py
+    _autograd_registrations.py
+    _internally_replaced_utils.py
+    _meta_registrations.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\datasets
+    caltech.py
+    celeba.py
+    cifar.py
+    cityscapes.py
+    clevr.py
+    coco.py
+    country211.py
+    dtd.py
+    eurosat.py
+    fakedata.py
+    fer2013.py
+    fgvc_aircraft.py
+    flickr.py
+    flowers102.py
+    folder.py
+    food101.py
+    gtsrb.py
+    hmdb51.py
+    imagenet.py
+    imagenette.py
+    inaturalist.py
+    kinetics.py
+    kitti.py
+    lfw.py
+    lsun.py
+    mnist.py
+    moving_mnist.py
+    omniglot.py
+    oxford_iiit_pet.py
+    pcam.py
+    phototour.py
+    places365.py
+    rendered_sst2.py
+    sbd.py
+    sbu.py
+    semeion.py
+    stanford_cars.py
+    stl10.py
+    sun397.py
+    svhn.py
+    ucf101.py
+    usps.py
+    utils.py
+    video_utils.py
+    vision.py
+    voc.py
+    widerface.py
+    _optical_flow.py
+    _stereo_matching.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\datasets\samplers
+    clip_sampler.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\io
+    image.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models
+    alexnet.py
+    convnext.py
+    densenet.py
+    efficientnet.py
+    feature_extraction.py
+    googlenet.py
+    inception.py
+    maxvit.py
+    mnasnet.py
+    mobilenet.py
+    mobilenetv2.py
+    mobilenetv3.py
+    regnet.py
+    resnet.py
+    shufflenetv2.py
+    squeezenet.py
+    swin_transformer.py
+    vgg.py
+    vision_transformer.py
+    _api.py
+    _meta.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models\detection
+    anchor_utils.py
+    backbone_utils.py
+    faster_rcnn.py
+    fcos.py
+    generalized_rcnn.py
+    image_list.py
+    keypoint_rcnn.py
+    mask_rcnn.py
+    retinanet.py
+    roi_heads.py
+    rpn.py
+    ssd.py
+    ssdlite.py
+    transform.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models\optical_flow
+    raft.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models\quantization
+    googlenet.py
+    inception.py
+    mobilenet.py
+    mobilenetv2.py
+    mobilenetv3.py
+    resnet.py
+    shufflenetv2.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models\segmentation
+    deeplabv3.py
+    fcn.py
+    lraspp.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\models\video
+    mvit.py
+    resnet.py
+    s3d.py
+    swin_transformer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\ops
+    boxes.py
+    ciou_loss.py
+    deform_conv.py
+    diou_loss.py
+    drop_block.py
+    feature_pyramid_network.py
+    focal_loss.py
+    giou_loss.py
+    misc.py
+    poolers.py
+    ps_roi_align.py
+    ps_roi_pool.py
+    roi_align.py
+    roi_pool.py
+    stochastic_depth.py
+    _box_convert.py
+    _register_onnx_ops.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\transforms
+    autoaugment.py
+    functional.py
+    transforms.py
+    _functional_pil.py
+    _functional_tensor.py
+    _functional_video.py
+    _presets.py
+    _transforms_video.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\transforms\v2
+    _augment.py
+    _auto_augment.py
+    _color.py
+    _container.py
+    _deprecated.py
+    _geometry.py
+    _meta.py
+    _misc.py
+    _temporal.py
+    _transform.py
+    _type_conversion.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\transforms\v2\functional
+    _augment.py
+    _color.py
+    _deprecated.py
+    _geometry.py
+    _meta.py
+    _misc.py
+    _temporal.py
+    _type_conversion.py
+    _utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision\tv_tensors
+    _bounding_boxes.py
+    _dataset_wrapper.py
+    _image.py
+    _keypoints.py
+    _mask.py
+    _torch_function_helpers.py
+    _tv_tensor.py
+    _video.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\torchvision-0.27.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tqdm
+    asyncio.py
+    auto.py
+    autonotebook.py
+    cli.py
+    dask.py
+    gui.py
+    keras.py
+    notebook.py
+    rich.py
+    std.py
+    tk.py
+    utils.py
+    version.py
+    _main.py
+    _monitor.py
+    _tqdm.py
+    _tqdm_gui.py
+    _tqdm_notebook.py
+    _tqdm_pandas.py
+    _utils.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tqdm\contrib
+    bells.py
+    concurrent.py
+    discord.py
+    itertools.py
+    logging.py
+    slack.py
+    telegram.py
+    utils_worker.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tqdm-4.68.3.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\tqdm-4.68.3.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer
+    cli.py
+    colors.py
+    completion.py
+    core.py
+    main.py
+    models.py
+    params.py
+    rich_utils.py
+    testing.py
+    utils.py
+    _completion_classes.py
+    _completion_shared.py
+    _types.py
+    _typing.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer\.agents
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer\.agents\skills
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer\.agents\skills\typer
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer-0.25.1.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typer-0.25.1.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typing_extensions-4.15.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typing_extensions-4.15.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typing_inspection
+    introspection.py
+    typing_objects.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typing_inspection-0.4.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\typing_inspection-0.4.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3
+    connection.py
+    connectionpool.py
+    exceptions.py
+    fields.py
+    filepost.py
+    poolmanager.py
+    response.py
+    _base_connection.py
+    _collections.py
+    _request_methods.py
+    _version.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3\contrib
+    pyopenssl.py
+    socks.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3\contrib\emscripten
+    connection.py
+    fetch.py
+    request.py
+    response.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3\http2
+    connection.py
+    probe.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3\util
+    connection.py
+    proxy.py
+    request.py
+    response.py
+    retry.py
+    ssltransport.py
+    ssl_.py
+    ssl_match_hostname.py
+    timeout.py
+    url.py
+    util.py
+    wait.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3-2.7.0.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\urllib3-2.7.0.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug
+    exceptions.py
+    formparser.py
+    http.py
+    local.py
+    security.py
+    serving.py
+    test.py
+    testapp.py
+    urls.py
+    user_agent.py
+    utils.py
+    wsgi.py
+    _internal.py
+    _reloader.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\datastructures
+    accept.py
+    auth.py
+    cache_control.py
+    csp.py
+    etag.py
+    file_storage.py
+    headers.py
+    mixins.py
+    range.py
+    structures.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\debug
+    console.py
+    repr.py
+    tbtools.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\debug\shared
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\middleware
+    dispatcher.py
+    http_proxy.py
+    lint.py
+    profiler.py
+    proxy_fix.py
+    shared_data.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\routing
+    converters.py
+    exceptions.py
+    map.py
+    matcher.py
+    rules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\sansio
+    http.py
+    multipart.py
+    request.py
+    response.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug\wrappers
+    request.py
+    response.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug-3.1.8.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\werkzeug-3.1.8.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\whisper
+    audio.py
+    decoding.py
+    model.py
+    timing.py
+    tokenizer.py
+    transcribe.py
+    triton_ops.py
+    utils.py
+    version.py
+    __init__.py
+    __main__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\whisper\assets
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\whisper\normalizers
+    basic.py
+    english.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32
+    winxpgui.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos
+    BackupRead_BackupWrite.py
+    BackupSeek_streamheaders.py
+    CopyFileEx.py
+    CreateFileTransacted_MiniVersion.py
+    desktopmanager.py
+    eventLogDemo.py
+    EvtFormatMessage.py
+    EvtSubscribe_pull.py
+    EvtSubscribe_push.py
+    FileSecurityTest.py
+    getfilever.py
+    GetSaveFileName.py
+    mmapfile_demo.py
+    NetValidatePasswordPolicy.py
+    OpenEncryptedFileRaw.py
+    print_desktop.py
+    rastest.py
+    RegCreateKeyTransacted.py
+    RegRestoreKey.py
+    SystemParametersInfo.py
+    timer_demo.py
+    win32clipboardDemo.py
+    win32clipboard_bitmapdemo.py
+    win32comport_demo.py
+    win32console_demo.py
+    win32cred_demo.py
+    win32fileDemo.py
+    win32gui_demo.py
+    win32gui_devicenotify.py
+    win32gui_dialog.py
+    win32gui_menu.py
+    win32gui_taskbar.py
+    win32netdemo.py
+    win32rcparser_demo.py
+    win32servicedemo.py
+    win32ts_logoff_disconnected.py
+    winprocess.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\c_extension
+    setup.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\dde
+    ddeclient.py
+    ddeserver.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\images
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\pipes
+    cat.py
+    runproc.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\security
+    account_rights.py
+    explicit_entries.py
+    GetTokenInformation.py
+    get_policy_info.py
+    list_rights.py
+    localized_names.py
+    lsaregevent.py
+    lsastore.py
+    query_information.py
+    regsave_sa.py
+    regsecurity.py
+    sa_inherit.py
+    security_enums.py
+    setkernelobjectsecurity.py
+    setnamedsecurityinfo.py
+    setsecurityinfo.py
+    setuserobjectsecurity.py
+    set_file_audit.py
+    set_file_owner.py
+    set_policy_info.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\security\sspi
+    fetch_url.py
+    simple_auth.py
+    socket_server.py
+    validate_password.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\service
+    nativePipeTestService.py
+    pipeTestService.py
+    pipeTestServiceClient.py
+    serviceEvents.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\Demos\win32wnet
+    testwnet.py
+    winnetwk.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\lib
+    afxres.py
+    commctrl.py
+    mmsystem.py
+    netbios.py
+    ntsecuritycon.py
+    pywin32_bootstrap.py
+    pywin32_testutil.py
+    pywintypes.py
+    rasutil.py
+    regcheck.py
+    regutil.py
+    sspi.py
+    sspicon.py
+    win2kras.py
+    win32con.py
+    win32cryptcon.py
+    win32evtlogutil.py
+    win32gui_struct.py
+    win32inetcon.py
+    win32netcon.py
+    win32pdhquery.py
+    win32pdhutil.py
+    win32rcparser.py
+    win32serviceutil.py
+    win32timezone.py
+    win32traceutil.py
+    win32verstamp.py
+    winerror.py
+    winioctlcon.py
+    winnt.py
+    winperf.py
+    winxptheme.py
+    _win32verstamp_pywin32ctypes.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\scripts
+    backupEventLog.py
+    ControlService.py
+    h2py.py
+    killProcName.py
+    pywin32_postinstall.py
+    pywin32_testall.py
+    rasutil.py
+    regsetup.py
+    setup_d.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\scripts\VersionStamp
+    BrandProject.py
+    bulkstamp.py
+    vssutil.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\test
+    handles.py
+    testall.py
+    test_clipboard.py
+    test_exceptions.py
+    test_odbc.py
+    test_pywintypes.py
+    test_security.py
+    test_sspi.py
+    test_win32api.py
+    test_win32clipboard.py
+    test_win32cred.py
+    test_win32crypt.py
+    test_win32event.py
+    test_win32file.py
+    test_win32gui.py
+    test_win32guistruct.py
+    test_win32inet.py
+    test_win32net.py
+    test_win32pipe.py
+    test_win32print.py
+    test_win32profile.py
+    test_win32rcparser.py
+    test_win32timezone.py
+    test_win32trace.py
+    test_win32ts.py
+    test_win32wnet.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32\test\win32rcparser
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com
+    olectl.py
+    storagecon.py
+    universal.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\client
+    build.py
+    CLSIDToClass.py
+    combrowse.py
+    connect.py
+    dynamic.py
+    gencache.py
+    genpy.py
+    makepy.py
+    selecttlb.py
+    tlbrowse.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\demos
+    connect.py
+    dump_clipboard.py
+    eventsApartmentThreaded.py
+    eventsFreeThreaded.py
+    excelAddin.py
+    excelRTDServer.py
+    iebutton.py
+    ietoolbar.py
+    outlookAddin.py
+    trybag.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\HTML
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\HTML\image
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\include
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\libs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\makegw
+    makegw.py
+    makegwenum.py
+    makegwparse.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\server
+    connect.py
+    dispatcher.py
+    exception.py
+    factory.py
+    localserver.py
+    policy.py
+    register.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\servers
+    dictionary.py
+    interp.py
+    perfmon.py
+    PythonTools.py
+    test_pycomtest.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32com\test
+    daodump.py
+    errorSemantics.py
+    GenTestScripts.py
+    pippo_server.py
+    policySemantics.py
+    testAccess.py
+    testADOEvents.py
+    testall.py
+    testArrays.py
+    testAXScript.py
+    testClipboard.py
+    testCollections.py
+    testConversionErrors.py
+    testDates.py
+    testDCOM.py
+    testDictionary.py
+    testDynamic.py
+    testExchange.py
+    testExplorer.py
+    testGatewayAddresses.py
+    testGIT.py
+    testIterators.py
+    testmakepy.py
+    testMarshal.py
+    testMSOffice.py
+    testMSOfficeEvents.py
+    testPersist.py
+    testPippo.py
+    testPyComTest.py
+    testROT.py
+    testServers.py
+    testShell.py
+    testStorage.py
+    testStreams.py
+    testvb.py
+    testvbscript_regexp.py
+    testWMI.py
+    testxslt.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\adsi
+    adsicon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\adsi\demos
+    objectPicker.py
+    scp.py
+    search.py
+    test.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\authorization
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\authorization\demos
+    EditSecurity.py
+    EditServiceSecurity.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axcontrol
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axdebug
+    adb.py
+    codecontainer.py
+    contexts.py
+    debugger.py
+    documents.py
+    dump.py
+    expressions.py
+    gateways.py
+    stackframe.py
+    util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript
+    asputil.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\client
+    debug.py
+    error.py
+    framework.py
+    pydumper.py
+    pyscript.py
+    pyscript_rexec.py
+    scriptdispatch.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos\client
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos\client\asp
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos\client\asp\interrupt
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos\client\ie
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\demos\client\wsh
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\server
+    axsite.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\axscript\test
+    leakTest.py
+    testHost.py
+    testHost4Dbg.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\bits
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\bits\test
+    show_all_jobs.py
+    test_bits.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\directsound
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\directsound\test
+    ds_record.py
+    ds_test.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\ifilter
+    ifiltercon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\ifilter\demos
+    filterDemo.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\internet
+    inetcon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\mapi
+    emsabtags.py
+    mapitags.py
+    mapiutil.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\mapi\demos
+    mapisend.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\propsys
+    pscon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\propsys\test
+    testpropsys.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\shell
+    shellcon.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\shell\demos
+    browse_for_folder.py
+    create_link.py
+    dump_link.py
+    explorer_browser.py
+    IActiveDesktop.py
+    IFileOperationProgressSink.py
+    IShellLinkDataList.py
+    ITransferAdviseSink.py
+    IUniformResourceLocator.py
+    shellexecuteex.py
+    viewstate.py
+    walk_shell_folders.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\shell\demos\servers
+    column_provider.py
+    context_menu.py
+    copy_hook.py
+    empty_volume_cache.py
+    folder_view.py
+    icon_handler.py
+    shell_view.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\shell\test
+    testShellFolder.py
+    testShellItem.py
+    testSHFileOperation.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\taskscheduler
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32comext\taskscheduler\test
+    test_addtask.py
+    test_addtask_1.py
+    test_addtask_2.py
+    test_localsystem.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes
+    pywintypes.py
+    version.py
+    win32api.py
+    win32cred.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes\core
+    compat.py
+    _winerrors.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes\core\cffi
+    _authentication.py
+    _common.py
+    _dll.py
+    _nl_support.py
+    _resource.py
+    _system_information.py
+    _time.py
+    _util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes\core\ctypes
+    _authentication.py
+    _common.py
+    _dll.py
+    _nl_support.py
+    _resource.py
+    _system_information.py
+    _time.py
+    _util.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes\pywin32
+    pywintypes.py
+    win32api.py
+    win32cred.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\win32ctypes\tests
+    test_backends.py
+    test_win32api.py
+    test_win32cred.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\yaml
+    composer.py
+    constructor.py
+    cyaml.py
+    dumper.py
+    emitter.py
+    error.py
+    events.py
+    loader.py
+    nodes.py
+    parser.py
+    reader.py
+    representer.py
+    resolver.py
+    scanner.py
+    serializer.py
+    tokens.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\yarl
+    _parse.py
+    _path.py
+    _query.py
+    _quoters.py
+    _quoting.py
+    _quoting_py.py
+    _url.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\yarl-1.24.2.dist-info
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\yarl-1.24.2.dist-info\licenses
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_distutils_hack
+    override.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib
+    compat.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib\pre_find_module_path
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib\pre_safe_import_module
+    hook-tensorflow.py
+    hook-win32com.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib\rthooks
+    pyi_rth_cryptography_openssl.py
+    pyi_rth_enchant.py
+    pyi_rth_ffpyplayer.py
+    pyi_rth_findlibs.py
+    pyi_rth_nltk.py
+    pyi_rth_osgeo.py
+    pyi_rth_pygraphviz.py
+    pyi_rth_pyproj.py
+    pyi_rth_pyqtgraph_multiprocess.py
+    pyi_rth_pythoncom.py
+    pyi_rth_pywintypes.py
+    pyi_rth_tensorflow.py
+    pyi_rth_traitlets.py
+    pyi_rth_usb.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib\stdhooks
+    hook-accessible_output2.py
+    hook-adbc_driver_manager.py
+    hook-adbutils.py
+    hook-adios.py
+    hook-afmformats.py
+    hook-aliyunsdkcore.py
+    hook-altair.py
+    hook-amazonproduct.py
+    hook-anyio.py
+    hook-apkutils.py
+    hook-appdirs.py
+    hook-appy.pod.py
+    hook-apscheduler.py
+    hook-argon2.py
+    hook-astor.py
+    hook-astroid.py
+    hook-astropy.py
+    hook-astropy_iers_data.py
+    hook-av.py
+    hook-avro.py
+    hook-azurerm.py
+    hook-backports.py
+    hook-backports.zoneinfo.py
+    hook-bacon.py
+    hook-bcrypt.py
+    hook-bitsandbytes.py
+    hook-black.py
+    hook-bleak.py
+    hook-blib2to3.py
+    hook-blspy.py
+    hook-bokeh.py
+    hook-boto.py
+    hook-boto3.py
+    hook-botocore.py
+    hook-branca.py
+    hook-BTrees.py
+    hook-cairocffi.py
+    hook-cairosvg.py
+    hook-capstone.py
+    hook-cassandra.py
+    hook-celpy.py
+    hook-certifi.py
+    hook-cftime.py
+    hook-cf_units.py
+    hook-chardet.py
+    hook-charset_normalizer.py
+    hook-cloudpickle.py
+    hook-cloudscraper.py
+    hook-clr.py
+    hook-clr_loader.py
+    hook-cmocean.py
+    hook-compliance_checker.py
+    hook-comtypes.client.py
+    hook-countrycode.py
+    hook-countryinfo.py
+    hook-Crypto.py
+    hook-Cryptodome.py
+    hook-cryptography.py
+    hook-CTkMessagebox.py
+    hook-cumm.py
+    hook-customtkinter.py
+    hook-cv2.py
+    hook-cx_Oracle.py
+    hook-cytoolz.itertoolz.py
+    hook-dash.py
+    hook-dash_bootstrap_components.py
+    hook-dash_core_components.py
+    hook-dash_html_components.py
+    hook-dash_renderer.py
+    hook-dash_table.py
+    hook-dash_uploader.py
+    hook-dask.py
+    hook-datasets.py
+    hook-dateparser.py
+    hook-dateparser.utils.strptime.py
+    hook-dateutil.py
+    hook-dbus_fast.py
+    hook-dclab.py
+    hook-ddgs.py
+    hook-detectron2.py
+    hook-discid.py
+    hook-distorm3.py
+    hook-distributed.py
+    hook-dns.rdata.py
+    hook-docutils.py
+    hook-docx.py
+    hook-docx2pdf.py
+    hook-duckdb.py
+    hook-dynaconf.py
+    hook-easyocr.py
+    hook-eccodeslib.py
+    hook-eckitlib.py
+    hook-eel.py
+    hook-emoji.py
+    hook-enchant.py
+    hook-eng_to_ipa.py
+    hook-ens.py
+    hook-enzyme.parsers.ebml.core.py
+    hook-eth_abi.py
+    hook-eth_account.py
+    hook-eth_hash.py
+    hook-eth_keyfile.py
+    hook-eth_keys.py
+    hook-eth_rlp.py
+    hook-eth_typing.py
+    hook-eth_utils.network.py
+    hook-eth_utils.py
+    hook-exchangelib.py
+    hook-fabric.py
+    hook-fairscale.py
+    hook-faker.py
+    hook-fake_useragent.py
+    hook-falcon.py
+    hook-fastai.py
+    hook-fastparquet.py
+    hook-fckitlib.py
+    hook-ffpyplayer.py
+    hook-fiona.py
+    hook-flask_compress.py
+    hook-flask_restx.py
+    hook-flex.py
+    hook-flirpy.py
+    hook-fmpy.py
+    hook-folium.py
+    hook-freetype.py
+    hook-frictionless.py
+    hook-fsspec.py
+    hook-fvcore.nn.py
+    hook-gadfly.py
+    hook-gbulb.py
+    hook-gcloud.py
+    hook-geopandas.py
+    hook-gitlab.py
+    hook-globus_sdk.py
+    hook-gmplot.py
+    hook-gmsh.py
+    hook-gooey.py
+    hook-google.api_core.py
+    hook-google.cloud.bigquery.py
+    hook-google.cloud.core.py
+    hook-google.cloud.kms_v1.py
+    hook-google.cloud.pubsub_v1.py
+    hook-google.cloud.speech.py
+    hook-google.cloud.storage.py
+    hook-google.cloud.translate.py
+    hook-googleapiclient.model.py
+    hook-grapheme.py
+    hook-graphql_query.py
+    hook-great_expectations.py
+    hook-gribapi.py
+    hook-grpc.py
+    hook-gtk.py
+    hook-h3.py
+    hook-h5py.py
+    hook-hdf5plugin.py
+    hook-hexbytes.py
+    hook-HtmlTestRunner.py
+    hook-httplib2.py
+    hook-humanize.py
+    hook-hydra.py
+    hook-ijson.py
+    hook-imageio.py
+    hook-imageio_ffmpeg.py
+    hook-imagingcontrol4.py
+    hook-iminuit.py
+    hook-intake.py
+    hook-IPython.py
+    hook-iso639.py
+    hook-itk.py
+    hook-jaraco.text.py
+    hook-jedi.py
+    hook-jieba.py
+    hook-jinja2.py
+    hook-jinxed.py
+    hook-jira.py
+    hook-jsonpath_rw_ext.py
+    hook-jsonrpcserver.py
+    hook-jsonschema.py
+    hook-jsonschema_specifications.py
+    hook-jupyterlab.py
+    hook-kaleido.py
+    hook-khmernltk.py
+    hook-kinterbasdb.py
+    hook-langchain.py
+    hook-langchain_classic.py
+    hook-langcodes.py
+    hook-langdetect.py
+    hook-laonlp.py
+    hook-lark.py
+    hook-ldfparser.py
+    hook-lensfunpy.py
+    hook-libaudioverse.py
+    hook-librosa.py
+    hook-lightgbm.py
+    hook-lightning.py
+    hook-limits.py
+    hook-linear_operator.py
+    hook-lingua.py
+    hook-litestar.py
+    hook-llvmlite.py
+    hook-logilab.py
+    hook-lxml.etree.py
+    hook-lxml.isoschematron.py
+    hook-lxml.objectify.py
+    hook-lxml.py
+    hook-lz4.py
+    hook-magic.py
+    hook-mako.codegen.py
+    hook-mariadb.py
+    hook-markdown.py
+    hook-mecab.py
+    hook-metpy.py
+    hook-migrate.py
+    hook-mimesis.py
+    hook-minecraft_launcher_lib.py
+    hook-mistune.py
+    hook-mnemonic.py
+    hook-monai.py
+    hook-moviepy.audio.fx.all.py
+    hook-moviepy.video.fx.all.py
+    hook-mpl_toolkits.basemap.py
+    hook-msoffcrypto.py
+    hook-nacl.py
+    hook-names.py
+    hook-nanite.py
+    hook-narwhals.py
+    hook-nbconvert.py
+    hook-nbdime.py
+    hook-nbformat.py
+    hook-nbt.py
+    hook-ncclient.py
+    hook-netCDF4.py
+    hook-nicegui.py
+    hook-niquests.py
+    hook-nltk.py
+    hook-nnpy.py
+    hook-notebook.py
+    hook-numba.py
+    hook-numbers_parser.py
+    hook-numcodecs.py
+    hook-nvidia.cublas.py
+    hook-nvidia.cuda_cupti.py
+    hook-nvidia.cuda_nvcc.py
+    hook-nvidia.cuda_nvrtc.py
+    hook-nvidia.cuda_runtime.py
+    hook-nvidia.cudnn.py
+    hook-nvidia.cufft.py
+    hook-nvidia.curand.py
+    hook-nvidia.cusolver.py
+    hook-nvidia.cusparse.py
+    hook-nvidia.nccl.py
+    hook-nvidia.nvjitlink.py
+    hook-nvidia.nvtx.py
+    hook-office365.py
+    hook-onnxruntime.py
+    hook-opencc.py
+    hook-OpenGL.py
+    hook-OpenGL_accelerate.py
+    hook-openpyxl.py
+    hook-opentelemetry.py
+    hook-orjson.py
+    hook-osgeo.py
+    hook-pandas_flavor.py
+    hook-panel.py
+    hook-parsedatetime.py
+    hook-parso.py
+    hook-passlib.py
+    hook-paste.exceptions.reporter.py
+    hook-patoolib.py
+    hook-patsy.py
+    hook-pdfminer.py
+    hook-pendulum.py
+    hook-phonenumbers.py
+    hook-pingouin.py
+    hook-pint.py
+    hook-pinyin.py
+    hook-platformdirs.py
+    hook-plotly.py
+    hook-plum.py
+    hook-pointcept.py
+    hook-pptx.py
+    hook-prettytable.py
+    hook-psutil.py
+    hook-psychopy.py
+    hook-psycopg2.py
+    hook-psycopg_binary.py
+    hook-psycopg_c.py
+    hook-publicsuffix2.py
+    hook-pubsub.core.py
+    hook-puremagic.py
+    hook-py.py
+    hook-pyarrow.py
+    hook-pycountry.py
+    hook-pycparser.py
+    hook-pycrfsuite.py
+    hook-pydantic.py
+    hook-pydicom.py
+    hook-pydivert.py
+    hook-pyecharts.py
+    hook-pyexcel-io.py
+    hook-pyexcel-ods.py
+    hook-pyexcel-ods3.py
+    hook-pyexcel-odsr.py
+    hook-pyexcel-xls.py
+    hook-pyexcel-xlsx.py
+    hook-pyexcel-xlsxw.py
+    hook-pyexcel.py
+    hook-pyexcelerate.Writer.py
+    hook-pyexcel_io.py
+    hook-pyexcel_ods.py
+    hook-pyexcel_ods3.py
+    hook-pyexcel_odsr.py
+    hook-pyexcel_xls.py
+    hook-pyexcel_xlsx.py
+    hook-pyexcel_xlsxw.py
+    hook-pygraphviz.py
+    hook-pygwalker.py
+    hook-pylibmagic.py
+    hook-pylint.py
+    hook-pylsl.py
+    hook-pymediainfo.py
+    hook-pymeshlab.py
+    hook-pymorphy3.py
+    hook-pymssql.py
+    hook-pynng.py
+    hook-pynput.py
+    hook-pyodbc.py
+    hook-pyopencl.py
+    hook-pypdfium2.py
+    hook-pypdfium2_raw.py
+    hook-pypemicro.py
+    hook-pyphen.py
+    hook-pyppeteer.py
+    hook-pyproj.py
+    hook-pypsexec.py
+    hook-pypylon.py
+    hook-pyqtgraph.py
+    hook-pyshark.py
+    hook-pysnmp.py
+    hook-pystray.py
+    hook-PyTaskbar.py
+    hook-pytest.py
+    hook-pythainlp.py
+    hook-pythoncom.py
+    hook-pytokens.py
+    hook-pyttsx.py
+    hook-pyttsx3.py
+    hook-pyviz_comms.py
+    hook-pyvjoy.py
+    hook-pywintypes.py
+    hook-pywt.py
+    hook-qtmodern.py
+    hook-radicale.py
+    hook-raven.py
+    hook-rawpy.py
+    hook-rdflib.py
+    hook-redmine.py
+    hook-regex.py
+    hook-reportlab.lib.utils.py
+    hook-reportlab.pdfbase._fontdata.py
+    hook-resampy.py
+    hook-rich.py
+    hook-rlp.py
+    hook-rpy2.py
+    hook-rtree.py
+    hook-ruamel.yaml.py
+    hook-rubicon.py
+    hook-sacremoses.py
+    hook-sam2.py
+    hook-saml2.py
+    hook-schwifty.py
+    hook-seedir.py
+    hook-selectolax.py
+    hook-selenium.py
+    hook-sentry_sdk.py
+    hook-setuptools_scm.py
+    hook-shapely.py
+    hook-shotgun_api3.py
+    hook-simplemma.py
+    hook-skimage.color.py
+    hook-skimage.data.py
+    hook-skimage.draw.py
+    hook-skimage.exposure.py
+    hook-skimage.feature.py
+    hook-skimage.filters.py
+    hook-skimage.future.py
+    hook-skimage.graph.py
+    hook-skimage.io.py
+    hook-skimage.measure.py
+    hook-skimage.metrics.py
+    hook-skimage.morphology.py
+    hook-skimage.py
+    hook-skimage.registration.py
+    hook-skimage.restoration.py
+    hook-skimage.segmentation.py
+    hook-skimage.transform.py
+    hook-sklearn.cluster.py
+    hook-sklearn.externals.array_api_compat.cupy.py
+    hook-sklearn.externals.array_api_compat.dask.array.py
+    hook-sklearn.externals.array_api_compat.numpy.py
+    hook-sklearn.externals.array_api_compat.torch.py
+    hook-sklearn.linear_model.py
+    hook-sklearn.metrics.cluster.py
+    hook-sklearn.metrics.pairwise.py
+    hook-sklearn.metrics.py
+    hook-sklearn.neighbors.py
+    hook-sklearn.py
+    hook-sklearn.tree.py
+    hook-sklearn.utils.py
+    hook-skyfield.py
+    hook-slixmpp.py
+    hook-sounddevice.py
+    hook-soundfile.py
+    hook-sound_lib.py
+    hook-spacy.py
+    hook-speech_recognition.py
+    hook-spiceypy.py
+    hook-spnego.py
+    hook-srsly.msgpack._packer.py
+    hook-sspilib.raw.py
+    hook-statsmodels.tsa.statespace.py
+    hook-stdnum.py
+    hook-storm.database.py
+    hook-sudachipy.py
+    hook-sunpy.py
+    hook-sv_ttk.py
+    hook-swagger_spec_validator.py
+    hook-tableauhyperapi.py
+    hook-tables.py
+    hook-tcod.py
+    hook-tensorflow.py
+    hook-tensorrt_libs.py
+    hook-textdistance.py
+    hook-text_unidecode.py
+    hook-thinc.backends.numpy_ops.py
+    hook-thinc.py
+    hook-timezonefinder.py
+    hook-timm.py
+    hook-tinycss2.py
+    hook-tkinterdnd2.py
+    hook-tkinterweb.py
+    hook-tkinterweb_tkhtml.py
+    hook-tkinterweb_tkhtml_extras.py
+    hook-toga.py
+    hook-toga_cocoa.py
+    hook-toga_gtk.py
+    hook-toga_winforms.py
+    hook-torch.py
+    hook-torchao.py
+    hook-torchaudio.py
+    hook-torchtext.py
+    hook-torchvision.io.image.py
+    hook-torchvision.py
+    hook-trame.py
+    hook-trame_client.py
+    hook-trame_code.py
+    hook-trame_components.py
+    hook-trame_datagrid.py
+    hook-trame_deckgl.py
+    hook-trame_formkit.py
+    hook-trame_grid.py
+    hook-trame_iframe.py
+    hook-trame_keycloak.py
+    hook-trame_leaflet.py
+    hook-trame_markdown.py
+    hook-trame_matplotlib.py
+    hook-trame_mesh_streamer.py
+    hook-trame_plotly.py
+    hook-trame_pvui.py
+    hook-trame_quasar.py
+    hook-trame_rca.py
+    hook-trame_router.py
+    hook-trame_simput.py
+    hook-trame_tauri.py
+    hook-trame_tweakpane.py
+    hook-trame_vega.py
+    hook-trame_vtk.py
+    hook-trame_vtk3d.py
+    hook-trame_vtklocal.py
+    hook-trame_vuetify.py
+    hook-trame_xterm.py
+    hook-transformers.py
+    hook-travertino.py
+    hook-trimesh.py
+    hook-triton.py
+    hook-ttkthemes.py
+    hook-ttkwidgets.py
+    hook-tzdata.py
+    hook-tzwhere.py
+    hook-u1db.py
+    hook-ultralytics.py
+    hook-umap.py
+    hook-unidecode.py
+    hook-uniseg.py
+    hook-urllib3.py
+    hook-urllib3_future.py
+    hook-usb.py
+    hook-uuid6.py
+    hook-uvicorn.py
+    hook-uvloop.py
+    hook-vaderSentiment.py
+    hook-vtkmodules.vtkAcceleratorsVTKmCore.py
+    hook-vtkmodules.vtkAcceleratorsVTKmDataModel.py
+    hook-vtkmodules.vtkAcceleratorsVTKmFilters.py
+    hook-vtkmodules.vtkChartsCore.py
+    hook-vtkmodules.vtkCommonColor.py
+    hook-vtkmodules.vtkCommonComputationalGeometry.py
+    hook-vtkmodules.vtkCommonDataModel.py
+    hook-vtkmodules.vtkCommonExecutionModel.py
+    hook-vtkmodules.vtkCommonMath.py
+    hook-vtkmodules.vtkCommonMisc.py
+    hook-vtkmodules.vtkCommonPython.py
+    hook-vtkmodules.vtkCommonSystem.py
+    hook-vtkmodules.vtkCommonTransforms.py
+    hook-vtkmodules.vtkDomainsChemistry.py
+    hook-vtkmodules.vtkDomainsChemistryOpenGL2.py
+    hook-vtkmodules.vtkFiltersAMR.py
+    hook-vtkmodules.vtkFiltersCellGrid.py
+    hook-vtkmodules.vtkFiltersCore.py
+    hook-vtkmodules.vtkFiltersExtraction.py
+    hook-vtkmodules.vtkFiltersFlowPaths.py
+    hook-vtkmodules.vtkFiltersGeneral.py
+    hook-vtkmodules.vtkFiltersGeneric.py
+    hook-vtkmodules.vtkFiltersGeometry.py
+    hook-vtkmodules.vtkFiltersGeometryPreview.py
+    hook-vtkmodules.vtkFiltersHybrid.py
+    hook-vtkmodules.vtkFiltersHyperTree.py
+    hook-vtkmodules.vtkFiltersImaging.py
+    hook-vtkmodules.vtkFiltersModeling.py
+    hook-vtkmodules.vtkFiltersParallel.py
+    hook-vtkmodules.vtkFiltersParallelDIY2.py
+    hook-vtkmodules.vtkFiltersParallelImaging.py
+    hook-vtkmodules.vtkFiltersParallelStatistics.py
+    hook-vtkmodules.vtkFiltersPoints.py
+    hook-vtkmodules.vtkFiltersProgrammable.py
+    hook-vtkmodules.vtkFiltersPython.py
+    hook-vtkmodules.vtkFiltersReduction.py
+    hook-vtkmodules.vtkFiltersSelection.py
+    hook-vtkmodules.vtkFiltersSMP.py
+    hook-vtkmodules.vtkFiltersSources.py
+    hook-vtkmodules.vtkFiltersStatistics.py
+    hook-vtkmodules.vtkFiltersTemporal.py
+    hook-vtkmodules.vtkFiltersTensor.py
+    hook-vtkmodules.vtkFiltersTexture.py
+    hook-vtkmodules.vtkFiltersTopology.py
+    hook-vtkmodules.vtkFiltersVerdict.py
+    hook-vtkmodules.vtkGeovisCore.py
+    hook-vtkmodules.vtkImagingColor.py
+    hook-vtkmodules.vtkImagingCore.py
+    hook-vtkmodules.vtkImagingFourier.py
+    hook-vtkmodules.vtkImagingGeneral.py
+    hook-vtkmodules.vtkImagingHybrid.py
+    hook-vtkmodules.vtkImagingMath.py
+    hook-vtkmodules.vtkImagingMorphological.py
+    hook-vtkmodules.vtkImagingOpenGL2.py
+    hook-vtkmodules.vtkImagingSources.py
+    hook-vtkmodules.vtkImagingStatistics.py
+    hook-vtkmodules.vtkImagingStencil.py
+    hook-vtkmodules.vtkInfovisCore.py
+    hook-vtkmodules.vtkInfovisLayout.py
+    hook-vtkmodules.vtkInteractionImage.py
+    hook-vtkmodules.vtkInteractionStyle.py
+    hook-vtkmodules.vtkInteractionWidgets.py
+    hook-vtkmodules.vtkIOAMR.py
+    hook-vtkmodules.vtkIOAsynchronous.py
+    hook-vtkmodules.vtkIOAvmesh.py
+    hook-vtkmodules.vtkIOCellGrid.py
+    hook-vtkmodules.vtkIOCesium3DTiles.py
+    hook-vtkmodules.vtkIOCGNSReader.py
+    hook-vtkmodules.vtkIOChemistry.py
+    hook-vtkmodules.vtkIOCityGML.py
+    hook-vtkmodules.vtkIOCONVERGECFD.py
+    hook-vtkmodules.vtkIOCore.py
+    hook-vtkmodules.vtkIOEngys.py
+    hook-vtkmodules.vtkIOEnSight.py
+    hook-vtkmodules.vtkIOERF.py
+    hook-vtkmodules.vtkIOExodus.py
+    hook-vtkmodules.vtkIOExport.py
+    hook-vtkmodules.vtkIOExportGL2PS.py
+    hook-vtkmodules.vtkIOExportPDF.py
+    hook-vtkmodules.vtkIOFDS.py
+    hook-vtkmodules.vtkIOFLUENTCFF.py
+    hook-vtkmodules.vtkIOGeoJSON.py
+    hook-vtkmodules.vtkIOGeometry.py
+    hook-vtkmodules.vtkIOH5part.py
+    hook-vtkmodules.vtkIOH5Rage.py
+    hook-vtkmodules.vtkIOHDF.py
+    hook-vtkmodules.vtkIOImage.py
+    hook-vtkmodules.vtkIOImport.py
+    hook-vtkmodules.vtkIOInfovis.py
+    hook-vtkmodules.vtkIOIOSS.py
+    hook-vtkmodules.vtkIOLANLX3D.py
+    hook-vtkmodules.vtkIOLegacy.py
+    hook-vtkmodules.vtkIOLSDyna.py
+    hook-vtkmodules.vtkIOMINC.py
+    hook-vtkmodules.vtkIOMotionFX.py
+    hook-vtkmodules.vtkIOMovie.py
+    hook-vtkmodules.vtkIONetCDF.py
+    hook-vtkmodules.vtkIOOggTheora.py
+    hook-vtkmodules.vtkIOOMF.py
+    hook-vtkmodules.vtkIOParallel.py
+    hook-vtkmodules.vtkIOParallelExodus.py
+    hook-vtkmodules.vtkIOParallelLSDyna.py
+    hook-vtkmodules.vtkIOParallelXML.py
+    hook-vtkmodules.vtkIOPIO.py
+    hook-vtkmodules.vtkIOPLY.py
+    hook-vtkmodules.vtkIOSegY.py
+    hook-vtkmodules.vtkIOSQL.py
+    hook-vtkmodules.vtkIOTecplotTable.py
+    hook-vtkmodules.vtkIOTRUCHAS.py
+    hook-vtkmodules.vtkIOVeraOut.py
+    hook-vtkmodules.vtkIOVideo.py
+    hook-vtkmodules.vtkIOVPIC.py
+    hook-vtkmodules.vtkIOXdmf2.py
+    hook-vtkmodules.vtkIOXML.py
+    hook-vtkmodules.vtkIOXMLParser.py
+    hook-vtkmodules.vtkParallelCore.py
+    hook-vtkmodules.vtkPythonContext2D.py
+    hook-vtkmodules.vtkRenderingAnnotation.py
+    hook-vtkmodules.vtkRenderingCellGrid.py
+    hook-vtkmodules.vtkRenderingContext2D.py
+    hook-vtkmodules.vtkRenderingContextOpenGL2.py
+    hook-vtkmodules.vtkRenderingCore.py
+    hook-vtkmodules.vtkRenderingExternal.py
+    hook-vtkmodules.vtkRenderingFreeType.py
+    hook-vtkmodules.vtkRenderingGL2PSOpenGL2.py
+    hook-vtkmodules.vtkRenderingGridAxes.py
+    hook-vtkmodules.vtkRenderingHyperTreeGrid.py
+    hook-vtkmodules.vtkRenderingImage.py
+    hook-vtkmodules.vtkRenderingLabel.py
+    hook-vtkmodules.vtkRenderingLICOpenGL2.py
+    hook-vtkmodules.vtkRenderingLOD.py
+    hook-vtkmodules.vtkRenderingMatplotlib.py
+    hook-vtkmodules.vtkRenderingOpenGL2.py
+    hook-vtkmodules.vtkRenderingParallel.py
+    hook-vtkmodules.vtkRenderingSceneGraph.py
+    hook-vtkmodules.vtkRenderingUI.py
+    hook-vtkmodules.vtkRenderingVolume.py
+    hook-vtkmodules.vtkRenderingVolumeAMR.py
+    hook-vtkmodules.vtkRenderingVolumeOpenGL2.py
+    hook-vtkmodules.vtkRenderingVR.py
+    hook-vtkmodules.vtkRenderingVRModels.py
+    hook-vtkmodules.vtkRenderingVtkJS.py
+    hook-vtkmodules.vtkSerializationManager.py
+    hook-vtkmodules.vtkTestingRendering.py
+    hook-vtkmodules.vtkTestingSerialization.py
+    hook-vtkmodules.vtkViewsContext2D.py
+    hook-vtkmodules.vtkViewsCore.py
+    hook-vtkmodules.vtkViewsInfovis.py
+    hook-vtkmodules.vtkWebCore.py
+    hook-vtkmodules.vtkWebGLExporter.py
+    hook-vtkpython.py
+    hook-wavefile.py
+    hook-weasyprint.py
+    hook-web3.py
+    hook-webassets.py
+    hook-webrtcvad.py
+    hook-websockets.py
+    hook-webview.py
+    hook-win32com.py
+    hook-wordcloud.py
+    hook-workflow.py
+    hook-wx.lib.activex.py
+    hook-wx.lib.pubsub.py
+    hook-wx.xrc.py
+    hook-xarray.py
+    hook-Xlib.py
+    hook-xml.dom.html.HTMLDocument.py
+    hook-xml.sax.saxexts.py
+    hook-xmldiff.py
+    hook-xmlschema.py
+    hook-xsge_gui.py
+    hook-xyzservices.py
+    hook-yapf_third_party.py
+    hook-z3c.rml.py
+    hook-zarr.py
+    hook-zeep.py
+    hook-zmq.py
+    hook-zoneinfo.py
+    hook-_mssql.py
+    hook-_mysql.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_pyinstaller_hooks_contrib\utils
+    mypy.py
+    nvidia_cuda.py
+    vtkmodules.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_sounddevice_data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_sounddevice_data\portaudio-binaries
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_soundfile_data
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Lib\site-packages\_yaml
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\Scripts
+    pywin32_postinstall.py
+    pywin32_testall.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\share
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\share\man
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.venv\share\man\man1
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\.vscode
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\agents
+    automation.py
+    business.py
+    coding.py
+    manager.py
+    planner.py
+    research.py
+    study.py
+    vision.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\ai
+    action_classifier.py
+    action_executor.py
+    agents.py
+    ai_manager.py
+    brain.py
+    context.py
+    context_manager.py
+    conversation.py
+    manager.py
+    model_manager.py
+    prompt_manager.py
+    router.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\api
+    ollama.py
+    openrouter.py
+    search.py
+    weather.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\automation
+    apps.py
+    browser.py
+    click.py
+    clipboard.py
+    desktop.py
+    drag.py
+    files.py
+    file_info.py
+    file_manager.py
+    file_reader.py
+    file_search.py
+    file_writer.py
+    folders.py
+    hotkeys.py
+    keyboard.py
+    mouse.py
+    notes.py
+    power.py
+    process.py
+    recycle_bin.py
+    reminders.py
+    screenshots.py
+    system.py
+    system_info.py
+    typing.py
+    volume.py
+    windows.py
+    window_manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\behavior
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains
+    brain_router.py
+    classifier.py
+    context.py
+    decision.py
+    manager.py
+    personality.py
+    response.py
+    state.py
+    test_brain.py
+    test_decision.py
+    test_manager.py
+    thinker.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2
+    action_pipeline.py
+    adaptive.py
+    agent_bridge.py
+    automation.py
+    automation_manager.py
+    autonomous_core.py
+    background.py
+    background_executor.py
+    brain_state.py
+    chat_context.py
+    command_router.py
+    config.py
+    context.py
+    conversation.py
+    correction.py
+    database.py
+    decision.py
+    decision_tree.py
+    decomposer.py
+    dialogue_memory.py
+    emotion.py
+    error_analyzer.py
+    execution_planner.py
+    executor.py
+    experience.py
+    followup.py
+    goals.py
+    goal_manager.py
+    habits.py
+    honesty.py
+    humanizer.py
+    intent.py
+    knowledge.py
+    learning.py
+    manager.py
+    memory.py
+    mission.py
+    nlp.py
+    optimizer.py
+    orchestrator.py
+    parser.py
+    performance.py
+    personality.py
+    personality_engine.py
+    planner.py
+    planning_engine.py
+    profile.py
+    reasoning.py
+    reasoning_engine.py
+    recall.py
+    reflection.py
+    relationship.py
+    response.py
+    router.py
+    router_v2.py
+    run_jarvis.py
+    scheduler.py
+    self_correction.py
+    self_improvement.py
+    smart_commands.py
+    startup.py
+    statistics.py
+    style.py
+    summary.py
+    task_engine.py
+    task_queue.py
+    test.py
+    test_agents.py
+    test_analyzer.py
+    test_behavior.py
+    test_brain.py
+    test_bridge.py
+    test_desktop.py
+    test_integration.py
+    test_llm.py
+    test_llm_integration.py
+    test_manager.py
+    test_orchestrator.py
+    test_persistent_memory.py
+    test_personality.py
+    test_semantic.py
+    test_skills.py
+    test_speed.py
+    test_tools.py
+    test_vision.py
+    test_vision_v2.py
+    verifier.py
+    workflow.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\agent
+    agent.py
+    executor.py
+    planner.py
+    task.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\agents
+    automation_agent.py
+    base_agent.py
+    browser.py
+    business.py
+    coding.py
+    coding_agent.py
+    conversation.py
+    conversation_agent.py
+    desktop.py
+    manager.py
+    memory.py
+    memory_agent.py
+    planner_agent.py
+    registry.py
+    research.py
+    research_agent.py
+    security_agent.py
+    vision.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\ai
+    intent_engine.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\brain
+    brain.py
+    chat.py
+    contex.py
+    context.py
+    dispatcher.py
+    intent.py
+    manager.py
+    planner.py
+    router.py
+    state.py
+    workflow.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\core
+    brain.py
+    context.py
+    decision.py
+    router.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\desktop
+    clipboard.py
+    keyboard.py
+    manager.py
+    monitor.py
+    mouse.py
+    windows.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\intents
+    memory_intent.py
+    note_intent.py
+    reminder_intent.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\llm
+    assistant.py
+    chat.py
+    manager.py
+    ollama_provider.py
+    prompt.py
+    prompt_builder.py
+    provider.py
+    router.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\manager_modules
+    memory_manager.py
+    notes_manager.py
+    reminder_manager.py
+    reply_manager.py
+    router_manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\memory
+    categories.py
+    database.py
+    embeddings.py
+    memory.py
+    memory_manager.py
+    models.py
+    search.py
+    storage.py
+    utils.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\mobile
+    client.py
+    commands.py
+    notifications.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\networking
+    bluetooth.py
+    connection.py
+    wifi.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\notes
+    notes.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\planner
+    executor.py
+    goals.py
+    planner.py
+    schedular.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\plugins
+    loader.py
+    manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\psychology
+    analyzer.py
+    behavior.py
+    coach.py
+    communication.py
+    confidence.py
+    database.py
+    emotion.py
+    personality.py
+    progress.py
+    protection.py
+    reasoning.py
+    report.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\psychology\social
+    attraction.py
+    body_language.py
+    communication.py
+    conflict.py
+    empathy.py
+    influence.py
+    lie_detection.py
+    negotiation.py
+    personality_types.py
+    persuasion.py
+    trust.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\reminders
+    reminders.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\security
+    encryption.py
+    owner.py
+    permission.py
+    vault.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\self_learning
+    analzer.py
+    experience.py
+    learner.py
+    optimizer.py
+    predictor.py
+    recovery.py
+    replanner.py
+    storage.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\semantic
+    database.py
+    embedding.py
+    manager.py
+    search.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\server
+    api.py
+    auth.py
+    client_manager.py
+    config.py
+    encryption.py
+    heartbeat.py
+    routes.py
+    websocket.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\skills
+    browser.py
+    calculator.py
+    file_skill.py
+    manager.py
+    notes.py
+    registry.py
+    skill.py
+    system.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\speech
+    listener.py
+    pipeline.py
+    speaker.py
+    wakeword.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\test
+    test_agents.py
+    test_all.py
+    test_desktop.py
+    test_memory.py
+    test_mobile.py
+    test_server.py
+    test_voice.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\tools
+    app_tool.py
+    base_tool.py
+    browser_tool.py
+    calculator_tool.py
+    file_tool.py
+    manager.py
+    memory_tool.py
+    project_scanner.py
+    registry.py
+    system_tool.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\vision
+    analyzer.py
+    detector.py
+    image_analyzer.py
+    manager.py
+    orc.py
+    screenshot.py
+    screen_reader.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\vision_v2
+    analyzer.py
+    manager.py
+    ocr.py
+    reader.py
+    screenshot.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\voice
+    listener.py
+    microphone.py
+    pipeline.py
+    speaker.py
+    wakeword.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\brains_v2\voice_v2
+    listener.py
+    manager.py
+    pipeline.py
+    speaker.py
+    wake.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\browser_ai
+    browser_agent.py
+    google.py
+    search.py
+    website_reader.py
+    youtube.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\build
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\build\Jarvis
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\build\Jarvis\localpycs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\builder
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\business
+    ai.py
+    audience.py
+    competitors.py
+    manager.py
+    meta_ads.py
+    planner.py
+    pricing.py
+    product_description.py
+    product_research.py
+    profit.py
+    report.py
+    strategy.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\coach
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\coding
+    ai.py
+    debug.py
+    explain.py
+    generate.py
+    improve.py
+    manager.py
+    project.py
+    refactor.py
+    review.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\config
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\context
+    apps.py
+    manager.py
+    screen.py
+    test_context.py
+    user.py
+    window.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\conversation
+    compliments.py
+    context.py
+    corrections.py
+    followup.py
+    greetings.py
+    history.py
+    manager.py
+    personality.py
+    prompt.py
+    questions.py
+    recall.py
+    references.py
+    resolver.py
+    state.py
+    test_context.py
+    test_conversation.py
+    test_history.py
+    test_personality.py
+    timeout.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\core
+    ai_router.py
+    brain_selector.py
+    command_classifier.py
+    command_router.py
+    config.py
+    constants.py
+    engine.py
+    entities.py
+    entity_extractor.py
+    event_bus.py
+    greetings.py
+    intent.py
+    intent_engine.py
+    jarvis.py
+    logger.py
+    module_loader.py
+    nlp.py
+    normalizer.py
+    parser.py
+    router.py
+    session.py
+    shutdown.py
+    startup.py
+    synonyms.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\data
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\data\notes
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\database
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\dist
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\docs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\emotion
+    conversation_manager.py
+    detector.py
+    personality.py
+    response_style.py
+    satisfaction.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\engine
+    context.py
+    executor.py
+    logger.py
+    manager.py
+    planner.py
+    validator.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\gui
+    chat_panel.py
+    main_window.py
+    microphone.py
+    settings.py
+    sidebar.py
+    splash.py
+    test_gui.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\gui\pages
+    business.py
+    chat.py
+    coding.py
+    home.py
+    memory.py
+    projects.py
+    settings.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\gui\widgets
+    result_box.py
+    status_bar.py
+    task_panel.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\intelligence
+    classifier.py
+    intent_engine.py
+    manager.py
+    planner.py
+    reasoner.py
+    validator.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\internet
+    google.py
+    summarizer.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\learning
+    behaviour.py
+    habits.py
+    interests.py
+    manager.py
+    mistakes.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\logs
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\memory
+    context_memory.py
+    database.py
+    goals.py
+    history.py
+    manager.py
+    memory_engine.py
+    memory_manager.py
+    memory_ranker.py
+    memory_search.py
+    people.py
+    profile.py
+    semantic_memory.py
+    session.py
+    test_memory.py
+    test_session.py
+    visitor_database.py
+    visitor_engine.py
+    visitor_report.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\missions
+    executor.py
+    history.py
+    manager.py
+    planner.py
+    report.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\mobile
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\models
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\models\owner
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\performance
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\personality
+    emotion.py
+    greetings.py
+    memory.py
+    style.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\planner
+    goal_engine.py
+    planner.py
+    progress.py
+    roadmap.py
+    task_database.py
+    task_engine.py
+    task_manager.py
+    task_parser.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\plugins
+    base_plugin.py
+    plugin_loader.py
+    plugin_manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\plugins\built_in
+    calculator.py
+    notes.py
+    translator.py
+    weather.py
+    youtube.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\projects
+    manager.py
+    notes.py
+    progress.py
+    project.py
+    storage.py
+    tasks.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\reasoning
+    logic.py
+    manager.py
+    observer.py
+    predict.py
+    test_reasoning.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\scheduler
+    clock.py
+    datetime_parser.py
+    notification.py
+    reminder_checker.py
+    reminder_manager.py
+    reminder_parser.py
+    scheduler.py
+    scheduler_engine.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\screenshots
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\security
+    authentication.py
+    encryption.py
+    owner.py
+    owner_manager.py
+    permissions.py
+    visitor_access.py
+    voice_auth.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\session
+    session_database.py
+    session_manager.py
+    session_report.py
+    session_stats.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\skills
+    calculator.py
+    coding.py
+    math.py
+    notes.py
+    note_database.py
+    reminder.py
+    reminder_database.py
+    skill_manager.py
+    stopwatch.py
+    timer.py
+    translator.py
+    weather.py
+    wikipedia.py
+    youtube.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\task
+    reminders.py
+    task_database.py
+    task_engine.py
+    task_router.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\task_engine
+    task_manager.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\tests
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\thinking
+    goals.py
+    manager.py
+    obsever.py
+    planner.py
+    reason.py
+    test_thinking.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\tools
+    calculator.py
+    datetime_tool.py
+    file_tool.py
+    manager.py
+    registry.py
+    search.py
+    system.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\ui
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\vision
+    image_reader.py
+    object_detector.py
+    ocr.py
+    screenshot.py
+    screen_reader.py
+    vision_engine.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\vision\screenshots
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\voice
+    continuous_listener.py
+    enroll.py
+    listen.py
+    listener.py
+    manager.py
+    microphone.py
+    recognizer.py
+    recorder.py
+    speak.py
+    speaker.py
+    test_mic.py
+    transcriber.py
+    voice_engine.py
+    wake_word.py
+    __init__.py
+C:\Users\Yogi\OneDrive\Desktop\Jarvis_Pro\workspace
+    context.py
+    files.py
+    history.py
+    manager.py
+    session.py
+    state.py
+    __init__.py

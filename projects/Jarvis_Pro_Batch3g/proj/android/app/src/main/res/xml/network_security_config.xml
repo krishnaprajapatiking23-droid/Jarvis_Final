@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Development / debug configuration (BUG 3).
+
+  Cleartext is denied by default and permitted ONLY for loopback and the
+  RFC 1918 private ranges a home LAN actually uses, so a plain ws:// link to
+  your own PC works while public-internet cleartext stays blocked. No single
+  subnet such as 192.168.1.x is assumed.
+-->
+<network-security-config>
+
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">10.0.0.0/8</domain>
+        <domain includeSubdomains="true">172.16.0.0/12</domain>
+        <domain includeSubdomains="true">192.168.0.0/16</domain>
+        <domain includeSubdomains="true">local</domain>
+    </domain-config>
+
+</network-security-config>

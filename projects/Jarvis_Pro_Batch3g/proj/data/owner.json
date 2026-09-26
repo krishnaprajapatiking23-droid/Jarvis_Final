@@ -1,0 +1,7 @@
+{
+    "name": "Krishna",
+    "role": "owner",
+    "permissions": "admin",
+    "voice": "models/owner/owner_voice.wav",
+    "created": "2026-06-20"
+}

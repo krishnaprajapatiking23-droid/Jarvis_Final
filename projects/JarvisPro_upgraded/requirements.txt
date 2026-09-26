@@ -1,0 +1,61 @@
+# ==========================================
+# JARVIS PRO - dependencies
+# ==========================================
+# The Conversation System itself adds NO new third-party dependency:
+# it uses only the standard library (sqlite3, re, datetime, difflib,
+# json, logging, threading, queue).  Everything below was already
+# imported by the existing project and is listed here so the
+# environment can be rebuilt with:  pip install -r requirements.txt
+
+# --- AI brain -----------------------------------------------------
+ollama>=0.4.0
+httpx>=0.27.0
+requests>=2.31.0
+
+# --- voice output -------------------------------------------------
+pyttsx3>=2.90
+edge-tts>=7.2.8
+
+# --- voice input / speech recognition -----------------------------
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+faster-whisper>=1.2.1
+ctranslate2>=4.8.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+av>=18.0.0
+
+# --- vision -------------------------------------------------------
+opencv-python>=4.9.0
+easyocr>=1.7.2
+pytesseract>=0.3.10
+Pillow>=10.2.0
+torch>=2.2.0
+
+# --- system automation --------------------------------------------
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+psutil>=5.9.0
+pygetwindow>=0.0.9
+Send2Trash>=1.8.2
+
+# --- web / api ----------------------------------------------------
+flask>=3.1.0
+aiohttp>=3.14.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+
+# --- numerics -----------------------------------------------------
+scipy>=1.11.0
+
+# --- Windows only -------------------------------------------------
+pywin32>=306; sys_platform == "win32"
+comtypes>=1.4.16; sys_platform == "win32"
+pywinauto>=0.6.8; sys_platform == "win32"
+pycaw>=20240210; sys_platform == "win32"
+
+# --- development / tests ------------------------------------------
+# pytest is optional: tools/run_tests.py runs the suite without it.
+pytest>=8.0.0
+ruff>=0.16.0
+mypy>=1.10.0

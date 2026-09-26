@@ -1,0 +1,85 @@
+{
+  "goals": [
+    {
+      "id": "dfeeb5f9-fd02-48a5-9ea6-85cc53775aa3",
+      "title": "jarvis mobile app",
+      "description": "Created from template: Coding Project",
+      "status": "active",
+      "priority": "MEDIUM",
+      "category": "project",
+      "progress": 0.0,
+      "deadline": null,
+      "milestones": [
+        {
+          "id": "ae772657-8727-4dc5-8fa4-2815ed8bb3f7",
+          "title": "Planning",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-aa8a68e51b"
+        },
+        {
+          "id": "96e9d33b-2886-43f5-a136-2263237a7c9a",
+          "title": "Implementation",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-6ec5482c28"
+        },
+        {
+          "id": "7726c87f-0630-433c-a2f0-304c8e295f95",
+          "title": "Testing",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-6cbae8d5d7"
+        },
+        {
+          "id": "07c4cc57-4acb-413e-b42b-08cb3c476bc9",
+          "title": "Release",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-f2dd491a94"
+        }
+      ],
+      "tags": [
+        "coding",
+        "development",
+        "software"
+      ],
+      "task_ids": [
+        "T-aa8a68e51b",
+        "T-627b9faaf1",
+        "T-e75e0ca3a0",
+        "T-6ec5482c28",
+        "T-f178a5267f",
+        "T-d96724168c",
+        "T-6cbae8d5d7",
+        "T-c57dfc2232",
+        "T-eac70c6257",
+        "T-f2dd491a94",
+        "T-6496805530",
+        "T-4003257363"
+      ],
+      "metadata": {
+        "template_id": "tpl_coding_v1",
+        "template_version": 1,
+        "template_name": "Coding Project",
+        "instantiated_at": "2026-09-25T09:17:07+00:00",
+        "instantiated_by": "user",
+        "variables_used": {
+          "project_name": "jarvis mobile app",
+          "description": "Created from template: Coding Project",
+          "deadline": "",
+          "priority": "MEDIUM"
+        }
+      },
+      "created_at": "2026-09-25T14:47:06.992718"
+    }
+  ]
+}

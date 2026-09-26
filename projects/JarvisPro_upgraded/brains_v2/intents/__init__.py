@@ -1,0 +1,1 @@
+from .note_intent import detect as detect_note

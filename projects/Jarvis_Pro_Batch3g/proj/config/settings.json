@@ -1,0 +1,18 @@
+{
+    "owner": "Krishna",
+    "voice": "en-US-GuyNeural",
+    "model": "qwen3:4b",
+    "wake_word": "Jarvis",
+    "continuous_listening": true,
+    "launch_on_windows": true,
+    "private_mode": true,
+    "response_diversity": "medium",
+    "response_debug": false,
+    "pipeline_debug": false,
+    "personality": {
+        "mode": "teacher"
+    },
+    "assistant": {
+        "language": "en"
+    }
+}

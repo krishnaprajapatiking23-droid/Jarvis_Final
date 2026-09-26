@@ -1,0 +1,1 @@
+from brains_v2.voice_v2.pipeline import pipeline

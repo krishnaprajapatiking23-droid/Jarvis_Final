@@ -1,0 +1,10 @@
+{
+    "_comment": "Copy this file to config/api_keys.json and fill in ONLY what you want to use. JARVIS runs fully offline on Ollama without any of these. Environment variables and a .env file override this file.",
+
+    "ollama_host": "http://127.0.0.1:11434",
+
+    "gemini_api_key": "",
+    "openrouter_api_key": "",
+    "groq_api_key": "",
+    "openweather_api_key": ""
+}

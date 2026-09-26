@@ -1,0 +1,27 @@
+[
+  {
+    "signature": "filenotfounderror notepad exe",
+    "error": "FileNotFoundError: notepad.exe",
+    "goal": "open notepad",
+    "last_goal": "open notepad",
+    "context": "",
+    "times": 20,
+    "first_seen": 1789301387.7470374,
+    "last_seen": 1789480576.4298134,
+    "fix": "",
+    "resolved": false
+  },
+  {
+    "signature": "permissionerror access denied",
+    "error": "PermissionError: access denied",
+    "goal": "launch editor",
+    "last_goal": "launch editor",
+    "context": "",
+    "times": 10,
+    "first_seen": 1789301387.7476952,
+    "last_seen": 1789480576.4301968,
+    "fix": "run it as administrator",
+    "resolved": true,
+    "resolved_at": 1789480576.4304347
+  }
+]

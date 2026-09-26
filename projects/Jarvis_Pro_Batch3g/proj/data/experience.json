@@ -1,0 +1,777 @@
+{
+    "commands": [
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-24 18:30:53"
+        },
+        {
+            "command": "open calculatorulator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-24 18:31:21"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-24 19:16:18"
+        },
+        {
+            "command": "open calculatorulator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-24 19:23:30"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:45:15"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:45:25"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:46:21"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:49:29"
+        },
+        {
+            "command": "open paint",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:51:34"
+        },
+        {
+            "command": "open cmd",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 16:54:05"
+        },
+        {
+            "command": "open cmd",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 17:32:56"
+        },
+        {
+            "command": "open explorer",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 17:34:39"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-25 17:34:49"
+        },
+        {
+            "command": "open cmd",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-26 10:35:07"
+        },
+        {
+            "command": "open cmd",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-26 10:41:05"
+        },
+        {
+            "command": "open download",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-07-26 10:41:25"
+        },
+        {
+            "command": "open cmd",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-26 12:23:33"
+        },
+        {
+            "command": "open explorer",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-26 12:23:44"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 13:13:07"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 14:55:58"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 16:46:08"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 16:55:56"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 18:55:06"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 19:01:57"
+        },
+        {
+            "command": "plan my study schedule",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-29 19:14:09"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-29 19:18:07"
+        },
+        {
+            "command": "open google.com",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-07-29 19:18:39"
+        },
+        {
+            "command": "show desktop",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-07-29 19:32:16"
+        },
+        {
+            "command": "minimize window",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-07-29 19:37:30"
+        },
+        {
+            "command": "maximize window",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-07-29 19:41:39"
+        },
+        {
+            "command": "maximize window",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-07-29 19:46:24"
+        },
+        {
+            "command": "switch window",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-07-29 19:48:48"
+        },
+        {
+            "command": "clipboard copy hello",
+            "decision": "CHAT",
+            "success": true,
+            "time": "2026-07-29 19:58:03"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 16:57:26"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 17:03:46"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 17:06:20"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 17:33:15"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 17:36:18"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 17:50:20"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 18:33:03"
+        },
+        {
+            "command": "who are you?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 18:37:16"
+        },
+        {
+            "command": "python main.py",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 18:46:19"
+        },
+        {
+            "command": "write a python program to print hello world",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 18:55:25"
+        },
+        {
+            "command": "what is artificial intelligence?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 18:58:39"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-31 18:59:24"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-07-31 19:00:06"
+        },
+        {
+            "command": "my favourite color is blue",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:00:54"
+        },
+        {
+            "command": "what is my favourite color?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:07:18"
+        },
+        {
+            "command": "what is my favourite color?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:12:25"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:18:16"
+        },
+        {
+            "command": "can you help me build jarvis?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:29:00"
+        },
+        {
+            "command": "what is ai?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-07-31 19:37:58"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-01 15:19:40"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-01 15:19:52"
+        },
+        {
+            "command": "google.com",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-01 15:20:27"
+        },
+        {
+            "command": "open chrome",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-01 15:20:37"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 15:22:26"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 15:35:24"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 15:59:38"
+        },
+        {
+            "command": "how are you",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 16:02:57"
+        },
+        {
+            "command": "who are you",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 16:06:30"
+        },
+        {
+            "command": "write python hello world",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-01 16:15:52"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-02 07:23:41"
+        },
+        {
+            "command": "hellojarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-02 07:23:48"
+        },
+        {
+            "command": "scan project",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-02 07:24:14"
+        },
+        {
+            "command": "scan project",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-02 07:46:36"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:14:07"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:14:13"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:14:21"
+        },
+        {
+            "command": "what is ai",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:14:36"
+        },
+        {
+            "command": "what is ai?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:14:56"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-07 16:17:56"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-07 16:18:04"
+        },
+        {
+            "command": "open chrome",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-07 16:18:20"
+        },
+        {
+            "command": "who is elon musk?",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:20:10"
+        },
+        {
+            "command": "explain python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:21:11"
+        },
+        {
+            "command": "my favourite color is black.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:22:37"
+        },
+        {
+            "command": "my favourite color is black.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:22:41"
+        },
+        {
+            "command": "add note buy milk",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:43:36"
+        },
+        {
+            "command": "add note buy milk",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 16:53:37"
+        },
+        {
+            "command": "add note buy milk",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 17:14:25"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 17:21:57"
+        },
+        {
+            "command": "add note buy milk",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-07 17:22:17"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:15:17"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:15:20"
+        },
+        {
+            "command": "what is ai",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:15:23"
+        },
+        {
+            "command": "who is elon musk",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:15:30"
+        },
+        {
+            "command": "who are you",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:15:51"
+        },
+        {
+            "command": "show note",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:17:07"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-09 11:17:48"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-09 11:17:56"
+        },
+        {
+            "command": "open instagram",
+            "decision": "OPEN",
+            "success": false,
+            "time": "2026-08-09 11:18:05"
+        },
+        {
+            "command": "remind me tomorrow at 5 pm to study",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:18:36"
+        },
+        {
+            "command": "explain python",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:19:00"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 11:51:22"
+        },
+        {
+            "command": "explain me python",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 12:05:34"
+        },
+        {
+            "command": "your favourite color is black.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-09 12:54:59"
+        },
+        {
+            "command": "del note 7, 8 and 6",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-10 19:20:10"
+        },
+        {
+            "command": "del note 6",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-10 19:29:42"
+        },
+        {
+            "command": "hello jarvis",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-11 17:18:10"
+        },
+        {
+            "command": "show reminder",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-11 17:26:14"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-11 17:28:36"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-11 17:28:46"
+        },
+        {
+            "command": "explain python",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-11 17:39:58"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:04:10"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:04:11"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-30 09:05:31"
+        },
+        {
+            "command": "open paint",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:06:02"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-30 09:10:01"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-30 09:15:36"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:43:06"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:43:07"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-30 09:48:14"
+        },
+        {
+            "command": "open paint",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-30 09:49:02"
+        },
+        {
+            "command": "write python hello world",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-31 16:06:55"
+        },
+        {
+            "command": "opennotepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-31 16:15:08"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-31 19:17:39"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-31 19:17:40"
+        },
+        {
+            "command": "hello",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-08-31 19:19:27"
+        },
+        {
+            "command": "open notepad",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-31 19:32:20"
+        },
+        {
+            "command": "open calculator",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-08-31 19:32:21"
+        },
+        {
+            "command": "my favorite programming language is python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-08 20:03:04"
+        },
+        {
+            "command": "my favorite programming language is python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-08 20:12:13"
+        },
+        {
+            "command": "my favorite programming language is python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-08 20:27:46"
+        },
+        {
+            "command": "my favorite programming language is python.",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-08 21:33:39"
+        },
+        {
+            "command": "open chrome",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-16 21:54:21"
+        },
+        {
+            "command": "open chrome",
+            "decision": "OPEN",
+            "success": true,
+            "time": "2026-09-16 21:57:45"
+        },
+        {
+            "command": "thanks",
+            "decision": "CHAT",
+            "success": false,
+            "time": "2026-09-16 21:59:04"
+        }
+    ],
+    "statistics": {},
+    "mistakes": [],
+    "successes": [],
+    "predictions": {},
+    "habits": {}
+}

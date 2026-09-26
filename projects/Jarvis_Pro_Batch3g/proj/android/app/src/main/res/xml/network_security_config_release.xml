@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Production / release configuration (BUG 3).
+
+  No cleartext anywhere: release builds must use wss:// with a trusted
+  certificate. Production security is never weakened to make local testing
+  or a test assertion pass; local ws:// belongs to the debug config only.
+-->
+<network-security-config>
+
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+</network-security-config>

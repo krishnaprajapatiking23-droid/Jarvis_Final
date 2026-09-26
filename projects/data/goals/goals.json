@@ -1,0 +1,276 @@
+{
+  "goals": [
+    {
+      "id": "1d58376a-781c-4764-87b0-d1665e17b3e5",
+      "title": "jarvis mobile app",
+      "description": "Created from template: Coding Project",
+      "status": "active",
+      "priority": "MEDIUM",
+      "category": "project",
+      "progress": 0.0,
+      "deadline": null,
+      "milestones": [
+        {
+          "id": "ccaa172c-1a1a-4602-881c-37ed266d2676",
+          "title": "Planning",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-4ac9daa74e"
+        },
+        {
+          "id": "8275a02a-3112-468d-b575-c4fc11b7ece2",
+          "title": "Implementation",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-897aa43944"
+        },
+        {
+          "id": "3bbe1a7c-eff3-4c49-8b3d-abc13600908b",
+          "title": "Testing",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-7158c804f8"
+        },
+        {
+          "id": "28ba7cdd-3a0e-4395-84ec-8df750e91986",
+          "title": "Release",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-7f4ab86263"
+        }
+      ],
+      "tags": [
+        "coding",
+        "development",
+        "software"
+      ],
+      "task_ids": [
+        "T-4ac9daa74e",
+        "T-cdc5092261",
+        "T-fec6cc931e",
+        "T-897aa43944",
+        "T-b67fb310c6",
+        "T-3c97be57a7",
+        "T-7158c804f8",
+        "T-42a698d7e1",
+        "T-f21763350c",
+        "T-7f4ab86263",
+        "T-27616333d6",
+        "T-27f50b6525"
+      ],
+      "created_at": "2026-09-25T14:18:50.790233"
+    },
+    {
+      "id": "e69bad5a-9aeb-4981-939c-9570059ad48a",
+      "title": "jarvis mobile app",
+      "description": "Created from template: Coding Project",
+      "status": "active",
+      "priority": "MEDIUM",
+      "category": "project",
+      "progress": 0.0,
+      "deadline": null,
+      "milestones": [
+        {
+          "id": "bba84c8c-a766-42e7-86ce-d1638639435c",
+          "title": "Planning",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-75656450d5"
+        },
+        {
+          "id": "74ff1d7e-b248-4263-a1ab-7ed67dbdf7a9",
+          "title": "Implementation",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-6bc02ac28d"
+        },
+        {
+          "id": "a72e15f6-5328-4140-bb31-7a68ebb9a1d7",
+          "title": "Testing",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-484803adf1"
+        },
+        {
+          "id": "02f08651-f48e-4dc4-b2e8-fc582d43f199",
+          "title": "Release",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-a28a1d17c1"
+        }
+      ],
+      "tags": [
+        "coding",
+        "development",
+        "software"
+      ],
+      "task_ids": [
+        "T-75656450d5",
+        "T-0afde5bb0b",
+        "T-34802809db",
+        "T-6bc02ac28d",
+        "T-e425719521",
+        "T-bdaec5e2c2",
+        "T-484803adf1",
+        "T-eb0c0d4f4d",
+        "T-d588c220e4",
+        "T-a28a1d17c1",
+        "T-4302c3f9e3",
+        "T-f483d9a8bf"
+      ],
+      "created_at": "2026-09-25T14:19:09.924175"
+    },
+    {
+      "id": "f35d0064-8ad9-41dd-94a7-4e860b421016",
+      "title": "jarvis mobile app",
+      "description": "Created from template: Coding Project",
+      "status": "active",
+      "priority": "MEDIUM",
+      "category": "project",
+      "progress": 0.0,
+      "deadline": null,
+      "milestones": [
+        {
+          "id": "d1968ce7-2427-4d42-bf26-2166fff12641",
+          "title": "Planning",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-0472484232"
+        },
+        {
+          "id": "29a0499d-af84-4c24-9c69-b0af498404d6",
+          "title": "Implementation",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-be84484d17"
+        },
+        {
+          "id": "da72c27c-6170-443f-a453-f149621f63c0",
+          "title": "Testing",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-cc06cdbdc9"
+        },
+        {
+          "id": "3663ffd9-7a28-4ed4-861d-2d0b2db639c5",
+          "title": "Release",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-3284f350b9"
+        }
+      ],
+      "tags": [
+        "coding",
+        "development",
+        "software"
+      ],
+      "task_ids": [
+        "T-0472484232",
+        "T-e1e17df9aa",
+        "T-707928f3d5",
+        "T-be84484d17",
+        "T-7e259055d3",
+        "T-4fdcfcf124",
+        "T-cc06cdbdc9",
+        "T-826205fd6e",
+        "T-85965df913",
+        "T-3284f350b9",
+        "T-a823ebe172",
+        "T-aedfc50aa0"
+      ],
+      "created_at": "2026-09-25T14:19:36.060735"
+    },
+    {
+      "id": "f397859a-98a7-4f0e-bc32-2804b16f44de",
+      "title": "jarvis mobile app",
+      "description": "Created from template: Coding Project",
+      "status": "active",
+      "priority": "MEDIUM",
+      "category": "project",
+      "progress": 0.0,
+      "deadline": null,
+      "milestones": [
+        {
+          "id": "b9e3c8bc-be0c-44c0-90e7-5c83720b7a68",
+          "title": "Planning",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-a9d7914820"
+        },
+        {
+          "id": "57856459-54ac-4378-a08c-731d7a5e2e06",
+          "title": "Implementation",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-1b2ea400b5"
+        },
+        {
+          "id": "758a771d-df86-4b51-988c-0d497a160d0a",
+          "title": "Testing",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-9ee74605b0"
+        },
+        {
+          "id": "5e4f609b-d351-4137-a33f-ef124bc24a80",
+          "title": "Release",
+          "completed": false,
+          "completed_at": null,
+          "deadline": null,
+          "notes": "",
+          "task_id": "T-9fb892c6e6"
+        }
+      ],
+      "tags": [
+        "coding",
+        "development",
+        "software"
+      ],
+      "task_ids": [
+        "T-a9d7914820",
+        "T-9dfcec29e1",
+        "T-db6cb0e066",
+        "T-1b2ea400b5",
+        "T-ed1757ed7a",
+        "T-6b009c285d",
+        "T-9ee74605b0",
+        "T-a8e463ca94",
+        "T-05356f7680",
+        "T-9fb892c6e6",
+        "T-de7a33f281",
+        "T-88b0fb2f30"
+      ],
+      "created_at": "2026-09-25T14:20:03.223212"
+    }
+  ]
+}

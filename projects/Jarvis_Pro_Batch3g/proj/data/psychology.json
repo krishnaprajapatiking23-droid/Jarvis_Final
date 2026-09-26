@@ -1,0 +1,20 @@
+{
+    "owner": {
+        "confidence": 65,
+        "social_confidence": 45,
+        "stress": 20,
+        "communication": 50,
+        "leadership": 50,
+        "focus": 70,
+        "personality": {
+            "introversion": 50,
+            "confidence": 50,
+            "curiosity": 50,
+            "discipline": 50,
+            "leadership": 50,
+            "patience": 50,
+            "optimism": 50,
+            "growth_mindset": 50
+        }
+    }
+}
